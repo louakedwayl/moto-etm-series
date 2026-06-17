@@ -1,0 +1,651 @@
+{
+  "id": "serie7",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": 306,
+      "scene": "scene_212.png",
+      "question": "Ce panneau indique :",
+      "answers": [
+        "Une obligation d’aller tout droit",
+        "Un sens unique",
+        "Une interdiction de tourner",
+        "Une priorité ponctuelle"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ce panneau indique une route à sens unique. Les véhicules circulent dans un seul sens sur cette voie."
+    },
+    {
+      "id": 315,
+      "scene": "scene_216.png",
+      "type": "statements",
+      "question": "Sur ce panneau :",
+      "statements": [
+        {
+          "text": "La grande flèche blanche indique le sens prioritaire ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "La petite flèche rouge indique le sens non prioritaire ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "La grande flèche blanche indique le sens qui bénéficie de la priorité. La petite flèche rouge indique le sens qui doit céder le passage."
+    },
+    {
+      "id": 326,
+      "scene": "scene_224.png",
+      "question": "À 130 km/h, je laisse un intervalle de sécurité minimum de :",
+      "answers": [
+        "50 m",
+        "75 m",
+        "100 m",
+        "120 m"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "À 130 km/h, la distance de sécurité correspond à environ 2 secondes, soit environ 75 mètres. Cet intervalle permet de réagir en cas de ralentissement ou de danger."
+    },
+    {
+      "id": 333,
+      "scene": "scene_227.png",
+      "question": "Ce virage peut masquer un véhicule arrivant en sens inverse :",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Dans un virage, la visibilité peut être réduite par la courbe et la végétation. Je dois donc anticiper la présence possible d’un véhicule en sens inverse."
+    },
+    {
+      "id": 345,
+      "scene": "scene_236.png",
+      "photo": {
+        "fit": "contain",
+        "height": 300
+      },
+      "type": "statements",
+      "statements": [
+        {
+          "text": "La moto doit vérifier à gauche avant de s’engager dans le giratoire",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Si aucun véhicule n’arrive à gauche, la moto peut s’engager",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Avant d’entrer dans un giratoire, il faut vérifier les véhicules déjà engagés qui arrivent de la gauche. Si aucun véhicule ne risque d’être gêné, la moto peut s’engager."
+    },
+    {
+      "id": 357,
+      "scene": "scene_243.png",
+      "photo": {
+        "fit": "contain",
+        "height": 300
+      },
+      "question": "Pour sortir à la deuxième sortie du giratoire, je dois suivre la trajectoire :",
+      "answers": [
+        "A",
+        "B"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Pour prendre la deuxième sortie du giratoire, la trajectoire B est la plus adaptée. Elle permet de rester dans la voie de droite et de rejoindre la sortie progressivement."
+    },
+    {
+      "id": 378,
+      "scene": "scene_260.png",
+      "question": "Je peux tourner à gauche à la prochaine intersection :",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Le panneau indique une interdiction de tourner à gauche à la prochaine intersection. Je dois donc continuer tout droit ou choisir une autre direction autorisée."
+    },
+    {
+      "id": 391,
+      "scene": "scene_268.png",
+      "question": "La frein avant et le frein arrière se situent :",
+      "answers": [
+        "Du côté gauche de la moto",
+        "Du côté droit de la moto"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Sur une moto, les commandes de frein sont généralement à droite. La poignée commande le frein avant et la pédale commande le frein arrière."
+    },
+    {
+      "id": 396,
+      "scene": "scene_270.png",
+      "question": "En 1 seconde, à 80 km/h, je parcours environ :",
+      "answers": [
+        "8 mètres",
+        "15 mètres",
+        "22 mètres"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Pour estimer la distance parcourue en 1 seconde, on divise la vitesse par 3,6. À 80 km/h, cela donne environ 22 mètres par seconde."
+    },
+    {
+      "id": 202,
+      "scene": "scene_138.png",
+      "question": "En cas de brouillard avec une visibilité inférieure à 50 mètres, ma vitesse est limitée sur autoroute à :",
+      "answers": [
+        "50 km/h",
+        "80 km/h",
+        "110 km/h",
+        "130 km/h"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Lorsque la visibilité est inférieure à 50 mètres, la vitesse est limitée à 50 km/h, même sur autoroute. Cette limitation permet de garder une distance suffisante pour réagir en cas de danger."
+    },
+    {
+      "id": 217,
+      "scene": "scene_156.png",
+      "type": "statements",
+      "question": "Avant de prendre la route :",
+      "statements": [
+        {
+          "text": "Je contrôle le bon fonctionnement des feux avant ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Je contrôle le bon fonctionnement des commodos ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Avant chaque départ, il est important de vérifier le bon fonctionnement des équipements de commande et de signalisation. Cela contribue à votre sécurité et à celle des autres usagers."
+    },
+    {
+      "id": 237,
+      "scene": "scene_166.png",
+      "question": "Ce panneau m’interdit-il de m’arrêter quelques secondes ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ce panneau interdit le stationnement, mais il n’interdit pas l’arrêt. Je peux m’arrêter brièvement pour faire monter ou descendre un passager."
+    },
+    {
+      "id": 257,
+      "scene": "scene_178.png",
+      "question": "En cas de chute, le passager risque-t-il une aggravation des blessures à la colonne vertébrale ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Transporter un objet rigide dans le dos est dangereux à moto. En cas de chute, il peut appuyer violemment sur le dos et aggraver les blessures à la colonne vertébrale."
+    },
+    {
+      "id": 261,
+      "scene": "scene_182.png",
+      "question": "La zone d'incertitude d'un cyclomotoriste est-elle plus large que celle d'un motocycliste ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Un cyclomotoriste est généralement moins visible et peut avoir des réactions moins prévisibles. Il convient donc d'augmenter sa vigilance à son approche."
+    },
+    {
+      "id": 268,
+      "scene": "scene_185.png",
+      "question": "Pour un excès de vitesse de 50 km/h ou plus au-dessus de la limite autorisée, je risque la perte de ?",
+      "answers": [
+        "3 points",
+        "4 points",
+        "5 points",
+        "6 points"
+      ],
+      "correct": [
+        3
+      ],
+      "explanation": "Un excès de vitesse de 50 km/h ou plus au-dessus de la limite autorisée entraîne le retrait de 6 points. C'est la tranche la plus grave pour les excès de vitesse."
+    },
+    {
+      "id": 274,
+      "scene": "scene_189.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Ce virage dispose d'une sécurité passive pour les motards",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Je dois en tenir compte dans le choix de mon allure",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        1,
+        2
+      ],
+      "explanation": "Les glissières métalliques ne protègent pas efficacement les motards et peuvent aggraver les blessures en cas de chute. Il faut donc adapter son allure en conséquence."
+    },
+    {
+      "id": 281,
+      "scene": "scene_192.png",
+      "question": "Je compense l'effet du vent qui me poussera vers :",
+      "answers": [
+        "La droite",
+        "La gauche"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "La manche à air pointe vers la droite, ce qui indique un vent soufflant de la gauche. Le vent va donc pousser le motard vers la droite."
+    },
+    {
+      "id": 296,
+      "scene": "scene_198.png",
+      "question": "En moyenne, un motard parcourt environ :",
+      "answers": [
+        "4 000 km par an",
+        "8 000 km par an"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Un motard parcourt en moyenne environ 4 000 kilomètres par an. Ce kilométrage reste inférieur à celui d’une voiture, car la moto est souvent utilisée de façon plus occasionnelle."
+    },
+    {
+      "id": 108,
+      "scene": "scene_064.png",
+      "question": "Dois-je céder le passage au piéton ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Le piéton est engagé sur le passage piéton, je dois donc m'arrêter pour le laisser traverser. Je ne repars que lorsque la voie est libre."
+    },
+    {
+      "id": 119,
+      "scene": "scene_073.png",
+      "question": "À moto, la surface de contact des pneus avec la route est :",
+      "answers": [
+        "Très réduite",
+        "Très large",
+        "Identique à celle d'une voiture"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "À moto, les pneus touchent la route sur une surface très réduite. C'est pourquoi leur état et leur pression sont essentiels pour garder une bonne adhérence."
+    },
+    {
+      "id": 131,
+      "scene": "scene_079.png",
+      "type": "statements",
+      "question": "Si mon casque ne possède pas d’étiquette d’homologation",
+      "statements": [
+        {
+          "text": "Je peux l’utiliser pour circuler à moto",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Il ne permet pas de vérifier son homologation",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        1,
+        2
+      ],
+      "explanation": "Pour circuler à moto, le casque doit porter une étiquette d’homologation. Sans cette étiquette, il n’est pas possible de vérifier qu’il respecte une norme autorisée."
+    },
+    {
+      "id": 140,
+      "scene": "scene_083.png",
+      "question": "En cas de conduite après usage de cannabis, mon véhicule peut-il être immobilisé ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "En cas de conduite après usage de stupéfiants, le véhicule peut être immobilisé. Cette mesure peut s'ajouter aux sanctions sur le permis."
+    },
+    {
+      "id": 155,
+      "scene": "scene_096.png",
+      "question": "En conservant ma trajectoire, vais-je entrer dans la zone d'incertitude des piétons ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Les piétons sont proches du passage piéton et peuvent décider de traverser. En gardant la même trajectoire, je dois anticiper cette zone d'incertitude et ralentir."
+    },
+    {
+      "id": 166,
+      "scene": "scene_106.png",
+      "photo": {
+        "backgroundColor": "#ffffff",
+        "fit": "contain",
+        "height": 320
+      },
+      "question": "Ce type de panneau est-il placé avant chaque virage ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ce panneau annonce un virage dangereux à gauche. Il n'est pas placé avant chaque virage, seulement lorsqu'un danger particulier doit être signalé."
+    },
+    {
+      "id": 189,
+      "scene": "scene_127.png",
+      "question": "Il est recommandé d’adapter le régime moteur :",
+      "answers": [
+        "Avant d’incliner la moto",
+        "Pendant l’inclinaison"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Il est préférable d’adapter son allure et son régime moteur avant d’incliner la moto. Pendant l’inclinaison, il faut garder une conduite souple et éviter les changements brusques."
+    },
+    {
+      "id": 200,
+      "scene": "scene_135.png",
+      "question": "La solidarité entre motards se traduit-elle par une bienveillance en cas de panne ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "La solidarité entre motards consiste à rester attentif aux autres usagers à deux roues. En cas de panne, elle peut se traduire par une aide ou une attitude bienveillante."
+    },
+    {
+      "id": 8,
+      "scene": "scene_003.jpg",
+      "question": "Un verre de whisky servi au bar contient plus d'alcool qu'un verre de bière servi au bar.",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "En France, tous les verres servis dans un bar sont standardisés autour de la notion d'unité d'alcool : qu'il s'agisse d'un verre de bière ou d'un verre de vin, chacun contient environ dix grammes d'alcool pur."
+    },
+    {
+      "id": 14,
+      "scene": "scene_018.jpg",
+      "question": "À partir de quel taux mesuré à l'éthylomètre un conducteur confirmé commet-il un délit et non plus une simple contravention ?",
+      "answers": [
+        "0,25 milligramme par litre d'air expiré",
+        "0,40 milligramme par litre d'air expiré",
+        "0,50 milligramme par litre d'air expiré",
+        "0,80 milligramme par litre d'air expiré"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "À partir de 0,40 mg/L d'air expiré, il s'agit d'un délit. Le conducteur risque une forte amende, une peine d'emprisonnement, une suspension ou une annulation du permis, ainsi qu'un retrait de 6 points."
+    },
+    {
+      "id": 26,
+      "scene": "scene_010.jpg",
+      "type": "statements",
+      "question": "En circulant avec des pneus usés",
+      "statements": [
+        {
+          "text": "Je diminue la capacité du pneu à évacuer l'eau",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Je risque une perte de points sur mon permis",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        3
+      ],
+      "explanation": "Des pneus usés évacuent moins bien l'eau et adhèrent moins sur route mouillée. Ils augmentent donc le risque d'aquaplanage. En cas de pneus lisses ou abîmés, il peut y avoir amende et immobilisation, mais pas de retrait de points."
+    },
+    {
+      "id": 36,
+      "scene": "scene_013.png",
+      "question": "Je prends deux médicaments niveau 1 en même temps. Quel est le risque ?",
+      "answers": [
+        "Aucun risque, le niveau 1 reste autorisé à la conduite",
+        "Les effets peuvent se cumuler et atteindre un niveau de danger supérieur",
+        "Le risque est réduit car les médicaments s'annulent entre eux",
+        "Je dois simplement attendre une heure après la prise avant de conduire"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Deux médicaments niveau 1 pris simultanément peuvent voir leurs effets se multiplier et devenir aussi dangereux qu'un niveau 2 ou 3. En cas de doute sur une association de traitements, demandez toujours l'avis de votre médecin ou de votre pharmacien avant de conduire."
+    },
+    {
+      "id": 40,
+      "scene": "scene_015.jpg",
+      "question": "Un casque trop lourd peut-il provoquer des lésions cervicales ?",
+      "answers": [
+        "Oui, en cas de choc ou sur de longues distances",
+        "Non, le casque ne peut pas blesser la nuque"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Un casque lourd exerce une contrainte permanente sur les vertèbres cervicales. En cas de chute, cette masse amplifie les forces exercées sur le cou et peut aggraver les traumatismes."
+    },
+    {
+      "id": 44,
+      "scene": "scene_020.png",
+      "question": "Posséder un constat amiable dans son véhicule est",
+      "answers": [
+        "Obligatoire",
+        "Facultatif"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Le constat amiable n'est pas obligatoire mais fortement recommandé. Il simplifie les démarches avec votre assurance en cas d'accident matériel."
+    },
+    {
+      "id": 63,
+      "scene": "scene_028.png",
+      "question": "Sous la pluie, je dois gérer mes actions de conduite en :",
+      "answers": [
+        "Agissant rapidement et avec précision",
+        "Agissant progressivement et en douceur",
+        "Anticipant moins car la route est plus prévisible"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Sur sol mouillé, tout geste brusque au frein, à l'accélérateur ou au guidon peut provoquer une perte d'adhérence. La fluidité et la progressivité sont essentielles pour garder le contrôle."
+    },
+    {
+      "id": 65,
+      "scene": "scene_029.png",
+      "question": "Les feux de ce carrefour sont en panne. Je peux traverser sans ralentir.",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Un feu éteint transforme le carrefour en intersection non réglée. Vous devez ralentir et céder le passage au véhicule venant de votre droite."
+    },
+    {
+      "id": 71,
+      "scene": "scene_035.png",
+      "question": "À moto, des ampoules de rechange sont obligatoires à bord du véhicule.",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "En France, les ampoules de rechange ne sont obligatoires ni à moto ni en voiture, même si c'est fortement conseillé pour éviter une immobilisation en cas de panne."
+    },
+    {
+      "id": 75,
+      "scene": "scene_038.png",
+      "question": "Sur cette autoroute, la vitesse maximale autorisée est de",
+      "answers": [
+        "110 km/h",
+        "130 km/h",
+        "150 km/h"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Sur autoroute en France, la vitesse maximale est de 130 km/h par temps sec pour tous les véhicules à moteur. Elle est abaissée à 110 km/h en cas de pluie ou de visibilité réduite."
+    },
+    {
+      "id": 77,
+      "scene": "scene_040.png",
+      "question": "En cas de panne dans un tunnel, pour alerter les secours j'utilise en priorité",
+      "answers": [
+        "Le téléphone portable",
+        "Les bornes d'appel d'urgence"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Dans un tunnel, les bornes d'appel d'urgence sont le moyen privilégié pour alerter les secours car elles transmettent directement votre position. Le téléphone portable est à réserver aux situations où aucune borne n'est accessible."
+    },
+    {
+      "id": 78,
+      "scene": "scene_041.png",
+      "type": "statements",
+      "question": "",
+      "statements": [
+        {
+          "text": "Les radars sont souvent implantés dans des zones à risque ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Le danger peut être réel même s'il est difficile à percevoir ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Les radars sont souvent placés dans des zones où le risque d'accident est plus élevé. Même si la route paraît dégagée, un virage, une entrée d'agglomération ou un marquage au sol peuvent signaler un danger."
+    },
+    {
+      "id": 83,
+      "scene": "scene_045.png",
+      "question": "Les accidents mortels à moto sont plus nombreux",
+      "answers": [
+        "En été",
+        "En hiver"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "En été, les motos sont bien plus nombreuses sur la route, ce qui augmente mécaniquement le nombre d'accidents graves. La surconfiance liée aux bonnes conditions météo pousse aussi certains motards à prendre plus de risques."
+    },
+    {
+      "id": 93,
+      "scene": "scene_042.png",
+      "question": "Pour freiner dans un virage j'utilise le frein",
+      "answers": [
+        "Frein avant",
+        "Frein arrière"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Dans un virage, le frein avant peut faire chuter la moto en perturbant l'équilibre. Le frein arrière permet de ralentir progressivement sans risque de perte de contrôle."
+    }
+  ]
+}

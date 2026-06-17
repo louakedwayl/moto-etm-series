@@ -1,0 +1,681 @@
+{
+  "id": "serie2",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": 301,
+      "scene": "scene_207.png",
+      "type": "statements",
+      "question": "",
+      "statements": [
+        {
+          "text": "Dans un lieu touristique la distraction des usagers est plus importante",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "J’augmente mon intervalle de sécurité avec",
+          "answers": [
+            "Les automobilistes",
+            "Les piétons"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Dans les lieux touristiques, les usagers peuvent être plus distraits et moins attentifs à la circulation. Il faut donc augmenter son intervalle de sécurité avec les automobilistes et les piétons."
+    },
+    {
+      "id": 310,
+      "scene": "scene_214.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "À l’approche de ce panneau, je dois ralentir et observer ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Je peux passer sans m’arrêter si la voie est libre ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Le cédez-le-passage n’impose pas l’arrêt si la voie est libre. Il faut ralentir, observer et laisser passer les usagers prioritaires avant de s’engager."
+    },
+    {
+      "id": 322,
+      "scene": "scene_220.png",
+      "question": "Un panneau rond à fond bleu indique le plus souvent :",
+      "answers": [
+        "Une obligation",
+        "Un danger",
+        "Une interdiction",
+        "Une indication"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Un panneau rond à fond bleu indique le plus souvent une obligation. Ici, il impose de tourner à gauche."
+    },
+    {
+      "id": 328,
+      "scene": "scene_223.png",
+      "question": "À 90 km/h, je laisse un intervalle de sécurité minimum de :",
+      "answers": [
+        "30 m",
+        "50 m",
+        "70 m",
+        "90 m"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "À 90 km/h, la distance de sécurité correspond à environ 2 secondes, soit environ 50 mètres. Cet intervalle permet de garder le temps de réagir en cas de ralentissement ou de danger."
+    },
+    {
+      "id": 335,
+      "scene": "scene_228.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Ai-je le droit de stationner ma moto sur ce trottoir",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "La moto peut gêner la circulation des piétons",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        1,
+        2
+      ],
+      "explanation": "Le trottoir est réservé en priorité aux piétons. Une moto stationnée à cet endroit peut gêner leur circulation."
+    },
+    {
+      "id": 347,
+      "scene": "scene_237.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Je dois privilégier les emplacements réservés aux deux-roues pour stationner ma moto",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Une moto peut stationner sur un trottoir si elle ne gêne pas",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        3
+      ],
+      "explanation": "En ville, il faut utiliser les emplacements prévus pour les deux-roues afin de ne pas gêner les autres usagers. Le stationnement sur trottoir reste interdit, même si la moto semble ne pas gêner."
+    },
+    {
+      "id": 360,
+      "scene": "scene_246.png",
+      "question": "Statistiquement, sur quel type de réseau le risque d'accident grave est-il le plus faible ?",
+      "answers": [
+        "L'autoroute",
+        "La route nationale",
+        "La route départementale"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "L'autoroute est statistiquement le réseau le plus sûr en matière de gravité des accidents. Les sens de circulation sont séparés et les intersections sont supprimées, ce qui réduit certains risques."
+    },
+    {
+      "id": 364,
+      "scene": "scene_249.png",
+      "type": "statements",
+      "question": "Pour réduire ma consommation de carburant à moto, je peux :",
+      "statements": [
+        {
+          "text": "Passer les rapports au bon moment",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Rester constamment à haut régime",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        3
+      ],
+      "explanation": "Passer les rapports au bon moment permet de limiter la consommation. Rester constamment à haut régime augmente la consommation et les émissions polluantes."
+    },
+    {
+      "id": 365,
+      "scene": "scene_250.png",
+      "question": "Le feu passe au jaune",
+      "answers": [
+        "Je m'arrête",
+        "Je passe avec prudence"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Lorsque le feu passe au jaune, je dois m'arrêter si je peux le faire sans danger. Je ne passe que si l'arrêt est impossible ou dangereux."
+    },
+    {
+      "id": 372,
+      "scene": "scene_254.png",
+      "question": "Je suis en période de permis probatoire. Ma vitesse est ici limitée :",
+      "answers": [
+        "À 100 km/h",
+        "À 110 km/h",
+        "À 130 km/h"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Sur autoroute, la vitesse maximale est de 130 km/h pour un conducteur confirmé. En période probatoire, elle est limitée à 110 km/h."
+    },
+    {
+      "id": 385,
+      "scene": "scene_263.png",
+      "type": "statements",
+      "question": "Lorsque je charge ma moto :",
+      "statements": [
+        {
+          "text": "Je place les objets lourds le plus bas possible",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "J’équilibre les charges à gauche et à droite",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Les objets lourds doivent être placés le plus bas possible pour garder une bonne stabilité. Il faut aussi équilibrer les charges des deux côtés pour éviter de déséquilibrer la moto."
+    },
+    {
+      "id": 388,
+      "scene": "scene_266.png",
+      "question": "Si un motard est blessé dans un accident, il est préférable de lui retirer son casque pour l’aider à respirer :",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Il ne faut pas retirer le casque d’un motard blessé, car cela peut aggraver une blessure au cou ou à la colonne vertébrale. Il faut alerter les secours et suivre leurs consignes."
+    },
+    {
+      "id": 398,
+      "scene": "scene_272.png",
+      "question": "Pour garantir ma sécurité et une protection efficace, je peux acheter un casque d’occasion",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Un casque d’occasion peut avoir subi un choc invisible qui réduit fortement sa protection. Il est donc recommandé d’utiliser un casque neuf et homologué."
+    },
+    {
+      "id": 205,
+      "scene": "scene_131.png",
+      "question": "La première année suivant l'obtention de mon permis, je risque de le perdre avec une seule infraction si :",
+      "answers": [
+        "Je conduis en utilisant mon téléphone",
+        "Je ne cède pas le passage à un piéton",
+        "Je commets un refus d’obtempérer",
+        "Je conduis avec une alcoolémie de 0,2 gramme par litre de sang"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ],
+      "explanation": "La première année, le permis probatoire ne compte que 6 points. Certaines infractions entraînent un retrait de 6 points et peuvent donc faire perdre le permis en une seule fois."
+    },
+    {
+      "id": 210,
+      "scene": "scene_145.png",
+      "question": "Le témoin vert N indique-t-il que je suis au point mort ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Le témoin vert N indique que la boîte de vitesses est au point mort. La moto n'est donc pas engagée sur un rapport."
+    },
+    {
+      "id": 227,
+      "scene": "scene_162.png",
+      "question": "Ce panneau m’interdit-il de dépasser une moto avec side-car ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ce panneau interdit aux véhicules à moteur de dépasser d’autres véhicules à moteur. Le dépassement d’un deux-roues sans side-car reste autorisé si la manœuvre est faite sans danger."
+    },
+    {
+      "id": 236,
+      "scene": "scene_166.png",
+      "question": "Ce panneau m’interdit-il de stationner ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ce panneau interdit le stationnement. Je ne peux donc pas laisser mon véhicule garé à cet endroit."
+    },
+    {
+      "id": 241,
+      "scene": "scene_167.png",
+      "question": "Ce panneau indique-t-il une route prioritaire sur plusieurs intersections ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ce panneau indique une route à caractère prioritaire. La priorité s’applique sur plusieurs intersections, jusqu’à un panneau de fin ou une autre signalisation."
+    },
+    {
+      "id": 244,
+      "scene": "scene_146.png",
+      "question": "Une moto sportive est principalement conçue pour :",
+      "answers": [
+        "Une conduite confortable en ville",
+        "Une conduite dynamique sur route ou sur circuit",
+        "Les longs trajets avec beaucoup de bagages",
+        "Le transport régulier d’un passager"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Une moto sportive est conçue pour offrir de bonnes performances et une conduite dynamique. Sa position de conduite est moins adaptée au confort, aux longs trajets ou au transport régulier d’un passager."
+    },
+    {
+      "id": 251,
+      "scene": "scene_174.png",
+      "question": "Les deux-roues motorisés représentent environ quelle part du trafic motorisé ?",
+      "answers": [
+        "Moins de 2 %",
+        "Environ 10 %",
+        "Environ 25 %",
+        "Environ 40 %"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Les deux-roues motorisés représentent une faible part du trafic motorisé. Pourtant, ils sont très présents dans les accidents graves."
+    },
+    {
+      "id": 256,
+      "scene": "scene_177.png",
+      "question": "En cas de chute, le conducteur risque-t-il une aggravation des blessures à la colonne vertébrale ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Transporter un objet rigide dans le dos est dangereux à moto. En cas de chute, il peut appuyer violemment sur le dos et aggraver les blessures à la colonne vertébrale."
+    },
+    {
+      "id": 259,
+      "scene": "scene_180.png",
+      "question": "L'usage d'un défibrillateur automatisé externe (DAE) est-il réservé aux professionnels de santé ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Le défibrillateur automatisé externe est conçu pour être utilisé par toute personne témoin d'un arrêt cardiaque. Il guide l'utilisateur grâce à des instructions vocales simples et claires."
+    },
+    {
+      "id": 270,
+      "scene": "scene_186.png",
+      "question": "Une bulle de moto ajustable est un élément de sécurité :",
+      "answers": [
+        "Active",
+        "Passive"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Une bulle ajustable protège le motard du vent, de la pluie et des projections. Elle améliore le confort et aide à garder une meilleure maîtrise de la moto."
+    },
+    {
+      "id": 275,
+      "scene": "scene_190.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Ce virage dispose d'une sécurité passive pour les motards",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Je dois en tenir compte dans le choix de mon allure",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        1,
+        2
+      ],
+      "explanation": "Les glissières métalliques ne protègent pas efficacement les motards et peuvent aggraver les blessures en cas de chute. Il faut donc adapter son allure en conséquence."
+    },
+    {
+      "id": 280,
+      "scene": "scene_191.png",
+      "question": "Je compense l'effet du vent qui me poussera vers :",
+      "answers": [
+        "La droite",
+        "La gauche"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "La manche à air pointe vers la gauche, ce qui indique un vent soufflant de la droite. Le vent va donc pousser le motard vers la gauche."
+    },
+    {
+      "id": 283,
+      "scene": "scene_189.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Freiner influe sur la stabilité de la moto",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Il est possible d'utiliser le frein arrière dans un virage",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Freiner en virage modifie l'équilibre de la moto et peut provoquer une chute. Le frein arrière peut être utilisé avec douceur en virage, contrairement au frein avant qui risque de faire chuter la moto."
+    },
+    {
+      "id": 290,
+      "scene": "scene_199.png",
+      "question": "Je ne croise jamais d’animaux sauvages sur cette route. J’ignore ce panneau :",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Même si le danger semble rare, ce panneau annonce un risque réel de passage d’animaux sauvages. Il faut rester vigilant et adapter son allure."
+    },
+    {
+      "id": 102,
+      "scene": "scene_058.png",
+      "question": "Une chaussée en mauvais état peut influencer l'adhérence",
+      "answers": [
+        "En ligne droite",
+        "En virage",
+        "En ligne droite et en virage"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Une chaussée dégradée réduit l'adhérence des pneus dans toutes les situations de conduite. Le risque est encore plus élevé en virage car les pneus sont déjà sollicités latéralement."
+    },
+    {
+      "id": 107,
+      "scene": "scene_063.png",
+      "question": "La visibilité m'impose-t-elle de ralentir ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "La vitesse doit toujours être adaptée à la distance de visibilité disponible. Si je vois moins loin, je dois ralentir pour pouvoir m'arrêter en sécurité."
+    },
+    {
+      "id": 112,
+      "scene": "scene_057.png",
+      "question": "Je roule sans gants homologués à moto, je risque ?",
+      "answers": [
+        "Une amende",
+        "Un retrait d'un point sur le permis",
+        "Un simple avertissement"
+      ],
+      "correct": [
+        0,
+        1
+      ],
+      "explanation": "Le port de gants certifiés CE est obligatoire à moto pour le conducteur et le passager. Rouler sans gants homologués peut entraîner une amende et un retrait d'un point sur le permis."
+    },
+    {
+      "id": 124,
+      "scene": "scene_076.png",
+      "type": "statements",
+      "question": "En cas de défaut d'assurance",
+      "statements": [
+        {
+          "text": "Je risque une amende",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Je risque l'immobilisation ou la mise en fourrière du véhicule",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Rouler sans assurance est un délit puni par une amende. Le véhicule peut aussi être immobilisé ou mis en fourrière."
+    },
+    {
+      "id": 133,
+      "scene": "scene_082.jpg",
+      "question": "Si je conduis après avoir consommé du cannabis, je risque un retrait de",
+      "answers": [
+        "2 points",
+        "4 points",
+        "6 points"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Le cannabis diminue la vigilance et les réflexes, ce qui rend la conduite dangereuse. Cette infraction entraîne un retrait de 6 points et peut aussi mener à une suspension du permis."
+    },
+    {
+      "id": 136,
+      "scene": "scene_084.png",
+      "question": "L'association alcool et cannabis multiplie le risque d'être responsable d'un accident mortel par",
+      "answers": [
+        "5",
+        "15",
+        "29"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "L'association alcool et cannabis augmente très fortement le risque d'accident mortel. Ce risque est multiplié par 29."
+    },
+    {
+      "id": 141,
+      "scene": "scene_086.png",
+      "question": "Si je n'ai plus de points sur mon permis A2 à cause d'infractions à moto, puis-je utiliser mon permis B ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "La perte totale des points invalide l'ensemble du permis de conduire. Je ne peux donc plus utiliser aucune catégorie, même le permis B."
+    },
+    {
+      "id": 145,
+      "scene": "scene_089.png",
+      "question": "Je croise un motard qui me fait un signe de la main. Que peut-il vouloir dire ?",
+      "answers": [
+        "Il m'indique que je suis mal positionné sur la chaussée",
+        "Il me salue"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Entre motards, un signe de la main est souvent un salut. Il ne faut pas l'interpréter comme une indication de danger ou de mauvais positionnement sans autre signe clair."
+    },
+    {
+      "id": 146,
+      "scene": "scene_090.png",
+      "question": "Les erreurs de conduite sont-elles plus fréquentes chez les motocyclistes que chez les autres usagers ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Les erreurs de conduite ne sont pas plus fréquentes chez les motocyclistes. En revanche, elles sont moins récupérables et leurs conséquences peuvent être plus graves."
+    },
+    {
+      "id": 154,
+      "scene": "scene_095.png",
+      "question": "En continuant tout droit, dois-je me méfier des piétons à proximité du passage piéton ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Les piétons sont proches du passage piéton, même s'ils ne traversent pas encore. Je dois ralentir et rester prêt à m'arrêter s'ils s'engagent."
+    },
+    {
+      "id": 158,
+      "scene": "scene_098.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "La signalisation autorise le dépassement",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "La visibilité permet le dépassement",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "La ligne discontinue autorise le dépassement si les conditions sont réunies. Ici, la voie en sens inverse est dégagée et la visibilité permet d'anticiper la manœuvre."
+    },
+    {
+      "id": 170,
+      "scene": "scene_110.png",
+      "question": "La carrosserie d'une moto protège-t-elle efficacement le motocycliste ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Contrairement à une voiture, une moto n'a pas de carrosserie protectrice autour du conducteur. Le motocycliste est donc plus exposé en cas de chute ou de collision."
+    },
+    {
+      "id": 184,
+      "scene": "scene_122.png",
+      "question": "Pour faire disparaître plus rapidement la buée, il est préférable d'ouvrir en premier :",
+      "answers": [
+        "L'écran",
+        "L'aération de la mentonnière",
+        "L'aération de la calotte"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Pour évacuer rapidement la buée, il faut d'abord ouvrir légèrement l'écran afin de faire entrer de l'air. Cela permet de retrouver une meilleure visibilité plus vite."
+    }
+  ]
+}

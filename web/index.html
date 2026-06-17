@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Moto ETM - Placement des questions</title>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <main class="app">
+      <section class="workspace">
+        <header class="topbar">
+          <div>
+            <h1>Placement des questions</h1>
+            <p>Colle tes lignes, teste, puis applique dans les fichiers de séries.</p>
+          </div>
+          <div class="actions">
+            <button id="previewBtn" type="button">Tester</button>
+            <button id="applyBtn" type="button" class="primary">Appliquer</button>
+          </div>
+        </header>
+
+        <div class="editor">
+          <label for="placements">Placements</label>
+          <textarea id="placements" spellcheck="false">316 -> serie8
+317 -> serie9
+318 -> serie10</textarea>
+          <div class="options">
+            <label class="check">
+              <input id="move" type="checkbox">
+              Déplacer si déjà dans une autre série
+            </label>
+            <label class="check">
+              <input id="dryRun" type="checkbox" checked>
+              Simulation seulement
+            </label>
+          </div>
+          <div id="modeNotice" class="notice testMode">
+            Simulation active : aucun fichier JSON ne sera modifié.
+          </div>
+        </div>
+
+        <section class="results" aria-live="polite">
+          <div class="summary" id="summary">
+            <span>0 ligne prête</span>
+            <span>0 erreur</span>
+          </div>
+          <div class="tableWrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Ligne</th>
+                  <th>Question</th>
+                  <th>Série</th>
+                  <th>État</th>
+                </tr>
+              </thead>
+              <tbody id="previewRows"></tbody>
+            </table>
+          </div>
+          <pre id="output"></pre>
+        </section>
+      </section>
+
+      <aside class="side">
+        <h2>Séries</h2>
+        <div id="seriesList" class="seriesList"></div>
+        <section class="serieViewer">
+          <div class="viewerHead">
+            <h2 id="viewerTitle">Vérification</h2>
+            <span id="viewerCount">0</span>
+          </div>
+          <div id="questionList" class="questionList">
+            <p>Sélectionne une série.</p>
+          </div>
+        </section>
+      </aside>
+    </main>
+    <script src="/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,698 @@
+{
+  "id": "serie4",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": 303,
+      "scene": "scene_209.png",
+      "question": "Seuls les services de secours sont-ils habilités à enlever le casque d’un motard accidenté ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Il ne faut pas enlever le casque d’un motard accidenté, sauf intervention des secours. Un mauvais geste peut aggraver une blessure au niveau du cou ou de la colonne vertébrale."
+    },
+    {
+      "id": 312,
+      "scene": "scene_215.png",
+      "question": "Ce panneau indique :",
+      "answers": [
+        "Une priorité à la circulation venant en sens inverse",
+        "Une interdiction de dépasser",
+        "Une route à sens unique",
+        "Une obligation d’aller tout droit"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ce panneau indique que les véhicules venant en sens inverse sont prioritaires. Je dois donc leur céder le passage si le croisement est difficile."
+    },
+    {
+      "id": 323,
+      "scene": "scene_220.png",
+      "question": "Ce panneau m’impose de tourner à gauche à la prochaine intersection :",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ce panneau indique une direction obligatoire à gauche. Je dois suivre la direction indiquée par la flèche à la prochaine intersection."
+    },
+    {
+      "id": 25,
+      "scene": "scene_010.jpg",
+      "type": "statements",
+      "question": "Sur sol mouillé, un pneu usé",
+      "statements": [
+        {
+          "text": "Augmente le risque d'aquaplanage",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Réduit la capacité à évacuer l'eau",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Les sculptures d'un pneu forment des canaux qui guident l'eau hors de la zone de contact avec la route. Quand elles sont usées, cette évacuation devient inefficace et une couche d'eau peut s'interposer entre le pneu et le sol. C'est le phénomène d'aquaplanage, qui entraîne une perte totale d'adhérence et de contrôle de la moto."
+    },
+    {
+      "id": 330,
+      "scene": "scene_224.png",
+      "question": "À 130 km/h, la distance d’arrêt est d’environ :",
+      "answers": [
+        "75 mètres",
+        "100 mètres",
+        "130 mètres",
+        "170 mètres"
+      ],
+      "correct": [
+        3
+      ],
+      "explanation": "À 130 km/h, la distance d’arrêt est d’environ 170 mètres sur route sèche. Elle comprend la distance de réaction et la distance de freinage."
+    },
+    {
+      "id": 338,
+      "scene": "scene_231.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Refuser la priorité à un piéton peut entraîner un retrait de 6 points",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Je risque une amende de 135 euros",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Refuser la priorité à un piéton est une infraction grave. Cette infraction peut entraîner une amende et un retrait de 6 points."
+    },
+    {
+      "id": 342,
+      "scene": "scene_234.png",
+      "photo": {
+        "fit": "contain",
+        "height": 300
+      },
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Le motard doit vérifier que son entrée ne force aucun véhicule à freiner",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Le motard peut entrer dans le giratoire",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Avant d’entrer dans un giratoire, le motard doit vérifier qu’il ne gêne aucun véhicule déjà engagé. Si la voie est libre et que son entrée ne force personne à ralentir ou freiner, il peut s’engager."
+    },
+    {
+      "id": 351,
+      "scene": "scene_239.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Je dois contrôler à droite avant de m’engager dans l’intersection",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Je dois céder le passage à la voiture noire",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "À cette intersection, la voiture noire arrive de droite et bénéficie de la priorité. Je dois donc ralentir, contrôler à droite et la laisser passer avant de m’engager."
+    },
+    {
+      "id": 359,
+      "scene": "scene_245.png",
+      "question": "Dans un tunnel, il est interdit :",
+      "answers": [
+        "De faire demi-tour",
+        "De s'arrêter",
+        "De dépasser",
+        "De stationner"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Dans un tunnel, il est interdit de faire demi-tour, de s'arrêter ou de stationner, sauf en cas de nécessité ou sur un emplacement prévu. Le dépassement n'est pas automatiquement interdit, sauf si la signalisation ou le marquage l'interdit."
+    },
+    {
+      "id": 373,
+      "scene": "scene_255.png",
+      "question": "En surestimant ses capacités, le motard peut-il occasionner ce type d'accident ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Un motard qui surestime ses capacités peut prendre trop de risques et mal anticiper une situation. Cela peut entraîner une perte de contrôle ou une collision avec un autre usager."
+    },
+    {
+      "id": 379,
+      "scene": "scene_261.png",
+      "question": "Je peux tourner à droite à la prochaine intersection :",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Le panneau indique une interdiction de tourner à droite à la prochaine intersection. Je dois donc continuer tout droit ou choisir une autre direction autorisée."
+    },
+    {
+      "id": 387,
+      "scene": "scene_265.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Ce cycliste indique un changement de direction",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Il signale qu’il veut tourner à droite",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Un cycliste peut signaler un changement de direction en tendant le bras. Ici, son bras droit tendu indique qu’il veut tourner à droite."
+    },
+    {
+      "id": 393,
+      "scene": "scene_267.png",
+      "question": "La majorité des personnes décédées à moto sont :",
+      "answers": [
+        "Des hommes",
+        "Des femmes"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "La majorité des personnes tuées à moto sont des hommes. Cela s’explique notamment par une présence plus importante des hommes parmi les conducteurs de deux-roues motorisés."
+    },
+    {
+      "id": 203,
+      "scene": "scene_139.png",
+      "question": "À l'approche d'un feu ou d'un stop, le motard doit-il maintenir une vigilance accrue sur l'arrière ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "À l'approche d'un arrêt, le motard doit surveiller l'arrière pour vérifier qu'un véhicule ne le suit pas de trop près. Cela permet d'anticiper un risque de collision par l'arrière."
+    },
+    {
+      "id": 214,
+      "scene": "scene_150.png",
+      "question": "Par temps de pluie, la distance de freinage :",
+      "answers": [
+        "est multipliée par deux",
+        "est multipliée par trois",
+        "reste identique à celle sur sol sec"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "La pluie réduit l’adhérence des pneus sur la chaussée. La distance de freinage est alors généralement multipliée par deux."
+    },
+    {
+      "id": 220,
+      "scene": "scene_155.png",
+      "question": "Le blouson en moto a pour fonction principale :",
+      "answers": [
+        "De protéger du froid",
+        "De protéger du vent",
+        "De protéger des blessures"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Le blouson en moto est avant tout un équipement de protection. Il limite les blessures en cas de chute ou de glissade."
+    },
+    {
+      "id": 230,
+      "scene": "scene_161.png",
+      "question": "Ce panneau signifie-t-il que je suis prioritaire uniquement à la prochaine intersection ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ce panneau indique une priorité ponctuelle. Elle s’applique seulement à la prochaine intersection."
+    },
+    {
+      "id": 239,
+      "scene": "scene_167.png",
+      "question": "Ce panneau indique-t-il que je circule sur une route prioritaire ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ce panneau indique une route à caractère prioritaire. Je reste prioritaire aux intersections jusqu’à indication contraire."
+    },
+    {
+      "id": 248,
+      "scene": "scene_173.png",
+      "question": "Les deux-roues motorisés représentent environ quelle part de la mortalité routière ?",
+      "answers": [
+        "Environ 5 %",
+        "Environ 10 %",
+        "Environ 23 %",
+        "Environ 50 %"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Les deux-roues motorisés représentent environ 23 % de la mortalité routière. Ils sont donc fortement surreprésentés parmi les victimes de la route."
+    },
+    {
+      "id": 269,
+      "scene": "scene_185.png",
+      "type": "statements",
+      "question": "Pour un excès de vitesse de 50 km/h ou plus au-dessus de la limite autorisée",
+      "statements": [
+        {
+          "text": "Mon véhicule peut être immobilisé",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Mon permis peut être suspendu",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Un très grand excès de vitesse peut entraîner plusieurs sanctions. Le véhicule peut être immobilisé et le permis peut être suspendu."
+    },
+    {
+      "id": 284,
+      "scene": "scene_194.png",
+      "type": "statements",
+      "question": "En continuant tout droit à la prochaine intersection, le motard cédera le passage :",
+      "statements": [
+        {
+          "text": "À droite",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "À gauche",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        3
+      ],
+      "explanation": "Le panneau signale une intersection où la priorité à droite s'applique. Le motard doit céder le passage aux véhicules venant de droite, mais il est prioritaire sur ceux venant de gauche."
+    },
+    {
+      "id": 110,
+      "scene": "scene_066.png",
+      "type": "statements",
+      "question": "La transformation des caractéristiques de ma moto peut entraîner",
+      "statements": [
+        {
+          "text": "Une amende",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Une immobilisation",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Une moto modifiée peut ne plus correspondre à son homologation et présenter des risques pour la sécurité. Elle peut entraîner une amende pouvant aller jusqu'à 750 euros ou une immobilisation si elle est considérée comme non conforme."
+    },
+    {
+      "id": 114,
+      "scene": "scene_070.png",
+      "question": "La propreté du radiateur peut-elle éviter une surconsommation de carburant ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Un radiateur propre permet un bon refroidissement du moteur. Si le moteur chauffe trop, son fonctionnement peut être moins efficace et entraîner une surconsommation."
+    },
+    {
+      "id": 125,
+      "scene": "scene_077.png",
+      "question": "Les bottes homologuées sont-elles obligatoires pour circuler à moto ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Les bottes ou chaussures montantes ne sont pas obligatoires, mais elles sont fortement recommandées. Elles protègent mieux les pieds, les chevilles et le bas des jambes en cas de chute."
+    },
+    {
+      "id": 138,
+      "scene": "scene_083.png",
+      "question": "Les forces de l'ordre peuvent-elles faire un test salivaire pour dépister le cannabis ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Les forces de l'ordre peuvent utiliser un test salivaire pour dépister les stupéfiants. Le cannabis fait partie des substances recherchées."
+    },
+    {
+      "id": 142,
+      "scene": "scene_087.png",
+      "question": "Lorsque je règle mon casque, dois-je laisser l'attache un peu lâche pour éviter de gêner les mouvements de tête ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "L'attache du casque doit être correctement serrée pour que le casque reste bien en place. Si elle est trop lâche, le casque peut mal protéger en cas de chute."
+    },
+    {
+      "id": 163,
+      "scene": "scene_103.png",
+      "question": "Je peux rouler temporairement avec un clignotant hors d'usage ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Un clignotant hors d'usage empêche de signaler clairement ses changements de direction. Cette infraction peut entraîner une amende de 3e classe, jusqu'à 450 euros."
+    },
+    {
+      "id": 173,
+      "scene": "scene_113.jpg",
+      "question": "Avant l'âge de 5 ans, le poids du casque peut-il provoquer des lésions aux cervicales lors de fortes accélérations ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Chez un jeune enfant, les cervicales sont encore fragiles et supportent moins bien le poids du casque. En cas de forte accélération ou de freinage brusque, cela peut provoquer des lésions."
+    },
+    {
+      "id": 180,
+      "scene": "scene_119.jpg",
+      "question": "À 130 km/h, mon angle de vision est de :",
+      "answers": [
+        "30 degrés",
+        "50 degrés",
+        "80 degrés",
+        "110 degrés"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Plus la vitesse augmente, plus le champ de vision se rétrécit. À 130 km/h, il est réduit à environ 30 degrés, ce qui rend les dangers sur les côtés beaucoup moins visibles."
+    },
+    {
+      "id": 186,
+      "scene": "scene_124.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Tous les gilets airbag sont filaires",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Le câble s’ajuste en longueur",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        1,
+        2
+      ],
+      "explanation": "Tous les gilets airbag ne sont pas filaires, certains fonctionnent avec un système électronique. Sur un modèle filaire, le câble doit être réglé à la bonne longueur pour permettre le déclenchement."
+    },
+    {
+      "id": 194,
+      "scene": "scene_108.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "La nuit, les indices sont reconnus moins vite ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "L’absorption d’alcool réduit la vision périphérique ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "La nuit, la visibilité diminue et les indices sont perçus plus tard. L’alcool réduit les capacités visuelles, notamment la vision périphérique."
+    },
+    {
+      "id": 1,
+      "scene": "scene_001.png",
+      "question": "Je respecte ce panneau quelle que soit la météo ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ce panneau signale que la chaussée risque d'être glissante dans les 150 mètres à venir. Comme il est posé de façon permanente, avec un fond blanc, le danger existe quelle que soit la météo."
+    },
+    {
+      "id": 28,
+      "scene": "scene_009.png",
+      "question": "Un pneu sous-gonflé entraîne une augmentation de la distance de freinage ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Quand un pneu manque de pression, sa structure se déforme de façon irrégulière. La répartition de l'appui sur la route devient moins homogène et la réponse au freinage se dégrade. La distance nécessaire pour s'arrêter augmente, ce qui peut avoir des conséquences graves notamment en situation d'urgence."
+    },
+    {
+      "id": 38,
+      "scene": "scene_014.png",
+      "question": "Un médicament vendu sans ordonnance peut-il porter un pictogramme de niveau 3 ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Le niveau de pictogramme dépend des effets du médicament sur l'organisme et non de son mode de délivrance. Certains antidouleurs, antihistaminiques ou somnifères accessibles sans ordonnance peuvent porter un niveau 2 ou 3."
+    },
+    {
+      "id": 46,
+      "scene": "scene_020.png",
+      "question": "Sur un constat amiable, cocher la case 17 (non-observation d'un signal de priorité ou d'un feu rouge) signifie",
+      "answers": [
+        "Une reconnaissance partielle de responsabilité",
+        "Aucune conséquence sur la responsabilité",
+        "Une infraction automatiquement transmise au tribunal"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Chaque case cochée sur le constat est un élément factuel qui servira à déterminer les responsabilités. Il faut donc cocher uniquement ce qui correspond exactement à la situation."
+    },
+    {
+      "id": 73,
+      "scene": "scene_037.png",
+      "question": "Le constat dématérialisé d'accident",
+      "answers": [
+        "peut être utilisé en cas d'accident matériel",
+        "peut être utilisé en cas d'accident corporel",
+        "accélère la procédure auprès des assureurs",
+        "permet de joindre des photos"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le constat dématérialisé est réservé aux accidents matériels et ne peut pas être utilisé en cas de blessé. Il accélère la procédure auprès des assureurs et permet d'ajouter des photos."
+    },
+    {
+      "id": 92,
+      "scene": "scene_042.png",
+      "question": "Pour freiner en ligne droite, j'utilise les freins avant et arrière.",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "En ligne droite, utiliser les deux freins ensemble permet un freinage efficace et équilibré. Le frein avant assure la majorité de la décélération, le frein arrière stabilise la moto."
+    },
+    {
+      "id": 87,
+      "scene": "scene_048.png",
+      "type": "statements",
+      "question": "Si je refuse le dépistage d'alcoolémie",
+      "statements": [
+        {
+          "text": "Une vérification de mon alcoolémie peut être effectuée ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "answers": [
+            "Je risque un retrait de 6 points",
+            "Je risque une peine de prison"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Refuser le dépistage entraîne une vérification obligatoire de l'alcoolémie. Le refus de se soumettre aux vérifications est un délit puni d'un retrait de 6 points et pouvant aller jusqu'à une peine de prison."
+    },
+    {
+      "id": 99,
+      "scene": "scene_057.png",
+      "question": "L'effet gyroscopique participe à la stabilité de la moto.",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "L'effet gyroscopique est produit par la rotation des roues et stabilise naturellement la moto en mouvement. Plus la vitesse augmente, plus cet effet est prononcé."
+    },
+    {
+      "id": 105,
+      "scene": "scene_061.png",
+      "question": "Je croise un autre véhicule la nuit, où dois-je porter mon regard ?",
+      "answers": [
+        "Vers le bord droit de la route, au loin",
+        "Vers les feux du véhicule",
+        "Vers la ligne médiane de la chaussée"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "La nuit, il ne faut pas fixer les feux d'un véhicule que l'on croise, car cela peut éblouir. Il faut porter son regard vers le bord droit de la route, au loin, pour garder sa trajectoire."
+    }
+  ]
+}

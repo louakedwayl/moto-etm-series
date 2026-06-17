@@ -1,0 +1,753 @@
+{
+  "id": "serie6",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": 305,
+      "scene": "scene_211.png",
+      "question": "Un panneau de forme triangulaire à bord rouge annonce le plus souvent :",
+      "answers": [
+        "Une obligation",
+        "Un danger",
+        "Une interdiction",
+        "Une indication"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Un panneau triangulaire à bord rouge annonce le plus souvent un danger. Il faut donc anticiper et adapter son allure à la situation."
+    },
+    {
+      "id": 314,
+      "scene": "scene_216.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Ce panneau peut se trouver avant un passage étroit ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Avec ce panneau, je suis prioritaire sur les véhicules venant en face ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Ce panneau peut être placé avant un passage étroit où le croisement est difficile. Il indique que je suis prioritaire sur les véhicules venant en sens inverse."
+    },
+    {
+      "id": 325,
+      "scene": "scene_222.png",
+      "question": "Je fixe les raccords de goudron pour les éviter :",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Il ne faut pas fixer les raccords de goudron, car la moto se dirige vers ce que le regard fixe. Je regarde loin devant et j’adapte mon allure et ma trajectoire."
+    },
+    {
+      "id": 332,
+      "scene": "scene_226.png",
+      "question": "À 90 km/h, la distance d’arrêt est d’environ :",
+      "answers": [
+        "50 mètres",
+        "80 mètres",
+        "90 mètres",
+        "120 mètres"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "À 90 km/h, la distance d’arrêt est d’environ 80 mètres sur route sèche. Elle comprend la distance de réaction et la distance de freinage."
+    },
+    {
+      "id": 340,
+      "scene": "scene_233.png",
+      "photo": {
+        "fit": "contain",
+        "height": 300
+      },
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Le panneau « Cédez le passage » m’impose de m’arrêter obligatoirement",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Je peux m’engager si la voie est libre dans le giratoire",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        1,
+        2
+      ],
+      "explanation": "Le panneau « Cédez le passage » impose de laisser passer les véhicules déjà engagés, mais pas de s’arrêter si la voie est libre. Je peux donc m’engager sans marquer l’arrêt si cela ne gêne personne."
+    },
+    {
+      "id": 356,
+      "scene": "scene_242.png",
+      "photo": {
+        "fit": "contain",
+        "height": 300
+      },
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Avant d’entrer dans le giratoire, je dois contrôler à gauche",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Pour sortir à la première sortie du giratoire, je dois mettre mon clignotant droit",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Avant d’entrer, il faut contrôler à gauche pour vérifier qu’aucun véhicule déjà engagé n’arrive. Pour prendre la première sortie, le clignotant droit permet d’annoncer clairement son intention."
+    },
+    {
+      "id": 363,
+      "scene": "scene_249.png",
+      "type": "statements",
+      "question": "La pollution atmosphérique produite par une moto dépend :",
+      "statements": [
+        {
+          "text": "De la cylindrée du moteur",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "De la manière de conduire",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Une moto plus puissante ou mal utilisée peut consommer davantage et produire plus de pollution. Une conduite souple et anticipée permet de limiter les émissions."
+    },
+    {
+      "id": 375,
+      "scene": "scene_257.png",
+      "question": "Je dois posséder une vignette Crit’Air pour circuler avec ma moto dans les zones à faibles émissions",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Dans une zone à faibles émissions, la vignette Crit’Air permet d’identifier le niveau de pollution du véhicule. Elle peut être obligatoire pour circuler selon les règles mises en place dans la zone concernée."
+    },
+    {
+      "id": 384,
+      "scene": "scene_262.png",
+      "question": "La distance parcourue pendant le temps de réaction augmente avec la vitesse :",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Pendant le temps de réaction, la moto continue d’avancer. Plus la vitesse est élevée, plus la distance parcourue avant de freiner est importante."
+    },
+    {
+      "id": 395,
+      "scene": "scene_271.png",
+      "question": "50 % des accidents mortels impliquant une moto ont lieu à la campagne :",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Les routes de campagne présentent souvent plus de risques pour les motards, notamment à cause de la vitesse, des virages et du manque de protection. Environ la moitié des accidents mortels impliquant une moto ont lieu hors agglomération."
+    },
+    {
+      "id": 399,
+      "scene": "scene_273.png",
+      "question": "Si je refuse de m’arrêter à une injonction des forces de l’ordre, je commets",
+      "answers": [
+        "Un délit de fuite",
+        "Un refus d’obtempérer"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ne pas s’arrêter à une injonction des forces de l’ordre constitue un refus d’obtempérer. Ce délit est puni de 2 ans d’emprisonnement, 15 000 € d’amende et peut entraîner un retrait de 6 points ainsi qu’une suspension ou annulation du permis."
+    },
+    {
+      "id": 206,
+      "scene": "scene_141.png",
+      "question": "Ne pas mettre le clignotant dans les giratoires :",
+      "answers": [
+        "N'est pas gênant si je suis seul",
+        "Est sanctionné d'un retrait de 3 points sur le permis de conduire",
+        "Peut causer un accident"
+      ],
+      "correct": [
+        1,
+        2
+      ],
+      "explanation": "Le clignotant permet d'indiquer clairement ses intentions aux autres usagers, même dans un giratoire. Ne pas l'utiliser peut surprendre les autres conducteurs et entraîner une sanction."
+    },
+    {
+      "id": 213,
+      "scene": "scene_149.png",
+      "question": "Sur route mouillée, la distance de freinage est multipliée par :",
+      "answers": [
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Sur route mouillée, l’adhérence est réduite et la distance de freinage augmente fortement. Elle est généralement multipliée par deux."
+    },
+    {
+      "id": 218,
+      "scene": "scene_153.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Les dents de la couronne de transmission peuvent-elles s'user ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "En cas d'usure, je remplace le kit chaîne complet ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Les dents de la couronne de transmission s'usent avec le temps et l'utilisation. Lorsqu'un élément du kit chaîne est usé, il est recommandé de remplacer l'ensemble du kit."
+    },
+    {
+      "id": 232,
+      "scene": "scene_163.png",
+      "question": "Ce panneau signifie-t-il que la circulation est interdite dans mon sens ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ce panneau interdit la circulation dans le sens où je le rencontre. Je dois choisir un autre itinéraire."
+    },
+    {
+      "id": 246,
+      "scene": "scene_172.png",
+      "question": "Puis-je m'engager ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Les feux rouges clignotent et les barrières sont fermées. Il est interdit de s'engager tant que le passage à niveau n'est pas entièrement ouvert."
+    },
+    {
+      "id": 252,
+      "scene": "scene_175.png",
+      "question": "Les deux-roues motorisés sont-ils surreprésentés dans les accidents graves ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Les deux-roues motorisés sont plus exposés que les automobilistes en cas d'accident. Ils sont donc surreprésentés parmi les victimes graves."
+    },
+    {
+      "id": 271,
+      "scene": "scene_187.png",
+      "question": "Une bulle de moto ajustable est un élément de sécurité :",
+      "answers": [
+        "Active",
+        "Passive"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Une bulle ajustable protège le motard du vent, de la pluie et des projections. Elle améliore le confort et aide à garder une meilleure maîtrise de la moto."
+    },
+    {
+      "id": 273,
+      "scene": "scene_188.png",
+      "question": "Le panneau de priorité dispense-t-il le motard de contrôler les intersections ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Même sur une route prioritaire, le motard doit contrôler les intersections. Un autre usager peut ne pas respecter la priorité."
+    },
+    {
+      "id": 294,
+      "scene": "scene_202.png",
+      "type": "statements",
+      "question": "Dans ce virage à gauche :",
+      "statements": [
+        {
+          "text": "L’inclinaison est provoquée en poussant sur le guidon",
+          "answers": [
+            "À gauche",
+            "À droite"
+          ]
+        },
+        {
+          "text": "L’effet gyroscopique augmente avec la vitesse",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Pour incliner la moto à gauche, on pousse sur le guidon à gauche. Plus la vitesse augmente, plus l’effet gyroscopique devient important."
+    },
+    {
+      "id": 104,
+      "scene": "scene_060.png",
+      "question": "La nuit, dois-je aborder les virages plus lentement ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "La nuit, la visibilité est réduite et il est plus difficile d'anticiper un danger dans un virage. Il faut donc ralentir avant le virage pour garder le contrôle de la moto."
+    },
+    {
+      "id": 116,
+      "scene": "scene_069.png",
+      "photo": {
+        "y": 82
+      },
+      "question": "Ces gants sont-ils homologués pour la moto ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Un simple marquage CE ne suffit pas à prouver qu'un gant est homologué pour la moto. Les gants doivent être certifiés comme équipement de protection pour la conduite."
+    },
+    {
+      "id": 139,
+      "scene": "scene_085.png",
+      "question": "Si je refuse un dépistage de stupéfiants, je risque",
+      "answers": [
+        "Aucune sanction",
+        "Une amende de 135 euros",
+        "2 ans de prison et 4 500 euros d'amende"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Le refus de dépistage de stupéfiants est un délit. Il peut être puni de 2 ans de prison et de 4 500 euros d'amende."
+    },
+    {
+      "id": 165,
+      "scene": "scene_105.png",
+      "question": "Je suis impliqué dans un accident dont je ne suis pas responsable alors que mon permis est suspendu. Mon assureur peut refuser de me rembourser ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "La suspension du permis est une situation grave qui peut exclure certaines garanties du contrat d'assurance. Même si je ne suis pas responsable de l'accident, l'assureur peut refuser de prendre en charge mes dommages."
+    },
+    {
+      "id": 175,
+      "scene": "scene_115.png",
+      "type": "statements",
+      "question": "Le niveau de certification d'une paire de gants dépend",
+      "statements": [
+        {
+          "text": "de son maintien en cas de chute",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "de sa résistance à l'abrasion",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Le niveau de certification des gants est déterminé par plusieurs tests de protection. Le maintien de la main et la résistance à l'abrasion font partie des critères évalués."
+    },
+    {
+      "id": 188,
+      "scene": "scene_126.png",
+      "photo": {
+        "y": 0
+      },
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Rouler avec un casque homologué est obligatoire pour :",
+          "answers": [
+            "Le conducteur",
+            "Le passager"
+          ]
+        },
+        {
+          "text": "Le port de gants homologués ne concerne que le conducteur",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le casque homologué est obligatoire pour le conducteur et le passager. Les gants homologués concernent aussi le passager, pas seulement le conducteur."
+    },
+    {
+      "id": 17,
+      "scene": "scene_006.jpg",
+      "question": "L'ABS permet en cas de freinage d'urgence de réduire considérablement la distance de freinage sur sol sec.",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "L'ABS ne réduit pas la distance de freinage, notamment sur sol sec. Son rôle est différent : il empêche le blocage des roues pour que le conducteur conserve le contrôle de la direction et de la trajectoire du véhicule pendant tout le freinage."
+    },
+    {
+      "id": 21,
+      "scene": "scene_007.jpg",
+      "question": "En conduisant, je peux utiliser des écouteurs",
+      "answers": [
+        "Oui pour écouter de la musique",
+        "Non pour écouter de la musique",
+        "Oui pour suivre un itinéraire GPS vocal",
+        "Non pour suivre un itinéraire GPS vocal"
+      ],
+      "correct": [
+        1,
+        3
+      ],
+      "explanation": "Les écouteurs sont interdits à la conduite quelle que soit leur utilisation, musique ou GPS. L'infraction est sanctionnée par une amende de 135 euros et un retrait de 3 points."
+    },
+    {
+      "id": 27,
+      "scene": "scene_009.png",
+      "question": "Un pneu sous-gonflé entraîne une surconsommation de carburant ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Un pneu sous-gonflé s'écrase davantage sur la route à chaque rotation. Cette déformation répétée génère plus de résistance au roulement, ce qui oblige le moteur à fournir plus d'effort pour avancer. Le résultat est une consommation de carburant plus élevée."
+    },
+    {
+      "id": 33,
+      "scene": "scene_011.png",
+      "question": "Sur cette autoroute, à quelle distance se trouvent les bornes d'appel d'urgence ?",
+      "answers": [
+        "Tous les 10 kilomètres",
+        "Tous les 4 kilomètres",
+        "Tous les 2 kilomètres",
+        "Tous les 500 mètres"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Les bornes d'appel d'urgence orange sont implantées tous les 2 kilomètres sur les autoroutes françaises. Elles permettent de contacter directement les secours et de transmettre votre position exacte. En cas de panne ou d'accident, il est préférable de les utiliser plutôt qu'un appel téléphonique classique."
+    },
+    {
+      "id": 37,
+      "scene": "scene_014.png",
+      "question": "Qui est responsable si je cause un accident sous l'effet d'un médicament niveau 3 ?",
+      "answers": [
+        "Le médecin qui m'a prescrit le traitement",
+        "Le laboratoire fabricant du médicament",
+        "Moi, en tant que conducteur",
+        "La responsabilité est partagée entre le médecin et moi"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Le conducteur est seul responsable de sa décision de prendre le volant. Le pictogramme niveau 3 interdit clairement la conduite et vous en avez été informé. Conduire malgré cet avertissement constitue une faute caractérisée qui engage votre responsabilité pénale et civile, indépendamment du rôle du médecin ou du laboratoire."
+    },
+    {
+      "id": 54,
+      "scene": "scene_023.png",
+      "type": "statements",
+      "question": "Le respect des usagers vulnérables implique",
+      "statements": [
+        {
+          "text": "De réduire sa vitesse à leur approche",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "De klaxonner pour les avertir de ma présence",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        3
+      ],
+      "explanation": "Réduire sa vitesse à l'approche d'un usager vulnérable est une obligation, pas une option. Klaxonner peut au contraire surprendre un cycliste et provoquer un écart dangereux."
+    },
+    {
+      "id": 55,
+      "scene": "scene_024.png",
+      "question": "Le véhicule qui rejette le moins de gaz polluant fonctionne",
+      "answers": [
+        "À l'essence sans plomb",
+        "Au gasoil",
+        "Au GPL",
+        "À l'électricité"
+      ],
+      "correct": [
+        3
+      ],
+      "explanation": "Un véhicule électrique ne produit aucune émission directe de gaz polluant lors de son utilisation."
+    },
+    {
+      "id": 56,
+      "scene": "scene_025.png",
+      "type": "statements",
+      "question": "Les rétroviseurs se règlent",
+      "statements": [
+        {
+          "text": "Avant le départ",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Après le départ",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        3
+      ],
+      "explanation": "Les rétroviseurs doivent être réglés avant de prendre la route pour avoir une vision complète dès le départ. Les régler en roulant est dangereux et inefficace."
+    },
+    {
+      "id": 57,
+      "scene": "scene_026.png",
+      "type": "statements",
+      "question": "Ce véhicule est",
+      "statements": [
+        {
+          "text": "Un véhicule d'intérêt général prioritaire",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Actuellement en intervention",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Un camion de pompiers est un véhicule d'intérêt général prioritaire. Lorsqu'il est en intervention et utilise ses avertisseurs spéciaux, les autres usagers doivent lui céder le passage."
+    },
+    {
+      "id": 58,
+      "scene": "scene_052.jpg",
+      "type": "statements",
+      "question": "Après un accident mortel dont je suis responsable, je risque",
+      "statements": [
+        {
+          "text": "Une sanction pénale",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Des poursuites pour homicide involontaire",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Un accident mortel dont vous êtes responsable peut entraîner des sanctions pénales. Vous pouvez notamment être poursuivi pour homicide involontaire."
+    },
+    {
+      "id": 74,
+      "scene": "scene_038.png",
+      "question": "Réduire sa vitesse de 130 km/h à 120 km/h sur autoroute permet",
+      "answers": [
+        "De diminuer la consommation de carburant",
+        "D'augmenter la consommation de carburant",
+        "De réduire les émissions de CO2"
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Réduire sa vitesse sur autoroute diminue généralement la consommation de carburant. Cela permet aussi de réduire les émissions de CO2."
+    },
+    {
+      "id": 80,
+      "scene": "scene_042.png",
+      "type": "statements",
+      "question": "Se déplacer en moto en ville",
+      "statements": [
+        {
+          "text": "Peut réduire l'encombrement par rapport à une voiture ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Supprime les embouteillages ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        3
+      ],
+      "explanation": "Une moto prend moins de place qu'une voiture et peut réduire l'encombrement en ville. En revanche, elle ne supprime pas les embouteillages."
+    },
+    {
+      "id": 82,
+      "scene": "scene_059.png",
+      "question": "Que m'indique le panneau en forme de losange jaune visible sur cette photo ?",
+      "answers": [
+        "Je suis sur une route à grande circulation",
+        "Je suis sur une route prioritaire",
+        "Je dois céder le passage aux véhicules venant de droite",
+        "Je suis sur une voie réservée aux véhicules rapides"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Le losange jaune à bordure blanche signale une route prioritaire, ce qui signifie que les véhicules sur les voies transversales doivent me céder le passage. Cette priorité reste valable jusqu'à ce que le panneau soit barré d'une barre noire."
+    },
+    {
+      "id": 88,
+      "scene": "scene_050.png",
+      "type": "statements",
+      "question": "Du fait de son faible gabarit, une moto",
+      "statements": [
+        {
+          "text": "Est peu visible pour un automobiliste ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "La circulation diurne en feux de croisement améliore sa détection ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "La moto est naturellement difficile à détecter en raison de sa taille réduite. Rouler avec les feux de croisement allumés même en plein jour augmente significativement sa visibilité auprès des autres usagers."
+    }
+  ]
+}

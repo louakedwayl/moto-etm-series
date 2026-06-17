@@ -1,0 +1,751 @@
+{
+  "id": "serie3",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": 302,
+      "scene": "scene_205.png",
+      "question": "Avant d’accéder au permis A, je dois posséder le permis A2 depuis :",
+      "answers": [
+        "Directement après l’obtention du permis A2",
+        "Après 1 an de permis A2",
+        "Après 2 ans de permis A2"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Le permis A est accessible après 2 ans de permis A2 et une formation complémentaire. Il ne s’obtient pas directement après le permis A2."
+    },
+    {
+      "id": 311,
+      "scene": "scene_214.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Ce panneau impose de céder le passage à la circulation ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Ce panneau signifie que je dois toujours marquer un arrêt complet ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        3
+      ],
+      "explanation": "Ce panneau impose de céder le passage aux usagers prioritaires. Il n’impose pas l’arrêt complet si la voie est libre."
+    },
+    {
+      "id": 320,
+      "scene": "scene_219.png",
+      "question": "Ce panneau interdit le stationnement des motocyclettes :",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ce panneau ne concerne pas le stationnement. Il interdit l’accès aux motocyclettes dans la voie concernée."
+    },
+    {
+      "id": 329,
+      "scene": "scene_225.png",
+      "question": "La distance d’arrêt correspond à :",
+      "answers": [
+        "La distance parcourue entre la perception de l’obstacle et l’action sur les freins",
+        "La distance parcourue entre l’action sur les freins et l’arrêt complet du véhicule",
+        "La distance parcourue entre la perception de l’obstacle et l’arrêt complet du véhicule"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "La distance d’arrêt comprend la distance de réaction et la distance de freinage. Elle commence au moment où je perçois le danger et se termine lorsque le véhicule est totalement arrêté."
+    },
+    {
+      "id": 337,
+      "scene": "scene_230.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Un avertisseur sonore est un accessoire de sécurité",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Le klaxon permet d’avertir les autres usagers d’un danger immédiat",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "L’avertisseur sonore permet de signaler un danger immédiat aux autres usagers. Il doit être utilisé seulement en cas de nécessité."
+    },
+    {
+      "id": 349,
+      "scene": "scene_238.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Dans ce tunnel les diodes bleues servent à aider à respecter la distance de sécurité",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Je dois laisser au moins deux diodes bleues entre mon véhicule et le véhicule devant moi",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Les diodes bleues servent de repères pour garder une bonne distance avec le véhicule devant moi. En tunnel, respecter cet intervalle permet d’avoir plus de temps pour réagir en cas de ralentissement."
+    },
+    {
+      "id": 361,
+      "scene": "scene_247.png",
+      "photo": {
+        "fit": "contain",
+        "height": 300
+      },
+      "question": "Pour emprunter la troisième sortie, je dois suivre la trajectoire :",
+      "answers": [
+        "A",
+        "B"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Pour emprunter la troisième sortie, je dois suivre la trajectoire A et mettre mon clignotant à gauche en entrant dans le giratoire. Je dois ensuite mettre mon clignotant à droite avant de sortir."
+    },
+    {
+      "id": 368,
+      "scene": "scene_252.png",
+      "type": "statements",
+      "question": "Si je franchis un STOP sans marquer l’arrêt :",
+      "statements": [
+        {
+          "text": "Je peux être verbalisé :",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Je risque :",
+          "answers": [
+            "Une amende",
+            "Un retrait de points"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Franchir un STOP sans marquer l’arrêt est une infraction. Cela peut entraîner une amende et un retrait de points, en plus d’augmenter le risque d’accident."
+    },
+    {
+      "id": 386,
+      "scene": "scene_264.png",
+      "question": "Le non-port du casque entraîne chaque année environ :",
+      "answers": [
+        "10 morts",
+        "15 morts",
+        "20 morts"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Le non-port du casque reste un facteur important de gravité en deux-roues motorisé. En France, il représente environ 20 morts par an."
+    },
+    {
+      "id": 392,
+      "scene": "scene_269.png",
+      "question": "L’embrayage et le sélecteur de vitesse se situent :",
+      "answers": [
+        "Du côté gauche de la moto",
+        "Du côté droit de la moto"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Sur une moto, les commandes liées aux vitesses sont généralement à gauche. Le levier d’embrayage est au guidon et le sélecteur de vitesse est au pied."
+    },
+    {
+      "id": 201,
+      "scene": "scene_137.png",
+      "question": "En cas de brouillard avec une visibilité inférieure à 50 mètres, ma vitesse est limitée sur autoroute à :",
+      "answers": [
+        "50 km/h",
+        "80 km/h",
+        "110 km/h",
+        "130 km/h"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Lorsque la visibilité est inférieure à 50 mètres, la vitesse est limitée à 50 km/h, même sur autoroute. Cette limitation permet de garder une distance suffisante pour réagir en cas de danger."
+    },
+    {
+      "id": 211,
+      "scene": "scene_147.png",
+      "question": "Après un choc important avec mon casque, que dois-je faire ?",
+      "answers": [
+        "Le faire contrôler et réparer",
+        "Le remplacer par un casque neuf",
+        "Continuer à l’utiliser s’il n’est pas fissuré"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Un casque qui a subi un choc important peut perdre son efficacité même s’il paraît en bon état. Pour être bien protégé, il faut le remplacer."
+    },
+    {
+      "id": 219,
+      "scene": "scene_154.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Les dents de la couronne de transmission peuvent-elles s'user avec le temps ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Si la couronne de transmission est usée, je dois remplacer le kit chaîne complet ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Les dents de la couronne de transmission s'usent progressivement avec le kilométrage. Lorsqu'un élément du kit chaîne est usé, il est recommandé de remplacer l'ensemble du kit."
+    },
+    {
+      "id": 229,
+      "scene": "scene_161.png",
+      "question": "À la prochaine intersection, les autres usagers doivent-ils me céder le passage ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ce panneau annonce une priorité ponctuelle à la prochaine intersection. Les usagers venant des routes secondaires doivent me céder le passage."
+    },
+    {
+      "id": 234,
+      "scene": "scene_165.png",
+      "question": "Ce panneau m’interdit-il de stationner ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ce panneau interdit l’arrêt et le stationnement. Je ne peux donc pas laisser mon véhicule stationné à cet endroit."
+    },
+    {
+      "id": 245,
+      "scene": "scene_171.png",
+      "question": "Puis-je m'engager ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Les feux rouges clignotent et les barrières sont fermées. Il est interdit de s'engager tant que le passage à niveau n'est pas entièrement ouvert."
+    },
+    {
+      "id": 255,
+      "scene": "scene_176.png",
+      "type": "statements",
+      "question": "Ce véhicule est",
+      "statements": [
+        {
+          "text": "Un véhicule d'intérêt général prioritaire",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Actuellement en intervention",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Ce véhicule du SAMU utilise ses feux bleus, ce qui indique une intervention urgente. Il doit donc être facilité et respecté comme véhicule prioritaire."
+    },
+    {
+      "id": 260,
+      "scene": "scene_181.png",
+      "question": "La zone d'incertitude d'un cyclomotoriste est-elle plus large que celle d'un motocycliste ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Un cyclomotoriste est généralement moins visible et peut avoir des réactions moins prévisibles. Il convient donc d'augmenter sa vigilance à son approche."
+    },
+    {
+      "id": 263,
+      "scene": "scene_183.png",
+      "question": "Le facteur majeur de ce type d'accident est-il d'imaginer être toujours perçu par les autres usagers ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Le motard ne doit jamais supposer qu'il a été vu par les autres usagers. Ici, l'automobiliste semble tourner sans avoir correctement pris en compte la présence de la moto."
+    },
+    {
+      "id": 276,
+      "scene": "scene_187.png",
+      "question": "Parmi les motocyclistes impliqués dans un accident, quelle proportion approximative a moins de 6 mois d’expérience ?",
+      "answers": [
+        "Un sur deux",
+        "Un sur quatre",
+        "Un sur dix",
+        "Un sur vingt"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Près d’un motocycliste sur dix impliqué dans un accident a moins de 6 mois d’expérience. Les premiers mois de conduite sont donc une période où le risque est plus élevé."
+    },
+    {
+      "id": 293,
+      "scene": "scene_202.png",
+      "question": "En courbe, le corps du motard est-il plus à l’intérieur du virage que la moto ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Plus la moto est inclinée, plus le corps du motard est à l’intérieur du virage. L’allure et la trajectoire doivent être adaptées avant le virage pour aborder la courbe en sécurité."
+    },
+    {
+      "id": 109,
+      "scene": "scene_065.png",
+      "question": "Que peut provoquer un pneu monté dans le mauvais sens ?",
+      "answers": [
+        "Une moins bonne évacuation de l'eau",
+        "Une perte d'adhérence",
+        "Un freinage plus efficace"
+      ],
+      "correct": [
+        0,
+        1
+      ],
+      "explanation": "Un pneu monté dans le mauvais sens peut moins bien évacuer l'eau et perdre en adhérence. Cela augmente le risque d'aquaplanage ou de perte de contrôle."
+    },
+    {
+      "id": 113,
+      "scene": "scene_068.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Je vérifie que mon écran teinté est relevé",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Mon acuité visuelle baisse à l'entrée d'un tunnel",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "À l'entrée d'un tunnel, il faut relever un écran teinté pour garder une bonne visibilité. Le changement brutal de luminosité peut réduire temporairement l'acuité visuelle."
+    },
+    {
+      "id": 120,
+      "scene": "scene_074.png",
+      "type": "statements",
+      "question": "Avec le permis A2, je peux rouler avec",
+      "statements": [
+        {
+          "text": "Une moto de 122 kW",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Une moto de 100 kW",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        1,
+        3
+      ],
+      "explanation": "Le permis A2 limite la puissance de la moto à 35 kW maximum. Une moto de 100 kW ou 122 kW dépasse largement la limite autorisée."
+    },
+    {
+      "id": 129,
+      "scene": "scene_080.png",
+      "type": "statements",
+      "question": "Je circule avec un casque non homologué, je risque",
+      "statements": [
+        {
+          "text": "une amende",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "un retrait de 3 points ",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Circuler avec un casque non homologué est interdit. Le conducteur risque une amende forfaitaire de 135 euros et un retrait de 3 points."
+    },
+    {
+      "id": 147,
+      "scene": "scene_091.png",
+      "question": "Lorsque je veux éviter un obstacle, je le fixe du regard.",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Il ne faut pas fixer l'obstacle, car la moto a tendance à aller là où le regard se porte. Il faut regarder l'échappatoire pour guider correctement sa trajectoire."
+    },
+    {
+      "id": 162,
+      "scene": "scene_102.png",
+      "question": "Je peux stationner sur la zone de zébras à gauche ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Une zone de zébras sert à guider la circulation et à séparer des trajectoires. Il est interdit d'y stationner."
+    },
+    {
+      "id": 172,
+      "scene": "scene_112.png",
+      "type": "statements",
+      "question": "Certaines motos sont équipées",
+      "statements": [
+        {
+          "text": "d'un embrayage automatique",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "d'une boîte de vitesses automatique",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Certaines motos disposent d'un embrayage automatique ou d'une boîte de vitesses automatique. Ces systèmes facilitent la conduite, car ils réduisent ou suppriment certaines actions du conducteur."
+    },
+    {
+      "id": 193,
+      "scene": "scene_130.png",
+      "type": "statements",
+      "question": "La zone brillante sur la chaussée est-elle glissante ?",
+      "statements": [
+        {
+          "text": "Par forte chaleur",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Par temps de pluie",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Un raccord de goudron est souvent plus lisse que le reste de la chaussée, ce qui peut réduire l’adhérence. Par temps de pluie, il peut aussi retenir l’eau et augmenter le risque d’aquaplaning."
+    },
+    {
+      "id": 7,
+      "scene": "scene_003.jpg",
+      "question": "Boire du café ou de l'eau permet d'éliminer l'alcool plus rapidement avant de prendre la route.",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Seul le temps permet à l'organisme d'éliminer l'alcool. Le foie traite environ 0,1 gramme d'alcool par litre de sang par heure. Ni le café, ni l'eau, ni l'air frais n'accélèrent ce processus."
+    },
+    {
+      "id": 39,
+      "scene": "scene_015.jpg",
+      "question": "Le poids du casque a-t-il une influence sur la fatigue du motard ?",
+      "answers": [
+        "Oui, un casque lourd augmente la fatigue",
+        "Non, le poids du casque n'a aucune influence"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Le poids du casque sollicite directement les muscles du cou et des épaules. Sur de longs trajets, un casque trop lourd provoque une fatigue musculaire qui diminue la concentration et augmente le risque d'accident."
+    },
+    {
+      "id": 101,
+      "scene": "scene_004.jpg",
+      "question": "En cas d'arrêt d'urgence, où faut-il placer le triangle de présignalisation ?",
+      "answers": [
+        "À environ 30 mètres en amont du danger",
+        "Juste devant le véhicule immobilisé",
+        "Au milieu de la chaussée"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Le triangle se place à environ 30 mètres en amont du danger, de façon à être visible par les conducteurs qui arrivent. Il ne faut pas le placer trop près du véhicule ni dans un endroit dangereux."
+    },
+    {
+      "id": 48,
+      "scene": "scene_020.png",
+      "question": "En tant que motard, si vous chutez seul sans autre véhicule impliqué, le constat amiable est",
+      "answers": [
+        "Obligatoire",
+        "Inutile car il nécessite deux véhicules",
+        "Facultatif mais recommandé"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Le constat amiable sert uniquement en cas de collision entre deux véhicules. Pour une chute seul, vous déclarez le sinistre directement à votre assurance."
+    },
+    {
+      "id": 61,
+      "scene": "scene_028.png",
+      "question": "La chaussée a tendance à être plus glissante",
+      "answers": [
+        "Lorsqu'il pleut depuis longtemps",
+        "Au début de la pluie"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Au début de la pluie, l'eau se mélange aux huiles et poussières accumulées sur la route, formant un film très glissant. Après une pluie prolongée, ces résidus sont évacués et l'adhérence remonte."
+    },
+    {
+      "id": 68,
+      "scene": "scene_032.png",
+      "type": "statements",
+      "question": "",
+      "statements": [
+        {
+          "text": "À 30 km/h, je m'arrête en 20 mètres environ ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "À 50 km/h, je m'arrête en 25 mètres environ ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        1,
+        2
+      ],
+      "explanation": "À 30 km/h, la distance d'arrêt totale est d'environ 13 mètres avec le temps de réaction et le freinage. À 50 km/h, elle est d'environ 25 mètres dans de bonnes conditions."
+    },
+    {
+      "id": 69,
+      "scene": "scene_033.png",
+      "type": "statements",
+      "question": "",
+      "statements": [
+        {
+          "text": "Écouter la radio en conduisant est un distracteur ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Écouter la radio est aussi dangereux que téléphoner ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        3
+      ],
+      "explanation": "La radio peut distraire car elle sollicite l'attention. Elle reste toutefois moins dangereuse que le téléphone, qui demande plus de concentration et peut mobiliser une main."
+    },
+    {
+      "id": 70,
+      "scene": "scene_034.png",
+      "type": "statements",
+      "question": "",
+      "statements": [
+        {
+          "text": "Un simple rhume peut diminuer mes capacités à conduire ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Le traitement contre le rhume peut provoquer de la somnolence ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Même un simple rhume peut réduire la concentration et fatiguer l'organisme. Certains traitements contre le rhume peuvent aussi provoquer de la somnolence."
+    },
+    {
+      "id": 86,
+      "scene": "scene_045.png",
+      "type": "statements",
+      "question": "La position de conduite influe",
+      "statements": [
+        {
+          "text": "Sur la maniabilité ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Sur la précision des trajectoires ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "La position de conduite influence la maniabilité et la précision des trajectoires. Une mauvaise posture peut rendre la moto plus difficile à contrôler."
+    },
+    {
+      "id": 95,
+      "scene": "scene_054.png",
+      "question": "L'eCall est un élément de sécurité passive sur une moto ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "L'eCall est un système qui déclenche automatiquement un appel d'urgence après un accident. Il limite les conséquences du choc en accélérant l'intervention des secours, ce qui en fait un élément de sécurité passive."
+    },
+    {
+      "id": 97,
+      "scene": "scene_056.png",
+      "question": "Les principales causes des accidents nocturnes sont",
+      "answers": [
+        "La vitesse excessive",
+        "Le mauvais état des pneumatiques",
+        "L'alcool",
+        "La distraction"
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "La nuit, la vitesse excessive et l'alcool sont deux facteurs majeurs d'accidents. Ils réduisent fortement la capacité à percevoir le danger et à réagir à temps."
+    }
+  ]
+}

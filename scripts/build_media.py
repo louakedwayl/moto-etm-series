@@ -22,7 +22,7 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parents[1]
 DEFAULT_ASSETS = Path("/goinfre/wlouaked/moto-etm-assets")
 
-AUDIO_BITRATE = "48k"
+AUDIO_BITRATE = "128k"
 IMAGE_MAX = 1280
 IMAGE_QUALITY = "80"
 
@@ -88,10 +88,12 @@ def main():
     p.add_argument("--assets-dir", type=Path, default=DEFAULT_ASSETS)
     p.add_argument("--out", type=Path, default=REPO / "media")
     p.add_argument("--force", action="store_true", help="reconvertit meme si la sortie existe")
+    p.add_argument("--no-images", action="store_true", help="ne traite que l'audio (ignore les images, ImageMagick non requis)")
     p.add_argument("--jobs", type=int, default=os.cpu_count() or 4)
     args = p.parse_args()
 
-    ff, mg = ffmpeg_exe(), magick_exe()
+    ff = ffmpeg_exe()
+    mg = None  # ImageMagick resolu paresseusement: requis seulement s'il y a une image a convertir
     ids, scenes = collect(REPO / "data")
     print(f"{len(ids)} questions, {len(scenes)} scenes -> {args.out}")
 
@@ -107,7 +109,7 @@ def main():
         if src_e.exists() and needs_build(src_e, dst_e, args.force):
             tasks.append((dst_e.name, lambda s=src_e, d=dst_e: convert_audio(ff, s, d)))
 
-    for scene in scenes:
+    for scene in (scenes if not args.no_images else []):
         stem = Path(scene).stem
         src_i = args.assets_dir / "images" / scene
         if not src_i.exists():
@@ -115,6 +117,8 @@ def main():
             continue
         dst_i = args.out / "images" / f"{stem}.webp"
         if needs_build(src_i, dst_i, args.force):
+            if mg is None:
+                mg = magick_exe()
             tasks.append((dst_i.name, lambda s=src_i, d=dst_i: convert_image(mg, s, d)))
 
     if not tasks:

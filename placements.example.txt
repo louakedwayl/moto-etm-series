@@ -1,9 +1,0 @@
-# Un placement par ligne.
-# Formats acceptes:
-# 316 -> serie8
-# 317 serie9
-# 318:10
-
-316 -> serie8
-317 -> serie9
-318 -> serie10

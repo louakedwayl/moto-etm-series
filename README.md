@@ -1,10 +1,32 @@
 # moto-etm-series
 
-Depot de series JSON compatible avec le format de `moto-etm-assets`.
+Repo de **distribution** du contenu ETM (Épreuve Théorique Moto), consommé à la fois
+par le site **motoetm.com** et par l'application mobile.
 
-## Format
+Il contient :
 
-Chaque serie est stockee dans `data/serieN.json` :
+- les **séries de QCM** en JSON (`data/serieN.json`) ;
+- le **bundle média optimisé** (`media/`) : audio en AAC et images en WebP, prêts à
+  être servis sur le web et le mobile.
+
+Les masters bruts (FLAC lossless, PNG pleine résolution) vivent dans le repo séparé
+`moto-etm-assets` et **ne sont pas** distribués ici.
+
+## Structure
+
+```
+.
+├── data/                         # 10 séries de QCM (400 questions, ids 1 → 400)
+│   └── serieN.json               #   { id, version, questions: [...] }
+├── media/                        # bundle optimisé (~100 Mo)
+│   ├── audio/
+│   │   ├── question/NNN_question.m4a      # AAC 48k mono
+│   │   └── explanation/NNN_explain.m4a    # AAC 48k mono
+│   └── images/scene_NNN.webp     # WebP, max 1280px, qualité 80
+└── scripts/build_media.py        # régénère media/ depuis moto-etm-assets
+```
+
+## Format des séries
 
 ```json
 {
@@ -17,61 +39,41 @@ Chaque serie est stockee dans `data/serieN.json` :
       "question": "Texte de la question",
       "answers": ["Oui", "Non"],
       "correct": [0],
-      "explanation": "Explication de la reponse."
+      "explanation": "Explication de la réponse."
     }
   ]
 }
 ```
 
-Quand tu fournis des objets JSON, ils seront ajoutes dans la prochaine serie en gardant cette structure.
+Les `id` de questions sont **uniques et continus** sur l'ensemble des séries (1 → 400).
+Le champ `scene` garde son extension d'origine (`.png`/`.jpg`) comme identifiant ; le
+fichier média correspondant est `media/images/<base>.webp`. Voir aussi les questions de
+type `statements` (plusieurs affirmations Oui/Non) dans `moto-etm-assets`.
 
-## Placement automatique
+## Conventions média
 
-Le script `scripts/place_questions.py` recopie les questions depuis `/goinfre/wlouaked/moto-etm-assets/data`
-vers les fichiers `data/serieN.json` de ce depot.
+| Type      | Source (assets)        | Bundle (ici)                         |
+|-----------|------------------------|--------------------------------------|
+| Image     | `scene_NNN.png/.jpg`   | `media/images/scene_NNN.webp`        |
+| Audio Q   | `NNN_question.flac`    | `media/audio/question/NNN_question.m4a`   |
+| Audio exp | `NNN_explain.flac`     | `media/audio/explanation/NNN_explain.m4a` |
 
-Exemples :
+`NNN` = id de la question paddé sur **3 chiffres**.
 
-```sh
-python3 scripts/place_questions.py 316:8 '317 serie9' '318 -> serie10'
-```
+## Régénérer le bundle média
 
-Ou avec un fichier texte :
-
-```sh
-python3 scripts/place_questions.py -f placements.example.txt
-```
-
-Formats acceptes dans le fichier :
-
-```txt
-316 -> serie8
-317 serie9
-318:10
-```
-
-Par defaut, le script bloque si une question existe deja dans une autre serie. Pour la deplacer :
+Nécessite `ffmpeg` (encodeur AAC) et ImageMagick (`magick`). Sans ffmpeg système :
 
 ```sh
-python3 scripts/place_questions.py --move '316 -> serie8'
+pip3 install --user imageio-ffmpeg     # fournit un ffmpeg statique
 ```
 
-Pour tester sans modifier les fichiers :
+Puis :
 
 ```sh
-python3 scripts/place_questions.py --dry-run -f placements.example.txt
+python3 scripts/build_media.py                 # convertit ce qui manque
+python3 scripts/build_media.py --force         # tout reconvertir
+python3 scripts/build_media.py --assets-dir /chemin/vers/moto-etm-assets
 ```
 
-## Interface locale
-
-Pour utiliser une interface simple dans le navigateur :
-
-```sh
-python3 scripts/placement_ui.py
-```
-
-Puis ouvre :
-
-```txt
-http://127.0.0.1:8765
-```
+Le script ne reconvertit que les fichiers absents ou plus anciens que leur source.

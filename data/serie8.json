@@ -3,193 +3,6 @@
   "version": "1.0.0",
   "questions": [
     {
-      "id": 307,
-      "scene": "scene_212.png",
-      "question": "Un panneau de forme carrée annonce le plus souvent :",
-      "answers": [
-        "Une obligation",
-        "Un danger",
-        "Une interdiction",
-        "Une indication"
-      ],
-      "correct": [
-        3
-      ],
-      "explanation": "Un panneau carré donne le plus souvent une indication. Il informe l’usager sur une règle de circulation, une voie ou un service."
-    },
-    {
-      "id": 316,
-      "scene": "scene_216.png",
-      "type": "statements",
-      "question": "À l’approche de ce panneau :",
-      "statements": [
-        {
-          "text": "Je dois vérifier si un véhicule arrive en face ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "Si la voie est libre, je peux continuer prudemment ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        0,
-        2
-      ],
-      "explanation": "Ce panneau indique que je suis prioritaire dans le passage concerné. Je dois tout de même vérifier la circulation en face et rester prudent avant de m’engager."
-    },
-    {
-      "id": 319,
-      "scene": "scene_218.png",
-      "type": "statements",
-      "statements": [
-        {
-          "text": "Ce panneau concerne les cyclomoteurs de 50 cm³ maximum ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "Ce panneau concerne les deux-roues de plus de 50 cm³ ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        0,
-        3
-      ],
-      "explanation": "Ce panneau interdit l’accès aux cyclomoteurs, comme les scooters de 50 cm³ maximum. Il ne concerne pas les deux-roues de plus de 50 cm³."
-    },
-    {
-      "id": 348,
-      "scene": "scene_237.png",
-      "type": "statements",
-      "statements": [
-        {
-          "text": "Cette zone est réservée au stationnement des motos",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "Avant de quitter cet emplacement, je dois contrôler autour de moi",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        0,
-        2
-      ],
-      "explanation": "Le marquage au sol indique une zone réservée au stationnement des motos. Avant de repartir, il faut contrôler autour de soi pour s’insérer sans danger."
-    },
-    {
-      "id": 354,
-      "scene": "scene_240.png",
-      "type": "statements",
-      "statements": [
-        {
-          "text": "Je dois adapter ma vitesse à l’approche d'une intersection",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "Cette situation correspond à une priorité à droite",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        0,
-        2
-      ],
-      "explanation": "À l’approche d’une intersection, je dois ralentir et vérifier les priorités. En l’absence de panneau ou de marquage indiquant une autre priorité, la priorité à droite s’applique."
-    },
-    {
-      "id": 369,
-      "scene": "scene_253.png",
-      "type": "statements",
-      "question": "À ce panneau :",
-      "statements": [
-        {
-          "text": "L’arrêt complet est obligatoire :",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "Après l’arrêt, je peux m’engager si la voie est libre ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        0,
-        2
-      ],
-      "explanation": "Au stop, l’arrêt complet est obligatoire avant la ligne. Après l’arrêt, je peux m’engager seulement si la voie est libre et sans gêner les autres usagers."
-    },
-    {
-      "id": 382,
-      "scene": "scene_246.png",
-      "question": "La distance parcourue entre la perception de l’obstacle et l’arrêt complet de la moto définit :",
-      "answers": [
-        "La distance d’arrêt",
-        "La distance de freinage",
-        "Le temps de réaction"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "La distance d’arrêt correspond à la distance parcourue entre la perception du danger et l’arrêt complet de la moto. Elle comprend la distance parcourue pendant le temps de réaction et la distance de freinage."
-    },
-    {
-      "id": 389,
-      "scene": "scene_266.png",
-      "question": "Je peux donner à boire à un motard blessé après un accident :",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        1
-      ],
-      "explanation": "Il ne faut pas donner à boire à une victime après un accident. Elle peut avoir des blessures graves ou nécessiter une intervention médicale."
-    },
-    {
-      "id": 397,
-      "scene": "scene_274.png",
-      "question": "La capacité d’accélération d’une moto peut surprendre les autres usagers",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Une moto peut accélérer très rapidement, ce qui peut surprendre les autres usagers de la route s’ils ne l’anticipent pas."
-    },
-    {
       "id": 300,
       "scene": "scene_206.png",
       "type": "statements",
@@ -218,19 +31,20 @@
       "explanation": "Dans les lieux touristiques, les usagers peuvent être plus distraits et moins attentifs à la circulation. Il faut donc augmenter son intervalle de sécurité avec les automobilistes et les piétons."
     },
     {
-      "id": 215,
-      "scene": "scene_151.png",
+      "id": 84,
+      "scene": "scene_044.png",
       "type": "statements",
+      "question": "Si je conduis sous l'emprise de l'alcool",
       "statements": [
         {
-          "text": "Je peux enlever une ou plusieurs chicanes du pot d'origine ?",
+          "text": "Je peux être placé en cellule de dégrisement ?",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Cela permet un gain sensible de performances ?",
+          "text": "Je risque une suspension de permis dès 0,5 g/L de sang ?",
           "answers": [
             "Oui",
             "Non"
@@ -239,63 +53,23 @@
       ],
       "correct": [
         0,
-        3
+        2
       ],
-      "explanation": "Il est parfois possible de démonter une ou plusieurs chicanes du pot d’échappement d’origine. Cette modification augmente principalement le niveau sonore et n’apporte généralement pas de gain de performances significatif. Un échappement devenu trop bruyant peut ne plus être conforme à la réglementation et être sanctionné lors d’un contrôle."
+      "explanation": "Conduire sous l'emprise de l'alcool peut entraîner une immobilisation, une suspension du permis et un placement en cellule de dégrisement. Dès 0,5 gramme par litre de sang, le conducteur est en infraction."
     },
     {
-      "id": 226,
-      "scene": "scene_162.png",
-      "question": "Ce panneau m’interdit-il de dépasser un véhicule à moteur, sauf un deux-roues sans side-car ?",
+      "id": 167,
+      "scene": "scene_107.png",
+      "question": "La distance parcourue entre l'action sur les freins et l'arrêt complet de la moto correspond à :",
       "answers": [
-        "Oui",
-        "Non"
+        "La distance de freinage",
+        "La distance d'arrêt",
+        "Le temps de réaction"
       ],
       "correct": [
         0
       ],
-      "explanation": "Ce panneau interdit aux véhicules à moteur de dépasser d’autres véhicules à moteur. Le dépassement d’un deux-roues sans side-car reste autorisé si la manœuvre est faite sans danger."
-    },
-    {
-      "id": 233,
-      "scene": "scene_165.png",
-      "question": "Ce panneau m’interdit-il de m’arrêter ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Ce panneau interdit l’arrêt et le stationnement. Je ne peux donc pas m’arrêter, même pour une courte durée."
-    },
-    {
-      "id": 254,
-      "scene": "scene_176.png",
-      "question": "Quel groupe est le plus représenté parmi les blessés graves ?",
-      "answers": [
-        "Les deux-roues motorisés",
-        "Les piétons uniquement",
-        "Les conducteurs de bus",
-        "Les passagers de train"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Les usagers de deux-roues motorisés font partie des plus exposés en cas d'accident. Leur protection est beaucoup plus faible que celle des occupants d'une voiture."
-    },
-    {
-      "id": 258,
-      "scene": "scene_179.png",
-      "question": "L'usage d'un défibrillateur automatisé externe (DAE) est-il réservé aux professionnels de santé ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        1
-      ],
-      "explanation": "Le défibrillateur automatisé externe est conçu pour être utilisé par toute personne témoin d'un arrêt cardiaque. Il guide l'utilisateur grâce à des instructions vocales simples et claires."
+      "explanation": "La distance de freinage correspond à la distance parcourue entre le début du freinage et l'arrêt complet. La distance d'arrêt comprend aussi la distance parcourue pendant le temps de réaction."
     },
     {
       "id": 279,
@@ -324,59 +98,6 @@
       "explanation": "La monotonie favorise la fatigue et diminue l’attention, ce qui peut augmenter le temps de réaction. Faire des pauses plus régulières permet de rester vigilant."
     },
     {
-      "id": 287,
-      "scene": "scene_196.png",
-      "question": "Après la prochaine intersection, cette priorité :",
-      "answers": [
-        "Continue automatiquement",
-        "Prend fin"
-      ],
-      "correct": [
-        1
-      ],
-      "explanation": "Ce panneau annonce une priorité ponctuelle, valable uniquement à la prochaine intersection. Après cette intersection, la priorité ne continue pas automatiquement."
-    },
-    {
-      "id": 123,
-      "scene": "scene_075.png",
-      "question": "Avec le permis A2, je peux conduire une moto de 47,5 ch ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "47,5 ch correspond à la limite maximale du permis A2. La moto est autorisée si elle ne dépasse pas cette puissance."
-    },
-    {
-      "id": 132,
-      "scene": "scene_082.jpg",
-      "question": "L'usage du cannabis seul multiplie le risque d'être responsable d'un accident mortel par",
-      "answers": [
-        "1,65",
-        "2",
-        "3"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "L'usage du cannabis seul augmente le risque d'être responsable d'un accident mortel. Ce risque est multiplié par 1,65."
-    },
-    {
-      "id": 143,
-      "scene": "scene_088.png",
-      "question": "La vitesse maximale autorisée sur autoroute par temps de pluie est-elle de 110 km/h ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Par temps de pluie, la vitesse maximale autorisée sur autoroute est abaissée à 110 km/h. La chaussée mouillée réduit l'adhérence et augmente les distances de freinage."
-    },
-    {
       "id": 149,
       "scene": "scene_093.png",
       "question": "À jeun, le taux d'alcool maximal est atteint :",
@@ -392,20 +113,32 @@
       "explanation": "À jeun, l'alcool passe plus rapidement dans le sang. Le taux maximal est généralement atteint environ 30 minutes après l'absorption."
     },
     {
-      "id": 157,
-      "scene": "scene_097.png",
+      "id": 287,
+      "scene": "scene_196.png",
+      "question": "Après la prochaine intersection, cette priorité :",
+      "answers": [
+        "Continue automatiquement",
+        "Prend fin"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ce panneau annonce une priorité ponctuelle, valable uniquement à la prochaine intersection. Après cette intersection, la priorité ne continue pas automatiquement."
+    },
+    {
+      "id": 319,
+      "scene": "scene_218.png",
       "type": "statements",
-      "question": "En approchant ces cyclistes hors agglomération",
       "statements": [
         {
-          "text": "je peux klaxonner pour annoncer mon approche",
+          "text": "Ce panneau concerne les cyclomoteurs de 50 cm³ maximum ?",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "je dois laisser un intervalle latéral minimum de 1,5 mètre",
+          "text": "Ce panneau concerne les deux-roues de plus de 50 cm³ ?",
           "answers": [
             "Oui",
             "Non"
@@ -413,10 +146,36 @@
         }
       ],
       "correct": [
-        1,
-        2
+        0,
+        3
       ],
-      "explanation": "Le klaxon ne doit pas être utilisé pour annoncer son approche, sauf en cas de danger immédiat. Hors agglomération, il faut laisser au moins 1,5 mètre pour dépasser un cycliste."
+      "explanation": "Ce panneau interdit l’accès aux cyclomoteurs, comme les scooters de 50 cm³ maximum. Il ne concerne pas les deux-roues de plus de 50 cm³."
+    },
+    {
+      "id": 389,
+      "scene": "scene_266.png",
+      "question": "Je peux donner à boire à un motard blessé après un accident :",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Il ne faut pas donner à boire à une victime après un accident. Elle peut avoir des blessures graves ou nécessiter une intervention médicale."
+    },
+    {
+      "id": 123,
+      "scene": "scene_075.png",
+      "question": "Avec le permis A2, je peux conduire une moto de 47,5 ch ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "47,5 ch correspond à la limite maximale du permis A2. La moto est autorisée si elle ne dépasse pas cette puissance."
     },
     {
       "id": 159,
@@ -446,34 +205,113 @@
       "explanation": "Le klaxon ne doit pas être utilisé pour annoncer son approche, sauf en cas de danger immédiat. Hors agglomération, il faut laisser au moins 1,5 mètre pour dépasser un piéton ou un coureur."
     },
     {
-      "id": 167,
-      "scene": "scene_107.png",
-      "question": "La distance parcourue entre l'action sur les freins et l'arrêt complet de la moto correspond à :",
+      "id": 47,
+      "scene": "scene_020.png",
+      "question": "Après un accident, combien de temps avez-vous pour déclarer le sinistre à votre assurance ?",
       "answers": [
-        "La distance de freinage",
-        "La distance d'arrêt",
-        "Le temps de réaction"
+        "5 jours ouvrés",
+        "10 jours ouvrés",
+        "30 jours calendaires"
       ],
       "correct": [
         0
       ],
-      "explanation": "La distance de freinage correspond à la distance parcourue entre le début du freinage et l'arrêt complet. La distance d'arrêt comprend aussi la distance parcourue pendant le temps de réaction."
+      "explanation": "Un accident doit être déclaré à l'assurance dans un délai de 5 jours ouvrés. Le constat amiable sert à faciliter cette déclaration."
     },
     {
-      "id": 178,
-      "scene": "scene_118.png",
-      "question": "Je dois changer mon casque :",
-      "answers": [
-        "Tous les 2 ans",
-        "Tous les 5 ans",
-        "Tous les 10 ans",
-        "Après un choc"
+      "id": 316,
+      "scene": "scene_216.png",
+      "type": "statements",
+      "question": "À l’approche de ce panneau :",
+      "statements": [
+        {
+          "text": "Je dois vérifier si un véhicule arrive en face ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Si la voie est libre, je peux continuer prudemment ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
       ],
       "correct": [
-        1,
-        3
+        0,
+        2
       ],
-      "explanation": "Un casque se remplace tous les 5 ans en raison du vieillissement des matériaux, même sans choc visible. Il doit également être remplacé immédiatement après un impact, car sa structure interne peut être endommagée sans que cela soit visible."
+      "explanation": "Ce panneau indique que je suis prioritaire dans le passage concerné. Je dois tout de même vérifier la circulation en face et rester prudent avant de m’engager."
+    },
+    {
+      "id": 369,
+      "scene": "scene_253.png",
+      "type": "statements",
+      "question": "À ce panneau :",
+      "statements": [
+        {
+          "text": "L’arrêt complet est obligatoire :",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Après l’arrêt, je peux m’engager si la voie est libre ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Au stop, l’arrêt complet est obligatoire avant la ligne. Après l’arrêt, je peux m’engager seulement si la voie est libre et sans gêner les autres usagers."
+    },
+    {
+      "id": 2,
+      "scene": "scene_001.png",
+      "question": "Quelle est la bonne attitude face à ce panneau ?",
+      "answers": [
+        "Maintenir sa vitesse, le panneau est indicatif",
+        "Freiner brusquement pour ralentir",
+        "Réduire sa vitesse et anticiper un éventuel dérapage"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Face à un panneau chaussée glissante, freiner brusquement est dangereux car cela peut provoquer un blocage des roues et aggraver le dérapage. La bonne attitude est de réduire progressivement sa vitesse avant la zone dangereuse."
+    },
+    {
+      "id": 35,
+      "scene": "scene_013.png",
+      "question": "Le pictogramme niveau 1 m'autorise à conduire normalement sans précaution particulière.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Le niveau 1 avec son triangle jaune vous demande de lire la notice avant de conduire car le médicament peut provoquer des effets légers comme une somnolence ou une baisse de concentration."
+    },
+    {
+      "id": 132,
+      "scene": "scene_082.jpg",
+      "question": "L'usage du cannabis seul multiplie le risque d'être responsable d'un accident mortel par",
+      "answers": [
+        "1,65",
+        "2",
+        "3"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "L'usage du cannabis seul augmente le risque d'être responsable d'un accident mortel. Ce risque est multiplié par 1,65."
     },
     {
       "id": 182,
@@ -502,9 +340,24 @@
       "explanation": "La direction doit rester fluide pour garder un bon contrôle de la moto. Un point dur peut gêner la trajectoire et nuire à la stabilité."
     },
     {
-      "id": 196,
-      "scene": "scene_110.png",
-      "question": "En règle générale, les voitures ont-elles un système de freinage plus performant que les motos ?",
+      "id": 254,
+      "scene": "scene_176.png",
+      "question": "Quel groupe est le plus représenté parmi les blessés graves ?",
+      "answers": [
+        "Les deux-roues motorisés",
+        "Les piétons uniquement",
+        "Les conducteurs de bus",
+        "Les passagers de train"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Les usagers de deux-roues motorisés font partie des plus exposés en cas d'accident. Leur protection est beaucoup plus faible que celle des occupants d'une voiture."
+    },
+    {
+      "id": 143,
+      "scene": "scene_088.png",
+      "question": "La vitesse maximale autorisée sur autoroute par temps de pluie est-elle de 110 km/h ?",
       "answers": [
         "Oui",
         "Non"
@@ -512,34 +365,60 @@
       "correct": [
         0
       ],
-      "explanation": "En règle générale, une voiture freine plus efficacement qu’une moto grâce à ses quatre roues et à une meilleure stabilité. À moto, il faut donc garder des distances de sécurité suffisantes."
+      "explanation": "Par temps de pluie, la vitesse maximale autorisée sur autoroute est abaissée à 110 km/h. La chaussée mouillée réduit l'adhérence et augmente les distances de freinage."
     },
     {
-      "id": 2,
-      "scene": "scene_001.png",
-      "question": "Quelle est la bonne attitude face à ce panneau ?",
-      "answers": [
-        "Maintenir sa vitesse, le panneau est indicatif",
-        "Freiner brusquement pour ralentir",
-        "Réduire sa vitesse et anticiper un éventuel dérapage"
+      "id": 157,
+      "scene": "scene_097.png",
+      "type": "statements",
+      "question": "En approchant ces cyclistes hors agglomération",
+      "statements": [
+        {
+          "text": "je peux klaxonner pour annoncer mon approche",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "je dois laisser un intervalle latéral minimum de 1,5 mètre",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
       ],
       "correct": [
+        1,
         2
       ],
-      "explanation": "Face à un panneau chaussée glissante, freiner brusquement est dangereux car cela peut provoquer un blocage des roues et aggraver le dérapage. La bonne attitude est de réduire progressivement sa vitesse avant la zone dangereuse."
+      "explanation": "Le klaxon ne doit pas être utilisé pour annoncer son approche, sauf en cas de danger immédiat. Hors agglomération, il faut laisser au moins 1,5 mètre pour dépasser un cycliste."
     },
     {
-      "id": 6,
-      "scene": "scene_003.jpg",
-      "question": "Les effets de l'alcool sur la conduite ne se font sentir qu'à partir du deuxième verre.",
-      "answers": [
-        "Oui",
-        "Non"
+      "id": 354,
+      "scene": "scene_240.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Je dois adapter ma vitesse à l’approche d'une intersection",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Cette situation correspond à une priorité à droite",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
       ],
       "correct": [
-        1
+        0,
+        2
       ],
-      "explanation": "L'alcool agit dès le premier verre. Même une faible consommation suffit à altérer les réflexes, la vision et la capacité à évaluer les distances."
+      "explanation": "À l’approche d’une intersection, je dois ralentir et vérifier les priorités. En l’absence de panneau ou de marquage indiquant une autre priorité, la priorité à droite s’applique."
     },
     {
       "id": 11,
@@ -553,6 +432,180 @@
         1
       ],
       "explanation": "Le triangle de présignalisation n'est pas obligatoire à moto. Il concerne les véhicules de plus de deux roues, comme les voitures."
+    },
+    {
+      "id": 382,
+      "scene": "scene_246.png",
+      "question": "La distance parcourue entre la perception de l’obstacle et l’arrêt complet de la moto définit :",
+      "answers": [
+        "La distance d’arrêt",
+        "La distance de freinage",
+        "Le temps de réaction"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "La distance d’arrêt correspond à la distance parcourue entre la perception du danger et l’arrêt complet de la moto. Elle comprend la distance parcourue pendant le temps de réaction et la distance de freinage."
+    },
+    {
+      "id": 307,
+      "scene": "scene_212.png",
+      "question": "Un panneau de forme carrée annonce le plus souvent :",
+      "answers": [
+        "Une obligation",
+        "Un danger",
+        "Une interdiction",
+        "Une indication"
+      ],
+      "correct": [
+        3
+      ],
+      "explanation": "Un panneau carré donne le plus souvent une indication. Il informe l’usager sur une règle de circulation, une voie ou un service."
+    },
+    {
+      "id": 215,
+      "scene": "scene_151.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Je peux enlever une ou plusieurs chicanes du pot d'origine ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Cela permet un gain sensible de performances ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        3
+      ],
+      "explanation": "Il est parfois possible de démonter une ou plusieurs chicanes du pot d’échappement d’origine. Cette modification augmente principalement le niveau sonore et n’apporte généralement pas de gain de performances significatif. Un échappement devenu trop bruyant peut ne plus être conforme à la réglementation et être sanctionné lors d’un contrôle."
+    },
+    {
+      "id": 348,
+      "scene": "scene_237.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Cette zone est réservée au stationnement des motos",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Avant de quitter cet emplacement, je dois contrôler autour de moi",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Le marquage au sol indique une zone réservée au stationnement des motos. Avant de repartir, il faut contrôler autour de soi pour s’insérer sans danger."
+    },
+    {
+      "id": 196,
+      "scene": "scene_110.png",
+      "question": "En règle générale, les voitures ont-elles un système de freinage plus performant que les motos ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "En règle générale, une voiture freine plus efficacement qu’une moto grâce à ses quatre roues et à une meilleure stabilité. À moto, il faut donc garder des distances de sécurité suffisantes."
+    },
+    {
+      "id": 76,
+      "scene": "scene_039.png",
+      "type": "statements",
+      "question": "Ce marquage sur un emplacement de stationnement m'interdit",
+      "statements": [
+        {
+          "text": "L'arrêt ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Le stationnement ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "L'arrêt et le stationnement sont interdits sur un emplacement réservé aux personnes handicapées. Seuls les véhicules avec une carte mobilité inclusion peuvent utiliser ces places."
+    },
+    {
+      "id": 52,
+      "scene": "scene_022.png",
+      "question": "J'ai prêté mon véhicule à un ami qui a déclenché un radar automatique pour excès de vitesse. En tant que propriétaire, suis-je responsable ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Le titulaire du certificat d'immatriculation est responsable pécuniairement de l'infraction. Il peut désigner le conducteur réel dans un délai de 45 jours afin que l'avis soit établi à son nom"
+    },
+    {
+      "id": 24,
+      "scene": "scene_010.jpg",
+      "type": "statements",
+      "question": "Je peux rouler avec un pneu dont la profondeur des sculptures est de",
+      "statements": [
+        {
+          "text": "1 millimètre",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "2 millimètres",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Pour une moto, la profondeur des sculptures ne doit pas être inférieure à 1 millimètre. Un pneu à 1 millimètre est donc encore conforme, mais il reste proche de la limite."
+    },
+    {
+      "id": 397,
+      "scene": "scene_274.png",
+      "question": "La capacité d’accélération d’une moto peut surprendre les autres usagers",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Une moto peut accélérer très rapidement, ce qui peut surprendre les autres usagers de la route s’ils ne l’anticipent pas."
     },
     {
       "id": 16,
@@ -585,44 +638,56 @@
       "explanation": "L'utilisation d'une oreillette est interdite à la conduite, que ce soit pour téléphoner ou écouter de la musique. Cela détourne l'attention du conducteur et réduit sa perception des sons d'alerte. Seul un système audio intégré au casque et homologué est toléré."
     },
     {
-      "id": 24,
-      "scene": "scene_010.jpg",
-      "type": "statements",
-      "question": "Je peux rouler avec un pneu dont la profondeur des sculptures est de",
-      "statements": [
-        {
-          "text": "1 millimètre",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "2 millimètres",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
+      "id": 226,
+      "scene": "scene_162.png",
+      "question": "Ce panneau m’interdit-il de dépasser un véhicule à moteur, sauf un deux-roues sans side-car ?",
+      "answers": [
+        "Oui",
+        "Non"
       ],
       "correct": [
-        0,
-        2
+        0
       ],
-      "explanation": "Pour une moto, la profondeur des sculptures ne doit pas être inférieure à 1 millimètre. Un pneu à 1 millimètre est donc encore conforme, mais il reste proche de la limite."
+      "explanation": "Ce panneau interdit aux véhicules à moteur de dépasser d’autres véhicules à moteur. Le dépassement d’un deux-roues sans side-car reste autorisé si la manœuvre est faite sans danger."
     },
     {
-      "id": 35,
-      "scene": "scene_013.png",
-      "question": "Le pictogramme niveau 1 m'autorise à conduire normalement sans précaution particulière.",
+      "id": 6,
+      "scene": "scene_003.jpg",
+      "question": "Les effets de l'alcool sur la conduite ne se font sentir qu'à partir du deuxième verre.",
       "answers": [
-        "Vrai",
-        "Faux"
+        "Oui",
+        "Non"
       ],
       "correct": [
         1
       ],
-      "explanation": "Le niveau 1 avec son triangle jaune vous demande de lire la notice avant de conduire car le médicament peut provoquer des effets légers comme une somnolence ou une baisse de concentration."
+      "explanation": "L'alcool agit dès le premier verre. Même une faible consommation suffit à altérer les réflexes, la vision et la capacité à évaluer les distances."
+    },
+    {
+      "id": 90,
+      "scene": "scene_046.png",
+      "question": "Dans cette rue à double sens de circulation, le placement est adapté ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "En agglomération, le motard doit se placer au centre de sa propre voie de circulation, pas au milieu de la chaussée. Ici il empiète sur la voie en sens inverse, ce qui est dangereux."
+    },
+    {
+      "id": 233,
+      "scene": "scene_165.png",
+      "question": "Ce panneau m’interdit-il de m’arrêter ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ce panneau interdit l’arrêt et le stationnement. Je ne peux donc pas m’arrêter, même pour une courte durée."
     },
     {
       "id": 43,
@@ -652,90 +717,9 @@
       "explanation": "Le clignotant signale une intention, il n'autorise rien. Avant de dépasser ou de changer de voie, le conducteur doit s'assurer que la manœuvre est sans danger."
     },
     {
-      "id": 47,
-      "scene": "scene_020.png",
-      "question": "Après un accident, combien de temps avez-vous pour déclarer le sinistre à votre assurance ?",
-      "answers": [
-        "5 jours ouvrés",
-        "10 jours ouvrés",
-        "30 jours calendaires"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Un accident doit être déclaré à l'assurance dans un délai de 5 jours ouvrés. Le constat amiable sert à faciliter cette déclaration."
-    },
-    {
-      "id": 52,
-      "scene": "scene_022.png",
-      "question": "J'ai prêté mon véhicule à un ami qui a déclenché un radar automatique pour excès de vitesse. En tant que propriétaire, suis-je responsable ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Le titulaire du certificat d'immatriculation est responsable pécuniairement de l'infraction. Il peut désigner le conducteur réel dans un délai de 45 jours afin que l'avis soit établi à son nom"
-    },
-    {
-      "id": 76,
-      "scene": "scene_039.png",
-      "type": "statements",
-      "question": "Ce marquage sur un emplacement de stationnement m'interdit",
-      "statements": [
-        {
-          "text": "L'arrêt ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "Le stationnement ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        0,
-        2
-      ],
-      "explanation": "L'arrêt et le stationnement sont interdits sur un emplacement réservé aux personnes handicapées. Seuls les véhicules avec une carte mobilité inclusion peuvent utiliser ces places."
-    },
-    {
-      "id": 84,
-      "scene": "scene_044.png",
-      "type": "statements",
-      "question": "Si je conduis sous l'emprise de l'alcool",
-      "statements": [
-        {
-          "text": "Je peux être placé en cellule de dégrisement ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "Je risque une suspension de permis dès 0,5 g/L de sang ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        0,
-        2
-      ],
-      "explanation": "Conduire sous l'emprise de l'alcool peut entraîner une immobilisation, une suspension du permis et un placement en cellule de dégrisement. Dès 0,5 gramme par litre de sang, le conducteur est en infraction."
-    },
-    {
-      "id": 90,
-      "scene": "scene_046.png",
-      "question": "Dans cette rue à double sens de circulation, le placement est adapté ?",
+      "id": 258,
+      "scene": "scene_179.png",
+      "question": "L'usage d'un défibrillateur automatisé externe (DAE) est-il réservé aux professionnels de santé ?",
       "answers": [
         "Oui",
         "Non"
@@ -743,7 +727,23 @@
       "correct": [
         1
       ],
-      "explanation": "En agglomération, le motard doit se placer au centre de sa propre voie de circulation, pas au milieu de la chaussée. Ici il empiète sur la voie en sens inverse, ce qui est dangereux."
+      "explanation": "Le défibrillateur automatisé externe est conçu pour être utilisé par toute personne témoin d'un arrêt cardiaque. Il guide l'utilisateur grâce à des instructions vocales simples et claires."
+    },
+    {
+      "id": 178,
+      "scene": "scene_118.png",
+      "question": "Je dois changer mon casque :",
+      "answers": [
+        "Tous les 2 ans",
+        "Tous les 5 ans",
+        "Tous les 10 ans",
+        "Après un choc"
+      ],
+      "correct": [
+        1,
+        3
+      ],
+      "explanation": "Un casque se remplace tous les 5 ans en raison du vieillissement des matériaux, même sans choc visible. Il doit également être remplacé immédiatement après un impact, car sa structure interne peut être endommagée sans que cela soit visible."
     }
   ]
 }

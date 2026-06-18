@@ -3,19 +3,75 @@
   "version": "1.0.0",
   "questions": [
     {
-      "id": 339,
-      "scene": "scene_232.png",
+      "id": 127,
+      "scene": "scene_079.png",
+      "question": "Ce casque est-il homologué pour circuler à moto ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "L’étiquette d’homologation visible sur la jugulaire indique que le casque est homologué. Elle permet de vérifier que le casque respecte une norme autorisée pour circuler à moto."
+    },
+    {
+      "id": 50,
+      "scene": "scene_021.png",
+      "question": "L'alcool est en cause dans",
+      "answers": [
+        "75 % des accidents mortels",
+        "50 % des accidents mortels",
+        "30 % des accidents mortels"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "L'alcool est impliqué dans environ 30 pour cent des accidents mortels en France. Il fait partie des principaux facteurs de risque sur la route."
+    },
+    {
+      "id": 266,
+      "scene": "scene_184.png",
+      "question": "Pour un excès de vitesse de 30 à 39 km/h au-dessus de la limite autorisée, je risque la perte de ?",
+      "answers": [
+        "2 points",
+        "3 points",
+        "4 points",
+        "6 points"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Un excès de vitesse de 30 à 39 km/h au-dessus de la limite autorisée entraîne le retrait de 3 points. Plus le dépassement est important, plus le retrait de points augmente."
+    },
+    {
+      "id": 381,
+      "scene": "scene_262.png",
+      "question": "Le temps qui s’écoule entre la perception de l’obstacle et l’action sur les freins définit :",
+      "answers": [
+        "La distance d’arrêt",
+        "La distance de freinage",
+        "Le temps de réaction"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Le temps de réaction correspond au délai entre la perception d’un danger et l’action du conducteur. Pendant ce temps, la moto continue d’avancer."
+    },
+    {
+      "id": 352,
+      "scene": "scene_239.png",
       "type": "statements",
       "statements": [
         {
-          "text": "Si un piéton manifeste clairement son intention de traverser, je dois lui céder le passage",
+          "text": "La voiture noire peut s’engager avant moi",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Refuser la priorité à un piéton peut entraîner un retrait de 6 points et une amende de 135 euros",
+          "text": "En l’absence de panneau ou de marquage de priorité, je dois appliquer la priorité à droite",
           "answers": [
             "Oui",
             "Non"
@@ -26,7 +82,60 @@
         0,
         2
       ],
-      "explanation": "Un piéton engagé ou qui manifeste clairement son intention de traverser est prioritaire. Refuser cette priorité peut entraîner une amende et un retrait de 6 points."
+      "explanation": "Sans panneau ni marquage de priorité, la règle de la priorité à droite s’applique. La voiture noire venant de droite peut donc s’engager avant moi."
+    },
+    {
+      "id": 111,
+      "scene": "scene_067.png",
+      "question": "Ces gants sont-ils homologués pour la moto ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Le marquage CE avec le pictogramme moto et la norme EN 13594 indique que ces gants sont homologués pour la moto. La mention KP indique aussi une protection des articulations."
+    },
+    {
+      "id": 94,
+      "scene": "scene_053.png",
+      "question": "Je suis dans l'angle mort d'un véhicule.",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Le poids lourd est très proche sur la droite et le motard se trouve dans une zone difficile à voir pour le conducteur. Il faut éviter de rester à cet endroit et se dégager rapidement."
+    },
+    {
+      "id": 106,
+      "scene": "scene_062.png",
+      "question": "Un clignotant rapide alerte-t-il d'une ampoule hors d'usage ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Un clignotement anormalement rapide indique souvent qu'une ampoule de clignotant ne fonctionne plus. Il faut vérifier l'éclairage avant de reprendre la route."
+    },
+    {
+      "id": 62,
+      "scene": "scene_028.png",
+      "question": "Par temps de pluie, la distance de freinage est",
+      "answers": [
+        "Identique au temps sec",
+        "Légèrement augmentée",
+        "Multipliée par deux ou plus"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Sur chaussée mouillée, l'adhérence des pneus chute fortement et la distance de freinage peut doubler voire tripler. Il faut anticiper les freinages bien plus tôt qu'en conditions sèches."
     },
     {
       "id": 343,
@@ -59,322 +168,6 @@
       "explanation": "La voiture grise est déjà engagée dans le giratoire, elle est donc prioritaire. La moto doit céder le passage avant de s’engager."
     },
     {
-      "id": 352,
-      "scene": "scene_239.png",
-      "type": "statements",
-      "statements": [
-        {
-          "text": "La voiture noire peut s’engager avant moi",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "En l’absence de panneau ou de marquage de priorité, je dois appliquer la priorité à droite",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        0,
-        2
-      ],
-      "explanation": "Sans panneau ni marquage de priorité, la règle de la priorité à droite s’applique. La voiture noire venant de droite peut donc s’engager avant moi."
-    },
-    {
-      "id": 355,
-      "scene": "scene_241.png",
-      "photo": {
-        "fit": "contain",
-        "height": 300
-      },
-      "question": "Pour sortir à la première sortie à droite, je dois suivre la trajectoire :",
-      "answers": [
-        "A",
-        "B"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "La trajectoire A permet de prendre directement la première sortie à droite. La trajectoire B sert plutôt à continuer dans le giratoire avant de sortir plus loin."
-    },
-    {
-      "id": 358,
-      "scene": "scene_244.png",
-      "photo": {
-        "fit": "contain",
-        "height": 300
-      },
-      "question": "Pour sortir à la deuxième sortie du giratoire, je mets mon clignotant droit au point :",
-      "answers": [
-        "A",
-        "B",
-        "C"
-      ],
-      "correct": [
-        2
-      ],
-      "explanation": "Pour prendre la deuxième sortie du giratoire, je ne mets pas le clignotant droit dès l’entrée du giratoire. Je l’active après avoir dépassé la sortie précédente, avant de quitter le giratoire."
-    },
-    {
-      "id": 381,
-      "scene": "scene_262.png",
-      "question": "Le temps qui s’écoule entre la perception de l’obstacle et l’action sur les freins définit :",
-      "answers": [
-        "La distance d’arrêt",
-        "La distance de freinage",
-        "Le temps de réaction"
-      ],
-      "correct": [
-        2
-      ],
-      "explanation": "Le temps de réaction correspond au délai entre la perception d’un danger et l’action du conducteur. Pendant ce temps, la moto continue d’avancer."
-    },
-    {
-      "id": 242,
-      "scene": "scene_168.png",
-      "type": "statements",
-      "question": "Dans cette situation :",
-      "statements": [
-        {
-          "text": "Je cède le passage au véhicule gris à ma gauche ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "Je m’assure d’avoir bien été détecté par le conducteur de ce véhicule ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        1,
-        2
-      ],
-      "explanation": "Le véhicule gris arrive de gauche, il n’est donc pas prioritaire sur moi dans cette situation. Je reste tout de même prudent et je vérifie que son conducteur m’a bien vu avant de continuer."
-    },
-    {
-      "id": 266,
-      "scene": "scene_184.png",
-      "question": "Pour un excès de vitesse de 30 à 39 km/h au-dessus de la limite autorisée, je risque la perte de ?",
-      "answers": [
-        "2 points",
-        "3 points",
-        "4 points",
-        "6 points"
-      ],
-      "correct": [
-        1
-      ],
-      "explanation": "Un excès de vitesse de 30 à 39 km/h au-dessus de la limite autorisée entraîne le retrait de 3 points. Plus le dépassement est important, plus le retrait de points augmente."
-    },
-    {
-      "id": 272,
-      "scene": "scene_188.png",
-      "question": "Ce panneau indique-t-il une route prioritaire sur plusieurs intersections ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Ce panneau indique une route à caractère prioritaire. La priorité s’applique sur plusieurs intersections, jusqu’à un panneau de fin ou une autre signalisation."
-    },
-    {
-      "id": 285,
-      "scene": "scene_196.png",
-      "type": "statements",
-      "question": "En continuant tout droit à la prochaine intersection, le motard cédera le passage :",
-      "statements": [
-        {
-          "text": "À droite",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "À gauche",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        1,
-        3
-      ],
-      "explanation": "Le panneau indique une priorité ponctuelle à la prochaine intersection. Le motard est donc prioritaire en continuant tout droit."
-    },
-    {
-      "id": 286,
-      "scene": "scene_197.png",
-      "type": "statements",
-      "question": "En continuant tout droit à la prochaine intersection, le motard cédera le passage :",
-      "statements": [
-        {
-          "text": "À droite",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "À gauche",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        1,
-        3
-      ],
-      "explanation": "Le panneau indique une priorité ponctuelle à la prochaine intersection. Le motard est donc prioritaire en continuant tout droit."
-    },
-    {
-      "id": 299,
-      "scene": "scene_204.png",
-      "type": "statements",
-      "question": "L’effet gyroscopique :",
-      "statements": [
-        {
-          "text": "Aide à maintenir la moto en équilibre",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "Augmente avec la vitesse",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        0,
-        2
-      ],
-      "explanation": "L’effet gyroscopique contribue à la stabilité de la moto lorsqu’elle roule. Plus la vitesse augmente, plus cet effet devient important."
-    },
-    {
-      "id": 106,
-      "scene": "scene_062.png",
-      "question": "Un clignotant rapide alerte-t-il d'une ampoule hors d'usage ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Un clignotement anormalement rapide indique souvent qu'une ampoule de clignotant ne fonctionne plus. Il faut vérifier l'éclairage avant de reprendre la route."
-    },
-    {
-      "id": 111,
-      "scene": "scene_067.png",
-      "question": "Ces gants sont-ils homologués pour la moto ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Le marquage CE avec le pictogramme moto et la norme EN 13594 indique que ces gants sont homologués pour la moto. La mention KP indique aussi une protection des articulations."
-    },
-    {
-      "id": 127,
-      "scene": "scene_079.png",
-      "question": "Ce casque est-il homologué pour circuler à moto ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "L’étiquette d’homologation visible sur la jugulaire indique que le casque est homologué. Elle permet de vérifier que le casque respecte une norme autorisée pour circuler à moto."
-    },
-    {
-      "id": 130,
-      "scene": "scene_081.png",
-      "type": "statements",
-      "question": "Je circule avec un casque non attaché, je risque ",
-      "statements": [
-        {
-          "text": "une amende de 135 euros",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "un retrait de 3 points",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        0,
-        2
-      ],
-      "explanation": "Le casque doit être homologué et correctement attaché pour circuler à moto. En cas de non-respect, le conducteur risque une amende forfaitaire de 135 euros et un retrait de 3 points."
-    },
-    {
-      "id": 148,
-      "scene": "scene_092.png",
-      "question": "Ce casque homologué P/J permet-il de circuler avec la mentonnière ouverte ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Un casque homologué P/J possède une double homologation, intégral et jet. Il peut donc être utilisé en circulation avec la mentonnière ouverte ou fermée."
-    },
-    {
-      "id": 153,
-      "scene": "scene_095.png",
-      "question": "En conservant ma trajectoire, vais-je entrer dans la zone d'incertitude des piétons ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Les piétons sont proches du passage piéton et peuvent décider de traverser. En gardant la même trajectoire, je dois anticiper cette zone d'incertitude et ralentir."
-    },
-    {
-      "id": 160,
-      "scene": "scene_100.png",
-      "question": "Je peux stationner sur la zone de zébras à gauche ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        1
-      ],
-      "explanation": "Une zone de zébras sert à guider la circulation et à séparer des trajectoires. Il est interdit d'y stationner."
-    },
-    {
       "id": 171,
       "scene": "scene_111.png",
       "question": "La zone d'incertitude d'un usager à trottinette est-elle plus importante que celle d'un piéton ?",
@@ -388,90 +181,24 @@
       "explanation": "Un usager à trottinette peut changer rapidement de trajectoire et se déplacer plus vite qu'un piéton. Sa zone d'incertitude est donc plus importante et je dois garder une marge de sécurité."
     },
     {
-      "id": 177,
-      "scene": "scene_117.png",
-      "type": "statements",
-      "statements": [
-        {
-          "text": "La signalisation autorise le dépassement",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "La visibilité permet le dépassement",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
+      "id": 51,
+      "scene": "scene_022.png",
+      "question": "Sur autoroute, les périodes où la vigilance baisse le plus se situent",
+      "answers": [
+        "Entre 2h et 5h",
+        "Entre 13h et 15h",
+        "Entre 20h et 23h"
       ],
       "correct": [
         0,
-        2
+        1
       ],
-      "explanation": "La ligne discontinue autorise le dépassement si les conditions sont réunies. Ici, la voie en sens inverse est dégagée et la visibilité permet d'anticiper la manœuvre."
+      "explanation": "La vigilance baisse surtout la nuit et juste après le repas. Sur autoroute, il faut faire une pause dès les premiers signes de fatigue."
     },
     {
-      "id": 181,
-      "scene": "scene_120.png",
-      "type": "statements",
-      "question": "Il est important de contrôler régulièrement l'absence de point dur dans la direction",
-      "statements": [
-        {
-          "text": "Ce point dur peut avoir des conséquences sur le freinage ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "Ce point dur peut avoir des conséquences sur la stabilité ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        1,
-        2
-      ],
-      "explanation": "Un point dur dans la direction peut gêner le contrôle de la moto. Il peut nuire à la stabilité, mais pas directement au freinage."
-    },
-    {
-      "id": 185,
-      "scene": "scene_123.png",
-      "type": "statements",
-      "question": "",
-      "statements": [
-        {
-          "text": "certains casques sont équipés d'un système d'écouteurs",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "l'utilisation d'écouteurs peut être une source de distraction",
-          "answers": [
-            "Auditive",
-            "Motrice"
-          ]
-        }
-      ],
-      "correct": [
-        0,
-        2,
-        3
-      ],
-      "explanation": "Certains casques peuvent intégrer un système audio. L'utilisation d'écouteurs peut provoquer une distraction à la fois auditive, en diminuant l'attention portée aux sons de la circulation, et motrice, notamment lors de la manipulation des commandes audio en roulant."
-    },
-    {
-      "id": 190,
-      "scene": "scene_128.png",
-      "question": "Suis-je correctement placé dans ce sens unique ?",
+      "id": 153,
+      "scene": "scene_095.png",
+      "question": "En conservant ma trajectoire, vais-je entrer dans la zone d'incertitude des piétons ?",
       "answers": [
         "Oui",
         "Non"
@@ -479,20 +206,7 @@
       "correct": [
         0
       ],
-      "explanation": "Dans cette rue à sens unique, le placement au centre de la voie est adapté. Il permet de garder de la visibilité et de s’éloigner des dangers latéraux."
-    },
-    {
-      "id": 191,
-      "scene": "scene_136.png",
-      "question": "La solidarité entre motards se traduit-elle par une bienveillance en cas de panne ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "La solidarité entre motards consiste à rester attentif aux autres usagers à deux roues. En cas de panne, elle peut se traduire par une aide ou une attitude bienveillante."
+      "explanation": "Les piétons sont proches du passage piéton et peuvent décider de traverser. En gardant la même trajectoire, je dois anticiper cette zone d'incertitude et ralentir."
     },
     {
       "id": 192,
@@ -522,47 +236,6 @@
       "explanation": "Un raccord de goudron est souvent plus lisse que le reste de la chaussée, ce qui peut réduire l’adhérence. Par temps de pluie, il peut aussi retenir l’eau et augmenter le risque d’aquaplaning."
     },
     {
-      "id": 195,
-      "scene": "scene_131.png",
-      "question": "Si je perds un point sur mon permis, je le récupère sans commettre d’autre infraction au bout de :",
-      "answers": [
-        "3 mois",
-        "6 mois",
-        "1 an",
-        "2 ans"
-      ],
-      "correct": [
-        1
-      ],
-      "explanation": "En cas de perte d’un point, il est récupéré automatiquement au bout de 6 mois sans nouvelle infraction. Le délai commence à partir de la date définitive de l’infraction."
-    },
-    {
-      "id": 198,
-      "scene": "scene_133.png",
-      "type": "statements",
-      "statements": [
-        {
-          "text": "Une vitesse excessive est généralement la cause de ce type d'accident",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "En adaptant sa vitesse, le motard réduit ce risque",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        0,
-        2
-      ],
-      "explanation": "Une vitesse excessive peut entraîner une perte de trajectoire, surtout dans un virage. En adaptant sa vitesse avant le virage, le motard réduit le risque de sortie de route."
-    },
-    {
       "id": 12,
       "scene": "scene_018.jpg",
       "question": "Un conducteur novice est en infraction dès que son taux d'alcool atteint",
@@ -579,59 +252,17 @@
       "explanation": "Pour un conducteur novice en période probatoire, la loi est plus stricte. Il est en infraction dès que son taux atteint 0,20 g/L de sang, ce qui correspond à 0,10 mg/L d'air expiré."
     },
     {
-      "id": 15,
-      "scene": "scene_005.jpg",
-      "question": "À quel moment dois-je actionner mon clignotant avant d'effectuer un tournant ?",
-      "answers": [
-        "Avant de commencer ma manœuvre",
-        "Après avoir amorcé le virage"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Le clignotant doit être enclenché suffisamment tôt, avant de ralentir et avant d'initier le virage. Il sert à prévenir les autres usagers de votre intention de changer de direction. Actionner le clignotant après avoir amorcé la manœuvre ne laisse pas le temps aux véhicules suivants de réagir, ce qui peut provoquer une collision. La règle est simple : je signale, je vérifie, puis je manœuvre."
-    },
-    {
-      "id": 19,
-      "scene": "scene_006.jpg",
-      "question": "L'ABS permet de garder le contrôle de la direction pendant un freinage d'urgence.",
+      "id": 160,
+      "scene": "scene_100.png",
+      "question": "Je peux stationner sur la zone de zébras à gauche ?",
       "answers": [
         "Oui",
         "Non"
       ],
       "correct": [
-        0
-      ],
-      "explanation": "C'est précisément le rôle de l'ABS. En modulant automatiquement la pression de freinage, il évite que les roues se bloquent. Le pilote peut ainsi continuer à diriger la moto tout en freinant fort."
-    },
-    {
-      "id": 50,
-      "scene": "scene_021.png",
-      "question": "L'alcool est en cause dans",
-      "answers": [
-        "75 % des accidents mortels",
-        "50 % des accidents mortels",
-        "30 % des accidents mortels"
-      ],
-      "correct": [
-        2
-      ],
-      "explanation": "L'alcool est impliqué dans environ 30 pour cent des accidents mortels en France. Il fait partie des principaux facteurs de risque sur la route."
-    },
-    {
-      "id": 51,
-      "scene": "scene_022.png",
-      "question": "Sur autoroute, les périodes où la vigilance baisse le plus se situent",
-      "answers": [
-        "Entre 2h et 5h",
-        "Entre 13h et 15h",
-        "Entre 20h et 23h"
-      ],
-      "correct": [
-        0,
         1
       ],
-      "explanation": "La vigilance baisse surtout la nuit et juste après le repas. Sur autoroute, il faut faire une pause dès les premiers signes de fatigue."
+      "explanation": "Une zone de zébras sert à guider la circulation et à séparer des trajectoires. Il est interdit d'y stationner."
     },
     {
       "id": 53,
@@ -661,6 +292,242 @@
       "explanation": "L'écomobilité consiste à choisir des modes de transport qui limitent l'impact sur l'environnement. Les transports en commun, le vélo et la marche en sont les exemples les plus directs."
     },
     {
+      "id": 272,
+      "scene": "scene_188.png",
+      "question": "Ce panneau indique-t-il une route prioritaire sur plusieurs intersections ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ce panneau indique une route à caractère prioritaire. La priorité s’applique sur plusieurs intersections, jusqu’à un panneau de fin ou une autre signalisation."
+    },
+    {
+      "id": 339,
+      "scene": "scene_232.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Si un piéton manifeste clairement son intention de traverser, je dois lui céder le passage",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Refuser la priorité à un piéton peut entraîner un retrait de 6 points et une amende de 135 euros",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Un piéton engagé ou qui manifeste clairement son intention de traverser est prioritaire. Refuser cette priorité peut entraîner une amende et un retrait de 6 points."
+    },
+    {
+      "id": 177,
+      "scene": "scene_117.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "La signalisation autorise le dépassement",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "La visibilité permet le dépassement",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "La ligne discontinue autorise le dépassement si les conditions sont réunies. Ici, la voie en sens inverse est dégagée et la visibilité permet d'anticiper la manœuvre."
+    },
+    {
+      "id": 198,
+      "scene": "scene_133.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Une vitesse excessive est généralement la cause de ce type d'accident",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "En adaptant sa vitesse, le motard réduit ce risque",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Une vitesse excessive peut entraîner une perte de trajectoire, surtout dans un virage. En adaptant sa vitesse avant le virage, le motard réduit le risque de sortie de route."
+    },
+    {
+      "id": 286,
+      "scene": "scene_197.png",
+      "type": "statements",
+      "question": "En continuant tout droit à la prochaine intersection, le motard cédera le passage :",
+      "statements": [
+        {
+          "text": "À droite",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "À gauche",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        1,
+        3
+      ],
+      "explanation": "Le panneau indique une priorité ponctuelle à la prochaine intersection. Le motard est donc prioritaire en continuant tout droit."
+    },
+    {
+      "id": 91,
+      "scene": "scene_047.png",
+      "question": "En circulant sur une voie de bus, je risque",
+      "answers": [
+        "Une contravention de première classe",
+        "Une contravention de quatrième classe",
+        "Un retrait de points",
+        "Rien si la voie est libre"
+      ],
+      "correct": [
+        1,
+        2
+      ],
+      "explanation": "Circuler sur une voie de bus est une infraction sanctionnée par une amende de quatrième classe et un retrait de trois points. Peu importe que la voie soit libre, la règle s'applique toujours."
+    },
+    {
+      "id": 181,
+      "scene": "scene_120.png",
+      "type": "statements",
+      "question": "Il est important de contrôler régulièrement l'absence de point dur dans la direction",
+      "statements": [
+        {
+          "text": "Ce point dur peut avoir des conséquences sur le freinage ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Ce point dur peut avoir des conséquences sur la stabilité ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        1,
+        2
+      ],
+      "explanation": "Un point dur dans la direction peut gêner le contrôle de la moto. Il peut nuire à la stabilité, mais pas directement au freinage."
+    },
+    {
+      "id": 358,
+      "scene": "scene_244.png",
+      "photo": {
+        "fit": "contain",
+        "height": 300
+      },
+      "question": "Pour sortir à la deuxième sortie du giratoire, je mets mon clignotant droit au point :",
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Pour prendre la deuxième sortie du giratoire, je ne mets pas le clignotant droit dès l’entrée du giratoire. Je l’active après avoir dépassé la sortie précédente, avant de quitter le giratoire."
+    },
+    {
+      "id": 299,
+      "scene": "scene_204.png",
+      "type": "statements",
+      "question": "L’effet gyroscopique :",
+      "statements": [
+        {
+          "text": "Aide à maintenir la moto en équilibre",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Augmente avec la vitesse",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "L’effet gyroscopique contribue à la stabilité de la moto lorsqu’elle roule. Plus la vitesse augmente, plus cet effet devient important."
+    },
+    {
+      "id": 355,
+      "scene": "scene_241.png",
+      "photo": {
+        "fit": "contain",
+        "height": 300
+      },
+      "question": "Pour sortir à la première sortie à droite, je dois suivre la trajectoire :",
+      "answers": [
+        "A",
+        "B"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "La trajectoire A permet de prendre directement la première sortie à droite. La trajectoire B sert plutôt à continuer dans le giratoire avant de sortir plus loin."
+    },
+    {
+      "id": 19,
+      "scene": "scene_006.jpg",
+      "question": "L'ABS permet de garder le contrôle de la direction pendant un freinage d'urgence.",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "C'est précisément le rôle de l'ABS. En modulant automatiquement la pression de freinage, il évite que les roues se bloquent. Le pilote peut ainsi continuer à diriger la moto tout en freinant fort."
+    },
+    {
       "id": 60,
       "scene": "scene_052.jpg",
       "type": "statements",
@@ -688,18 +555,166 @@
       "explanation": "Le système eCall localise le véhicule et contacte automatiquement les secours lorsqu'un accident grave est détecté."
     },
     {
-      "id": 62,
-      "scene": "scene_028.png",
-      "question": "Par temps de pluie, la distance de freinage est",
+      "id": 15,
+      "scene": "scene_005.jpg",
+      "question": "À quel moment dois-je actionner mon clignotant avant d'effectuer un tournant ?",
       "answers": [
-        "Identique au temps sec",
-        "Légèrement augmentée",
-        "Multipliée par deux ou plus"
+        "Avant de commencer ma manœuvre",
+        "Après avoir amorcé le virage"
       ],
       "correct": [
+        0
+      ],
+      "explanation": "Le clignotant doit être enclenché suffisamment tôt, avant de ralentir et avant d'initier le virage. Il sert à prévenir les autres usagers de votre intention de changer de direction. Actionner le clignotant après avoir amorcé la manœuvre ne laisse pas le temps aux véhicules suivants de réagir, ce qui peut provoquer une collision. La règle est simple : je signale, je vérifie, puis je manœuvre."
+    },
+    {
+      "id": 130,
+      "scene": "scene_081.png",
+      "type": "statements",
+      "question": "Je circule avec un casque non attaché, je risque ",
+      "statements": [
+        {
+          "text": "une amende de 135 euros",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "un retrait de 3 points",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
         2
       ],
-      "explanation": "Sur chaussée mouillée, l'adhérence des pneus chute fortement et la distance de freinage peut doubler voire tripler. Il faut anticiper les freinages bien plus tôt qu'en conditions sèches."
+      "explanation": "Le casque doit être homologué et correctement attaché pour circuler à moto. En cas de non-respect, le conducteur risque une amende forfaitaire de 135 euros et un retrait de 3 points."
+    },
+    {
+      "id": 190,
+      "scene": "scene_128.png",
+      "question": "Suis-je correctement placé dans ce sens unique ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Dans cette rue à sens unique, le placement au centre de la voie est adapté. Il permet de garder de la visibilité et de s’éloigner des dangers latéraux."
+    },
+    {
+      "id": 285,
+      "scene": "scene_196.png",
+      "type": "statements",
+      "question": "En continuant tout droit à la prochaine intersection, le motard cédera le passage :",
+      "statements": [
+        {
+          "text": "À droite",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "À gauche",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        1,
+        3
+      ],
+      "explanation": "Le panneau indique une priorité ponctuelle à la prochaine intersection. Le motard est donc prioritaire en continuant tout droit."
+    },
+    {
+      "id": 195,
+      "scene": "scene_131.png",
+      "question": "Si je perds un point sur mon permis, je le récupère sans commettre d’autre infraction au bout de :",
+      "answers": [
+        "3 mois",
+        "6 mois",
+        "1 an",
+        "2 ans"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "En cas de perte d’un point, il est récupéré automatiquement au bout de 6 mois sans nouvelle infraction. Le délai commence à partir de la date définitive de l’infraction."
+    },
+    {
+      "id": 242,
+      "scene": "scene_168.png",
+      "type": "statements",
+      "question": "Dans cette situation :",
+      "statements": [
+        {
+          "text": "Je cède le passage au véhicule gris à ma gauche ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Je m’assure d’avoir bien été détecté par le conducteur de ce véhicule ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        1,
+        2
+      ],
+      "explanation": "Le véhicule gris arrive de gauche, il n’est donc pas prioritaire sur moi dans cette situation. Je reste tout de même prudent et je vérifie que son conducteur m’a bien vu avant de continuer."
+    },
+    {
+      "id": 191,
+      "scene": "scene_136.png",
+      "question": "La solidarité entre motards se traduit-elle par une bienveillance en cas de panne ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "La solidarité entre motards consiste à rester attentif aux autres usagers à deux roues. En cas de panne, elle peut se traduire par une aide ou une attitude bienveillante."
+    },
+    {
+      "id": 98,
+      "scene": "scene_057.png",
+      "question": "L'énergie engendrée par la vitesse d'un véhicule s'appelle",
+      "answers": [
+        "La force gyroscopique",
+        "L'énergie cinétique",
+        "La force centrifuge"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "L'énergie cinétique est l'énergie que possède un véhicule en mouvement, elle augmente avec le carré de la vitesse. Plus on roule vite, plus cette énergie est importante et difficile à dissiper lors d'un freinage."
+    },
+    {
+      "id": 148,
+      "scene": "scene_092.png",
+      "question": "Ce casque homologué P/J permet-il de circuler avec la mentonnière ouverte ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Un casque homologué P/J possède une double homologation, intégral et jet. Il peut donc être utilisé en circulation avec la mentonnière ouverte ou fermée."
     },
     {
       "id": 79,
@@ -718,47 +733,32 @@
       "explanation": "Le panneau de virages dangereux indique que le premier virage part vers la gauche, et le panonceau précise que la zone débute dans 500 mètres."
     },
     {
-      "id": 91,
-      "scene": "scene_047.png",
-      "question": "En circulant sur une voie de bus, je risque",
-      "answers": [
-        "Une contravention de première classe",
-        "Une contravention de quatrième classe",
-        "Un retrait de points",
-        "Rien si la voie est libre"
+      "id": 185,
+      "scene": "scene_123.png",
+      "type": "statements",
+      "question": "",
+      "statements": [
+        {
+          "text": "certains casques sont équipés d'un système d'écouteurs",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "l'utilisation d'écouteurs peut être une source de distraction",
+          "answers": [
+            "Auditive",
+            "Motrice"
+          ]
+        }
       ],
       "correct": [
-        1,
-        2
+        0,
+        2,
+        3
       ],
-      "explanation": "Circuler sur une voie de bus est une infraction sanctionnée par une amende de quatrième classe et un retrait de trois points. Peu importe que la voie soit libre, la règle s'applique toujours."
-    },
-    {
-      "id": 94,
-      "scene": "scene_053.png",
-      "question": "Je suis dans l'angle mort d'un véhicule.",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Le poids lourd est très proche sur la droite et le motard se trouve dans une zone difficile à voir pour le conducteur. Il faut éviter de rester à cet endroit et se dégager rapidement."
-    },
-    {
-      "id": 98,
-      "scene": "scene_057.png",
-      "question": "L'énergie engendrée par la vitesse d'un véhicule s'appelle",
-      "answers": [
-        "La force gyroscopique",
-        "L'énergie cinétique",
-        "La force centrifuge"
-      ],
-      "correct": [
-        1
-      ],
-      "explanation": "L'énergie cinétique est l'énergie que possède un véhicule en mouvement, elle augmente avec le carré de la vitesse. Plus on roule vite, plus cette énergie est importante et difficile à dissiper lors d'un freinage."
+      "explanation": "Certains casques peuvent intégrer un système audio. L'utilisation d'écouteurs peut provoquer une distraction à la fois auditive, en diminuant l'attention portée aux sons de la circulation, et motrice, notamment lors de la manipulation des commandes audio en roulant."
     }
   ]
 }

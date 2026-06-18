@@ -3,6 +3,262 @@
   "version": "1.0.0",
   "questions": [
     {
+      "id": 81,
+      "scene": "scene_041.png",
+      "question": "Je rentre dans une agglomération, suis-je bien positionné sur la chaussée ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "En agglomération on se place au centre de sa voie. Le pilote est correctement placé."
+    },
+    {
+      "id": 128,
+      "scene": "scene_080.png",
+      "question": "Ce casque est-il homologué pour circuler à moto ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Pour circuler à moto, le casque doit porter une étiquette d’homologation ECE. Une simple étiquette de fabrication ne suffit pas à prouver qu’il est homologué."
+    },
+    {
+      "id": 42,
+      "scene": "scene_017.png",
+      "question": "En tant que conducteur novice, est-il possible de perdre l'ensemble des points de son permis en une seule infraction ?",
+      "answers": [
+        "Oui, c'est possible",
+        "Non, on ne peut jamais perdre tous ses points d'un coup"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Le permis probatoire démarre à 6 points. Certaines infractions graves comme la conduite en état d'ivresse retirent 6 points d'un coup, ce qui invalide immédiatement le permis."
+    },
+    {
+      "id": 144,
+      "scene": "scene_088.png",
+      "question": "Sur autoroute, quelle est la vitesse maximale autorisée par temps de pluie ?",
+      "answers": [
+        "80 km/h",
+        "90 km/h",
+        "110 km/h",
+        "130 km/h"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Par temps de pluie, la vitesse maximale autorisée sur autoroute est abaissée à 110 km/h. La chaussée mouillée réduit l'adhérence et augmente les distances de freinage."
+    },
+    {
+      "id": 34,
+      "scene": "scene_012.png",
+      "question": "Tous les médicaments possèdent des effets incompatibles avec la conduite.",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Tous les médicaments ne sont pas incompatibles avec la conduite. En France, il existe un système de pictogrammes à quatre niveaux. Le niveau zéro signifie que le médicament n'a pas d'effet sur la conduite. Le niveau un invite à la prudence. Le niveau deux déconseille de conduire. Le niveau trois, représenté par un triangle rouge, interdit formellement de conduire et impose de consulter un médecin avant toute reprise."
+    },
+    {
+      "id": 291,
+      "scene": "scene_200.png",
+      "question": "Je ne croise jamais d’animaux sauvages sur cette route. J’ignore ce panneau :",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Même si le danger semble rare, ce panneau annonce un risque réel de passage d’animaux sauvages. Il faut rester vigilant et adapter son allure."
+    },
+    {
+      "id": 253,
+      "scene": "scene_175.png",
+      "question": "Les deux-roues motorisés représentent-ils moins de 2 % du trafic motorisé ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Les deux-roues motorisés représentent moins de 2 % du trafic motorisé. Malgré cela, ils restent très concernés par les accidents graves."
+    },
+    {
+      "id": 247,
+      "scene": "scene_173.png",
+      "question": "Combien de personnes décèdent dans un accident de deux-roues motorisé chaque année en France ?",
+      "answers": [
+        "Environ 200",
+        "Environ 700",
+        "Environ 1 500",
+        "Environ 3 000"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Chaque année, environ 700 usagers de deux-roues motorisés perdent la vie sur les routes en France. Ce chiffre rappelle que les motards sont des usagers particulièrement vulnérables."
+    },
+    {
+      "id": 289,
+      "scene": "scene_198.png",
+      "question": "En courbe, le corps du motard est-il plus à l’intérieur du virage que la moto ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Plus la moto est inclinée, plus le corps du motard est à l’intérieur du virage. L’allure et la trajectoire doivent être adaptées avant le virage pour aborder la courbe en sécurité."
+    },
+    {
+      "id": 366,
+      "scene": "scene_251.png",
+      "question": "Le feu passe au jaune",
+      "answers": [
+        "Je m'arrête",
+        "Je passe avec prudence"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Lorsque le feu passe au jaune, je dois m'arrêter si je peux le faire sans danger. Je ne passe que si l'arrêt est impossible ou dangereux."
+    },
+    {
+      "id": 3,
+      "scene": "scene_001.png",
+      "question": "Sur cette route hors agglomération, sans autre panneau, quelle est la vitesse maximale autorisée ?",
+      "answers": [
+        "90 km/h",
+        "80 km/h",
+        "70 km/h"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Depuis 2018, la vitesse maximale autorisée sur les routes hors agglomération sans séparateur central et sans autre panneau de limitation est de 80 km/h en France. Elle était auparavant de 90 km/h mais a été abaissée pour réduire la mortalité routière."
+    },
+    {
+      "id": 152,
+      "scene": "scene_094.png",
+      "question": "Ce casque homologué P/J permet-il de circuler avec la mentonnière ouverte ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Un casque homologué P/J possède une double homologation, intégral et jet. Il peut donc être utilisé en circulation avec la mentonnière ouverte ou fermée."
+    },
+    {
+      "id": 30,
+      "scene": "scene_010.jpg",
+      "question": "En virage, un pneu surgonflé augmente le risque de perte d'adhérence ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Moins de gomme en contact avec la route signifie moins de grip. Sur une moto, l'adhérence en virage est critique car c'est elle qui maintient la trajectoire. Un pneu surgonflé peut provoquer un glissement imprévisible, particulièrement sur revêtement mouillé ou en cas de changement de trajectoire brutal."
+    },
+    {
+      "id": 350,
+      "scene": "scene_238.png",
+      "type": "statements",
+      "question": "Dans ce tunnel :",
+      "statements": [
+        {
+          "text": "Les repères lumineux bleus peuvent m’aider à garder une distance de sécurité avec le véhicule devant moi",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Je dois laisser au moins deux diodes bleues entre mon véhicule et le véhicule devant moi",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Les repères lumineux bleus aident à maintenir une distance de sécurité dans le tunnel. Garder au moins deux diodes avec le véhicule devant moi permet de mieux anticiper un ralentissement."
+    },
+    {
+      "id": 117,
+      "scene": "scene_071.png",
+      "photo": {
+        "y": 82
+      },
+      "question": "Ces gants sont-ils homologués pour la moto ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ces gants ne présentent pas les protections nécessaires pour un usage à moto. Le marquage CE visible ne suffit pas à confirmer une homologation moto."
+    },
+    {
+      "id": 137,
+      "scene": "scene_085.png",
+      "question": "En cas d'accident corporel, le dépistage de stupéfiants est-il obligatoire ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "En cas d'accident corporel, le dépistage de stupéfiants est obligatoire. Il permet de vérifier si un conducteur a consommé une substance interdite."
+    },
+    {
+      "id": 318,
+      "scene": "scene_218.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Ce panneau indique un accès interdit aux cyclomoteurs ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Il concerne toutes les motos ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        3
+      ],
+      "explanation": "Ce panneau interdit l’accès aux cyclomoteurs, comme les scooters de 50 cm³. Il ne concerne pas toutes les motocyclettes."
+    },
+    {
       "id": 308,
       "scene": "scene_213.png",
       "question": "Un panneau rond à bord rouge indique le plus souvent :",
@@ -18,31 +274,64 @@
       "explanation": "Un panneau rond à bord rouge indique le plus souvent une interdiction. Ici, il interdit l’accès aux motocyclettes."
     },
     {
-      "id": 317,
-      "scene": "scene_215.png",
-      "type": "statements",
-      "question": "À l’approche de ce panneau :",
-      "statements": [
-        {
-          "text": "Je dois vérifier si un véhicule arrive en face ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "Si des véhicules sont déjà engagés, je dois leur céder le passage ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
+      "id": 64,
+      "scene": "scene_029.png",
+      "question": "Les feux de ce carrefour sont en panne. Je suis prioritaire à l'intersection.",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Quand les feux sont en panne, la priorité à droite s'applique à tous les conducteurs. Personne n'est prioritaire par défaut dans ce carrefour."
+    },
+    {
+      "id": 265,
+      "scene": "scene_184.png",
+      "question": "Pour un excès de vitesse de 20 à 29 km/h, je risque de perdre :",
+      "answers": [
+        "1 point",
+        "2 points",
+        "3 points",
+        "4 points"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Un excès de vitesse compris entre 20 et moins de 30 km/h entraîne le retrait de 2 points. Plus l'excès de vitesse est important, plus le retrait de points augmente."
+    },
+    {
+      "id": 209,
+      "scene": "scene_144.png",
+      "question": "La plupart des motos sont équipées d’un coupe-circuit par :",
+      "answers": [
+        "l’embrayage",
+        "un bouton coupe-circuit",
+        "la béquille latérale",
+        "la béquille centrale"
       ],
       "correct": [
         0,
+        1,
         2
       ],
-      "explanation": "Ce panneau indique que les véhicules venant en sens inverse sont prioritaires. Je dois vérifier la circulation en face et céder le passage aux véhicules déjà engagés."
+      "explanation": "La plupart des motos possèdent plusieurs sécurités qui peuvent empêcher le moteur de fonctionner ou de démarrer dans certaines situations. Le bouton coupe-circuit, la béquille latérale et l’embrayage font partie de ces dispositifs, contrairement à la béquille centrale."
+    },
+    {
+      "id": 4,
+      "scene": "scene_002.png",
+      "question": "Deux motards peuvent circuler côte à côte",
+      "answers": [
+        "Oui, si chacun circule dans une voie matérialisée",
+        "Oui, même sur une seule voie",
+        "Non, ils doivent toujours rouler l'un derrière l'autre",
+        "Oui, uniquement en agglomération"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Deux motards peuvent circuler côte à côte si chacun circule dans sa propre voie matérialisée. Ils ne doivent pas rouler à deux de front sur une seule voie de circulation."
     },
     {
       "id": 334,
@@ -69,36 +358,6 @@
         2
       ],
       "explanation": "Les balises de virage permettent de mieux repérer la direction et la forme du virage. Elles améliorent aussi sa visibilité, surtout lorsque la route tourne fortement."
-    },
-    {
-      "id": 341,
-      "scene": "scene_233.png",
-      "photo": {
-        "fit": "contain",
-        "height": 300
-      },
-      "type": "statements",
-      "statements": [
-        {
-          "text": "La ligne de cédez-le-passage m’indique l’endroit où je dois laisser passer les véhicules déjà engagés",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "Si aucun véhicule n’est engagé dans le giratoire, je peux entrer sans m’arrêter",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        0,
-        2
-      ],
-      "explanation": "La ligne de cédez-le-passage indique l’endroit où je dois laisser passer les usagers déjà engagés dans le giratoire. Si la voie est libre, je peux entrer sans m’arrêter."
     },
     {
       "id": 346,
@@ -131,203 +390,6 @@
       "explanation": "Un cédez-le-passage n’impose pas l’arrêt si la voie est libre. Ici, la moto peut s’engager si elle ne gêne aucun véhicule déjà engagé."
     },
     {
-      "id": 350,
-      "scene": "scene_238.png",
-      "type": "statements",
-      "question": "Dans ce tunnel :",
-      "statements": [
-        {
-          "text": "Les repères lumineux bleus peuvent m’aider à garder une distance de sécurité avec le véhicule devant moi",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "Je dois laisser au moins deux diodes bleues entre mon véhicule et le véhicule devant moi",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        0,
-        2
-      ],
-      "explanation": "Les repères lumineux bleus aident à maintenir une distance de sécurité dans le tunnel. Garder au moins deux diodes avec le véhicule devant moi permet de mieux anticiper un ralentissement."
-    },
-    {
-      "id": 366,
-      "scene": "scene_251.png",
-      "question": "Le feu passe au jaune",
-      "answers": [
-        "Je m'arrête",
-        "Je passe avec prudence"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Lorsque le feu passe au jaune, je dois m'arrêter si je peux le faire sans danger. Je ne passe que si l'arrêt est impossible ou dangereux."
-    },
-    {
-      "id": 371,
-      "scene": "scene_253.png",
-      "question": "Si je franchis un STOP sans marquer l’arrêt, je risque un retrait de :",
-      "answers": [
-        "2 points",
-        "3 points",
-        "4 points",
-        "6 points"
-      ],
-      "correct": [
-        2
-      ],
-      "explanation": "Le non-respect d’un STOP est une infraction de 4e classe. Il entraîne une amende forfaitaire de 135 € et un retrait de 4 points sur le permis."
-    },
-    {
-      "id": 377,
-      "scene": "scene_259.png",
-      "question": "L’assurance de responsabilité civile pour les dommages causés aux tiers est obligatoire :",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "L’assurance de responsabilité civile est obligatoire pour circuler avec une moto. Elle couvre les dommages causés aux autres personnes en cas d’accident."
-    },
-    {
-      "id": 209,
-      "scene": "scene_144.png",
-      "question": "La plupart des motos sont équipées d’un coupe-circuit par :",
-      "answers": [
-        "l’embrayage",
-        "un bouton coupe-circuit",
-        "la béquille latérale",
-        "la béquille centrale"
-      ],
-      "correct": [
-        0,
-        1,
-        2
-      ],
-      "explanation": "La plupart des motos possèdent plusieurs sécurités qui peuvent empêcher le moteur de fonctionner ou de démarrer dans certaines situations. Le bouton coupe-circuit, la béquille latérale et l’embrayage font partie de ces dispositifs, contrairement à la béquille centrale."
-    },
-    {
-      "id": 221,
-      "scene": "scene_157.png",
-      "question": "La manœuvre d'évitement devient difficile à mettre en œuvre à partir de :",
-      "answers": [
-        "30 km/h",
-        "50 km/h",
-        "70 km/h",
-        "90 km/h"
-      ],
-      "correct": [
-        2
-      ],
-      "explanation": "À partir de 70 km/h, une manœuvre d'évitement devient plus délicate à réaliser. La vitesse réduit le temps disponible pour réagir et modifier sa trajectoire."
-    },
-    {
-      "id": 238,
-      "scene": "scene_166.png",
-      "question": "Avec ce panneau, puis-je m’arrêter pour déposer un passager ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Ce panneau interdit le stationnement, mais l’arrêt reste autorisé. Je peux donc m’arrêter brièvement pour déposer un passager."
-    },
-    {
-      "id": 247,
-      "scene": "scene_173.png",
-      "question": "Combien de personnes décèdent dans un accident de deux-roues motorisé chaque année en France ?",
-      "answers": [
-        "Environ 200",
-        "Environ 700",
-        "Environ 1 500",
-        "Environ 3 000"
-      ],
-      "correct": [
-        1
-      ],
-      "explanation": "Chaque année, environ 700 usagers de deux-roues motorisés perdent la vie sur les routes en France. Ce chiffre rappelle que les motards sont des usagers particulièrement vulnérables."
-    },
-    {
-      "id": 253,
-      "scene": "scene_175.png",
-      "question": "Les deux-roues motorisés représentent-ils moins de 2 % du trafic motorisé ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Les deux-roues motorisés représentent moins de 2 % du trafic motorisé. Malgré cela, ils restent très concernés par les accidents graves."
-    },
-    {
-      "id": 265,
-      "scene": "scene_184.png",
-      "question": "Pour un excès de vitesse de 20 à 29 km/h, je risque de perdre :",
-      "answers": [
-        "1 point",
-        "2 points",
-        "3 points",
-        "4 points"
-      ],
-      "correct": [
-        1
-      ],
-      "explanation": "Un excès de vitesse compris entre 20 et moins de 30 km/h entraîne le retrait de 2 points. Plus l'excès de vitesse est important, plus le retrait de points augmente."
-    },
-    {
-      "id": 277,
-      "scene": "scene_187.png",
-      "question": "Parmi les motocyclistes tués lors d’un accident, quelle proportion approximative a moins de 25 ans ?",
-      "answers": [
-        "Un sur deux",
-        "Un sur trois",
-        "Un sur cinq",
-        "Un sur dix"
-      ],
-      "correct": [
-        2
-      ],
-      "explanation": "Environ un motocycliste tué sur cinq a moins de 25 ans. Les jeunes conducteurs restent donc une catégorie particulièrement exposée au risque."
-    },
-    {
-      "id": 289,
-      "scene": "scene_198.png",
-      "question": "En courbe, le corps du motard est-il plus à l’intérieur du virage que la moto ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Plus la moto est inclinée, plus le corps du motard est à l’intérieur du virage. L’allure et la trajectoire doivent être adaptées avant le virage pour aborder la courbe en sécurité."
-    },
-    {
-      "id": 291,
-      "scene": "scene_200.png",
-      "question": "Je ne croise jamais d’animaux sauvages sur cette route. J’ignore ce panneau :",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        1
-      ],
-      "explanation": "Même si le danger semble rare, ce panneau annonce un risque réel de passage d’animaux sauvages. Il faut rester vigilant et adapter son allure."
-    },
-    {
       "id": 297,
       "scene": "scene_204.png",
       "type": "statements",
@@ -355,89 +417,37 @@
       "explanation": "Une bonne position de conduite permet de mieux contrôler la moto et d’être plus précis dans ses trajectoires. Elle aide aussi à garder de la stabilité et de la souplesse dans les manœuvres."
     },
     {
-      "id": 117,
-      "scene": "scene_071.png",
+      "id": 59,
+      "scene": "scene_027.png",
+      "question": "Arrivé le premier sur les lieux d'un accident, je dois d'abord",
+      "answers": [
+        "Alerter les secours",
+        "Protéger la zone de l'accident",
+        "Porter secours aux victimes"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "La méthode à appliquer est protéger, alerter, puis secourir. Protéger la zone en premier évite qu'un autre véhicule percute les victimes ou aggrave l'accident."
+    },
+    {
+      "id": 341,
+      "scene": "scene_233.png",
       "photo": {
-        "y": 82
+        "fit": "contain",
+        "height": 300
       },
-      "question": "Ces gants sont-ils homologués pour la moto ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        1
-      ],
-      "explanation": "Ces gants ne présentent pas les protections nécessaires pour un usage à moto. Le marquage CE visible ne suffit pas à confirmer une homologation moto."
-    },
-    {
-      "id": 128,
-      "scene": "scene_080.png",
-      "question": "Ce casque est-il homologué pour circuler à moto ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        1
-      ],
-      "explanation": "Pour circuler à moto, le casque doit porter une étiquette d’homologation ECE. Une simple étiquette de fabrication ne suffit pas à prouver qu’il est homologué."
-    },
-    {
-      "id": 137,
-      "scene": "scene_085.png",
-      "question": "En cas d'accident corporel, le dépistage de stupéfiants est-il obligatoire ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "En cas d'accident corporel, le dépistage de stupéfiants est obligatoire. Il permet de vérifier si un conducteur a consommé une substance interdite."
-    },
-    {
-      "id": 144,
-      "scene": "scene_088.png",
-      "question": "Sur autoroute, quelle est la vitesse maximale autorisée par temps de pluie ?",
-      "answers": [
-        "80 km/h",
-        "90 km/h",
-        "110 km/h",
-        "130 km/h"
-      ],
-      "correct": [
-        2
-      ],
-      "explanation": "Par temps de pluie, la vitesse maximale autorisée sur autoroute est abaissée à 110 km/h. La chaussée mouillée réduit l'adhérence et augmente les distances de freinage."
-    },
-    {
-      "id": 152,
-      "scene": "scene_094.png",
-      "question": "Ce casque homologué P/J permet-il de circuler avec la mentonnière ouverte ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Un casque homologué P/J possède une double homologation, intégral et jet. Il peut donc être utilisé en circulation avec la mentonnière ouverte ou fermée."
-    },
-    {
-      "id": 318,
-      "scene": "scene_218.png",
       "type": "statements",
       "statements": [
         {
-          "text": "Ce panneau indique un accès interdit aux cyclomoteurs ?",
+          "text": "La ligne de cédez-le-passage m’indique l’endroit où je dois laisser passer les véhicules déjà engagés",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Il concerne toutes les motos ?",
+          "text": "Si aucun véhicule n’est engagé dans le giratoire, je peux entrer sans m’arrêter",
           "answers": [
             "Oui",
             "Non"
@@ -446,14 +456,87 @@
       ],
       "correct": [
         0,
-        3
+        2
       ],
-      "explanation": "Ce panneau interdit l’accès aux cyclomoteurs, comme les scooters de 50 cm³. Il ne concerne pas toutes les motocyclettes."
+      "explanation": "La ligne de cédez-le-passage indique l’endroit où je dois laisser passer les usagers déjà engagés dans le giratoire. Si la voie est libre, je peux entrer sans m’arrêter."
     },
     {
-      "id": 179,
-      "scene": "scene_108.png",
-      "question": "La nuit, je dois aborder les virages plus lentement.",
+      "id": 221,
+      "scene": "scene_157.png",
+      "question": "La manœuvre d'évitement devient difficile à mettre en œuvre à partir de :",
+      "answers": [
+        "30 km/h",
+        "50 km/h",
+        "70 km/h",
+        "90 km/h"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "À partir de 70 km/h, une manœuvre d'évitement devient plus délicate à réaliser. La vitesse réduit le temps disponible pour réagir et modifier sa trajectoire."
+    },
+    {
+      "id": 327,
+      "scene": "scene_224.png",
+      "question": "À 110 km/h, je laisse un intervalle de sécurité minimum de :",
+      "answers": [
+        "40 m",
+        "60 m",
+        "75 m",
+        "100 m"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "À 110 km/h, la distance de sécurité correspond à environ 2 secondes, soit environ 60 mètres. Cet intervalle permet de garder le temps de réagir en cas de ralentissement ou de danger."
+    },
+    {
+      "id": 317,
+      "scene": "scene_215.png",
+      "type": "statements",
+      "question": "À l’approche de ce panneau :",
+      "statements": [
+        {
+          "text": "Je dois vérifier si un véhicule arrive en face ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Si des véhicules sont déjà engagés, je dois leur céder le passage ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Ce panneau indique que les véhicules venant en sens inverse sont prioritaires. Je dois vérifier la circulation en face et céder le passage aux véhicules déjà engagés."
+    },
+    {
+      "id": 31,
+      "scene": "scene_011.png",
+      "question": "Je peux m'arrêter à cet emplacement dans lequel de ces cas ?",
+      "answers": [
+        "Pour consulter mes messages",
+        "Pour me reposer",
+        "En cas de panne",
+        "En cas de crevaison"
+      ],
+      "correct": [
+        2,
+        3
+      ],
+      "explanation": "La bande d'arrêt d'urgence est réservée aux arrêts d'urgence uniquement. S'y arrêter pour consulter ses messages ou se reposer est interdit et constitue une infraction grave. Seule une immobilisation forcée comme une panne ou une crevaison justifie un arrêt à cet endroit."
+    },
+    {
+      "id": 238,
+      "scene": "scene_166.png",
+      "question": "Avec ce panneau, puis-je m’arrêter pour déposer un passager ?",
       "answers": [
         "Oui",
         "Non"
@@ -461,36 +544,38 @@
       "correct": [
         0
       ],
-      "explanation": "La nuit, la visibilité est réduite et il est plus difficile d'anticiper un danger dans un virage. Il faut donc ralentir avant d'aborder un virage pour garder le contrôle de la moto."
+      "explanation": "Ce panneau interdit le stationnement, mais l’arrêt reste autorisé. Je peux donc m’arrêter brièvement pour déposer un passager."
     },
     {
-      "id": 3,
-      "scene": "scene_001.png",
-      "question": "Sur cette route hors agglomération, sans autre panneau, quelle est la vitesse maximale autorisée ?",
+      "id": 371,
+      "scene": "scene_253.png",
+      "question": "Si je franchis un STOP sans marquer l’arrêt, je risque un retrait de :",
       "answers": [
-        "90 km/h",
-        "80 km/h",
-        "70 km/h"
+        "2 points",
+        "3 points",
+        "4 points",
+        "6 points"
       ],
       "correct": [
-        1
+        2
       ],
-      "explanation": "Depuis 2018, la vitesse maximale autorisée sur les routes hors agglomération sans séparateur central et sans autre panneau de limitation est de 80 km/h en France. Elle était auparavant de 90 km/h mais a été abaissée pour réduire la mortalité routière."
+      "explanation": "Le non-respect d’un STOP est une infraction de 4e classe. Il entraîne une amende forfaitaire de 135 € et un retrait de 4 points sur le permis."
     },
     {
-      "id": 4,
-      "scene": "scene_002.png",
-      "question": "Deux motards peuvent circuler côte à côte",
+      "id": 22,
+      "scene": "scene_008.jpg",
+      "question": "Je suis contrôlé en roulant avec mon téléphone tenu en main",
       "answers": [
-        "Oui, si chacun circule dans une voie matérialisée",
-        "Oui, même sur une seule voie",
-        "Non, ils doivent toujours rouler l'un derrière l'autre",
-        "Oui, uniquement en agglomération"
+        "Oui, je risque une perte de points sur mon permis",
+        "Non, pas de perte de points",
+        "Oui, je risque également une amende forfaitaire",
+        "Non, pas d'amende forfaitaire"
       ],
       "correct": [
-        0
+        0,
+        2
       ],
-      "explanation": "Deux motards peuvent circuler côte à côte si chacun circule dans sa propre voie matérialisée. Ils ne doivent pas rouler à deux de front sur une seule voie de circulation."
+      "explanation": "Tenir son téléphone en main en roulant entraîne deux sanctions cumulées : une amende forfaitaire de 135 euros et un retrait de 3 points sur le permis."
     },
     {
       "id": 13,
@@ -522,119 +607,6 @@
       "explanation": "L'ABS ne protège pas contre la chute. Il empêche uniquement le blocage des roues, ce qui aide à garder la direction. Mais l'équilibre de la moto dépend toujours du pilote et des conditions de la route."
     },
     {
-      "id": 22,
-      "scene": "scene_008.jpg",
-      "question": "Je suis contrôlé en roulant avec mon téléphone tenu en main",
-      "answers": [
-        "Oui, je risque une perte de points sur mon permis",
-        "Non, pas de perte de points",
-        "Oui, je risque également une amende forfaitaire",
-        "Non, pas d'amende forfaitaire"
-      ],
-      "correct": [
-        0,
-        2
-      ],
-      "explanation": "Tenir son téléphone en main en roulant entraîne deux sanctions cumulées : une amende forfaitaire de 135 euros et un retrait de 3 points sur le permis."
-    },
-    {
-      "id": 327,
-      "scene": "scene_224.png",
-      "question": "À 110 km/h, je laisse un intervalle de sécurité minimum de :",
-      "answers": [
-        "40 m",
-        "60 m",
-        "75 m",
-        "100 m"
-      ],
-      "correct": [
-        1
-      ],
-      "explanation": "À 110 km/h, la distance de sécurité correspond à environ 2 secondes, soit environ 60 mètres. Cet intervalle permet de garder le temps de réagir en cas de ralentissement ou de danger."
-    },
-    {
-      "id": 30,
-      "scene": "scene_010.jpg",
-      "question": "En virage, un pneu surgonflé augmente le risque de perte d'adhérence ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Moins de gomme en contact avec la route signifie moins de grip. Sur une moto, l'adhérence en virage est critique car c'est elle qui maintient la trajectoire. Un pneu surgonflé peut provoquer un glissement imprévisible, particulièrement sur revêtement mouillé ou en cas de changement de trajectoire brutal."
-    },
-    {
-      "id": 31,
-      "scene": "scene_011.png",
-      "question": "Je peux m'arrêter à cet emplacement dans lequel de ces cas ?",
-      "answers": [
-        "Pour consulter mes messages",
-        "Pour me reposer",
-        "En cas de panne",
-        "En cas de crevaison"
-      ],
-      "correct": [
-        2,
-        3
-      ],
-      "explanation": "La bande d'arrêt d'urgence est réservée aux arrêts d'urgence uniquement. S'y arrêter pour consulter ses messages ou se reposer est interdit et constitue une infraction grave. Seule une immobilisation forcée comme une panne ou une crevaison justifie un arrêt à cet endroit."
-    },
-    {
-      "id": 34,
-      "scene": "scene_012.png",
-      "question": "Tous les médicaments possèdent des effets incompatibles avec la conduite.",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        1
-      ],
-      "explanation": "Tous les médicaments ne sont pas incompatibles avec la conduite. En France, il existe un système de pictogrammes à quatre niveaux. Le niveau zéro signifie que le médicament n'a pas d'effet sur la conduite. Le niveau un invite à la prudence. Le niveau deux déconseille de conduire. Le niveau trois, représenté par un triangle rouge, interdit formellement de conduire et impose de consulter un médecin avant toute reprise."
-    },
-    {
-      "id": 42,
-      "scene": "scene_017.png",
-      "question": "En tant que conducteur novice, est-il possible de perdre l'ensemble des points de son permis en une seule infraction ?",
-      "answers": [
-        "Oui, c'est possible",
-        "Non, on ne peut jamais perdre tous ses points d'un coup"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Le permis probatoire démarre à 6 points. Certaines infractions graves comme la conduite en état d'ivresse retirent 6 points d'un coup, ce qui invalide immédiatement le permis."
-    },
-    {
-      "id": 59,
-      "scene": "scene_027.png",
-      "question": "Arrivé le premier sur les lieux d'un accident, je dois d'abord",
-      "answers": [
-        "Alerter les secours",
-        "Protéger la zone de l'accident",
-        "Porter secours aux victimes"
-      ],
-      "correct": [
-        1
-      ],
-      "explanation": "La méthode à appliquer est protéger, alerter, puis secourir. Protéger la zone en premier évite qu'un autre véhicule percute les victimes ou aggrave l'accident."
-    },
-    {
-      "id": 64,
-      "scene": "scene_029.png",
-      "question": "Les feux de ce carrefour sont en panne. Je suis prioritaire à l'intersection.",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        1
-      ],
-      "explanation": "Quand les feux sont en panne, la priorité à droite s'applique à tous les conducteurs. Personne n'est prioritaire par défaut dans ce carrefour."
-    },
-    {
       "id": 72,
       "scene": "scene_036.png",
       "type": "statements",
@@ -662,9 +634,9 @@
       "explanation": "Le tramway fonctionne à l'électricité et ne produit pas d'émissions directes en circulation. Il transporte aussi beaucoup de passagers, ce qui réduit le coût et l'impact par trajet."
     },
     {
-      "id": 81,
-      "scene": "scene_041.png",
-      "question": "Je rentre dans une agglomération, suis-je bien positionné sur la chaussée ?",
+      "id": 179,
+      "scene": "scene_108.png",
+      "question": "La nuit, je dois aborder les virages plus lentement.",
       "answers": [
         "Oui",
         "Non"
@@ -672,7 +644,35 @@
       "correct": [
         0
       ],
-      "explanation": "En agglomération on se place au centre de sa voie. Le pilote est correctement placé."
+      "explanation": "La nuit, la visibilité est réduite et il est plus difficile d'anticiper un danger dans un virage. Il faut donc ralentir avant d'aborder un virage pour garder le contrôle de la moto."
+    },
+    {
+      "id": 377,
+      "scene": "scene_259.png",
+      "question": "L’assurance de responsabilité civile pour les dommages causés aux tiers est obligatoire :",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "L’assurance de responsabilité civile est obligatoire pour circuler avec une moto. Elle couvre les dommages causés aux autres personnes en cas d’accident."
+    },
+    {
+      "id": 277,
+      "scene": "scene_187.png",
+      "question": "Parmi les motocyclistes tués lors d’un accident, quelle proportion approximative a moins de 25 ans ?",
+      "answers": [
+        "Un sur deux",
+        "Un sur trois",
+        "Un sur cinq",
+        "Un sur dix"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Environ un motocycliste tué sur cinq a moins de 25 ans. Les jeunes conducteurs restent donc une catégorie particulièrement exposée au risque."
     }
   ]
 }

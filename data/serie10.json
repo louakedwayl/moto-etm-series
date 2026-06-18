@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "questions": [
     {
-      "id": 309,
-      "scene": "scene_213.png",
-      "question": "Face à ce panneau, je peux continuer à moto :",
+      "id": 161,
+      "scene": "scene_101.png",
+      "question": "Je peux stationner sur la zone de zébras à gauche ?",
       "answers": [
         "Oui",
         "Non"
@@ -13,35 +13,37 @@
       "correct": [
         1
       ],
-      "explanation": "Ce panneau interdit la circulation à tous les véhicules, y compris les motos. Je ne dois donc pas m’engager dans cette voie."
+      "explanation": "Une zone de zébras sert à guider la circulation et à séparer des trajectoires. Il est interdit d'y stationner."
     },
     {
-      "id": 168,
-      "scene": "scene_108.png",
-      "question": "La nuit, je dois faire des pauses plus fréquentes ?",
+      "id": 45,
+      "scene": "scene_020.png",
+      "question": "En tant que motard impliqué dans un accident matériel, vous pouvez remplir un constat amiable",
       "answers": [
-        "Oui",
-        "Non"
+        "Uniquement si vous êtes en tort",
+        "Uniquement si l'autre conducteur accepte",
+        "Dans tous les cas, même si l'autre refuse"
       ],
       "correct": [
-        0
+        2
       ],
-      "explanation": "La nuit, la fatigue arrive plus vite et la vigilance baisse plus facilement. Faire des pauses régulières permet de rester attentif et de limiter le risque d'accident."
+      "explanation": "Vous pouvez remplir votre côté du constat seul et l'envoyer à votre assurance. Le refus de l'autre conducteur ne vous en empêche pas."
     },
     {
-      "id": 321,
-      "scene": "scene_219.png",
+      "id": 292,
+      "scene": "scene_201.png",
       "type": "statements",
+      "question": "Dans ce virage à droite :",
       "statements": [
         {
-          "text": "Ce panneau concerne une moto de 125 cm³ ?",
+          "text": "L’inclinaison est provoquée en poussant sur le guidon",
           "answers": [
-            "Oui",
-            "Non"
+            "À gauche",
+            "À droite"
           ]
         },
         {
-          "text": "Ce panneau concerne une moto de 500 cm³ ?",
+          "text": "L’effet gyroscopique augmente avec la vitesse",
           "answers": [
             "Oui",
             "Non"
@@ -49,36 +51,10 @@
         }
       ],
       "correct": [
-        0,
+        1,
         2
       ],
-      "explanation": "Ce panneau interdit l’accès aux motocyclettes. Il concerne donc aussi bien une moto de 125 cm³ qu’une moto de 500 cm³."
-    },
-    {
-      "id": 367,
-      "scene": "scene_252.png",
-      "type": "statements",
-      "statements": [
-        {
-          "text": "Je dois céder le passage aux usagers de la route abordée ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "Je dois marquer l’arrêt même si aucun usager n’est visible :",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        0,
-        2
-      ],
-      "explanation": "Au stop, l’arrêt complet est obligatoire, même si aucun usager n’est visible. Après l’arrêt, je peux m’engager seulement si je peux le faire sans gêner les usagers de la route abordée."
+      "explanation": "Pour incliner la moto à droite, on pousse sur le guidon à droite. Plus la vitesse augmente, plus l’effet gyroscopique devient important."
     },
     {
       "id": 370,
@@ -109,153 +85,6 @@
       "explanation": "Ne pas s’arrêter au STOP peut surprendre les usagers prioritaires et provoquer un accident. C’est aussi une infraction qui peut entraîner une amende et un retrait de points."
     },
     {
-      "id": 376,
-      "scene": "scene_258.png",
-      "question": "Un moteur froid consomme :",
-      "answers": [
-        "Moins qu’un moteur chaud",
-        "Autant qu’un moteur chaud",
-        "Plus qu’un moteur chaud"
-      ],
-      "correct": [
-        2
-      ],
-      "explanation": "Un moteur froid consomme plus qu’un moteur chaud, car il n’a pas encore atteint sa température de fonctionnement optimale. Il faut donc éviter les accélérations fortes au démarrage."
-    },
-    {
-      "id": 383,
-      "scene": "scene_249.png",
-      "question": "La distance parcourue entre le début du freinage et l’arrêt complet de la moto définit :",
-      "answers": [
-        "La distance d’arrêt",
-        "La distance de freinage",
-        "Le temps de réaction"
-      ],
-      "correct": [
-        1
-      ],
-      "explanation": "La distance de freinage correspond à la distance parcourue entre le moment où le conducteur freine et l’arrêt complet de la moto. Elle dépend notamment de la vitesse, de l’état de la route et de l’adhérence des pneus."
-    },
-    {
-      "id": 390,
-      "scene": "scene_267.png",
-      "question": "Si je suis témoin d’un accident, je dois appliquer la règle protéger, alerter, secourir :",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "En cas d’accident, il faut d’abord protéger les lieux pour éviter un autre danger, puis alerter les secours. Ensuite, il faut secourir la victime sans faire de geste dangereux."
-    },
-    {
-      "id": 400,
-      "scene": "scene_275.png",
-      "question": "Après un accident, quitter les lieux sans s’arrêter constitue :",
-      "answers": [
-        "Un délit de fuite",
-        "Un refus d’obtempérer"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Quitter les lieux d’un accident sans s’arrêter constitue un délit de fuite. C’est une infraction grave qui peut entraîner des sanctions pénales, un retrait de points et une suspension ou annulation du permis."
-    },
-    {
-      "id": 207,
-      "scene": "scene_142.png",
-      "type": "statements",
-      "question": "Pour éviter de déraper j'évite",
-      "statements": [
-        {
-          "text": "de freiner fortement",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "d'accélérer brutalement",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        0,
-        2
-      ],
-      "explanation": "Sur une chaussée enneigée ou verglacée, l'adhérence est fortement réduite. Il faut freiner et accélérer progressivement pour éviter de perdre le contrôle."
-    },
-    {
-      "id": 208,
-      "scene": "scene_143.png",
-      "question": "Quand je roule vite, mon champ de vision net, par rapport à mon champ de vision à l’arrêt :",
-      "answers": [
-        "Se rétrécit",
-        "Est identique",
-        "S’élargit"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Plus la vitesse augmente, plus le regard se concentre loin devant et moins les côtés sont perçus nettement. Le champ de vision se rétrécit, ce qui rend l’anticipation plus difficile."
-    },
-    {
-      "id": 216,
-      "scene": "scene_152.png",
-      "type": "statements",
-      "statements": [
-        {
-          "text": "Je peux démonter une ou plusieurs chicanes du pot d’échappement d’origine ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "Cette modification procure un gain de performances significatif ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        0,
-        3
-      ],
-      "explanation": "Il est parfois possible de démonter une ou plusieurs chicanes du pot d’échappement d’origine. Cette modification augmente principalement le niveau sonore et n’apporte généralement pas de gain de performances significatif. Un échappement devenu trop bruyant peut ne plus être conforme à la réglementation et être sanctionné lors d’un contrôle."
-    },
-    {
-      "id": 222,
-      "scene": "scene_158.png",
-      "type": "statements",
-      "statements": [
-        {
-          "text": "Le bon fonctionnement des feux avant doit être contrôlé ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "Le bon fonctionnement des commodos doit être contrôlé ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        0,
-        2
-      ],
-      "explanation": "Avant chaque départ, il faut vérifier les équipements essentiels de la moto. Les feux et les commodos permettent de circuler en sécurité et de signaler correctement ses intentions."
-    },
-    {
       "id": 223,
       "scene": "scene_159.png",
       "question": "Lorsque j’aborde un virage, j’adapte ma vitesse au point :",
@@ -271,155 +100,18 @@
       "explanation": "La vitesse doit être adaptée avant d’entrer dans le virage. Cela permet de garder une bonne trajectoire et de conserver le contrôle de la moto."
     },
     {
-      "id": 225,
-      "scene": "scene_162.png",
-      "question": "Ce panneau m’interdit-il de dépasser une voiture ?",
+      "id": 298,
+      "scene": "scene_205.png",
+      "question": "Le permis A est accessible :",
       "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Ce panneau interdit aux véhicules à moteur de dépasser d’autres véhicules à moteur. Une voiture est bien un véhicule à moteur, donc le dépassement est interdit."
-    },
-    {
-      "id": 228,
-      "scene": "scene_161.png",
-      "question": "Ce panneau m’indique-t-il que je dois céder le passage à droite ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        1
-      ],
-      "explanation": "Ce panneau annonce une priorité ponctuelle à la prochaine intersection. Les usagers venant des routes secondaires doivent me céder le passage."
-    },
-    {
-      "id": 235,
-      "scene": "scene_165.png",
-      "question": "Avec ce panneau, puis-je m’arrêter quelques secondes pour déposer quelqu’un ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        1
-      ],
-      "explanation": "Ce panneau interdit même un arrêt de courte durée. Je ne peux donc pas m’arrêter pour déposer quelqu’un."
-    },
-    {
-      "id": 243,
-      "scene": "scene_170.png",
-      "type": "statements",
-      "question": "Dans cette situation :",
-      "statements": [
-        {
-          "text": "Je cède le passage au véhicule gris à ma gauche ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "Je m’assure d’avoir bien été détecté par le conducteur de ce véhicule ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        1,
-        2
-      ],
-      "explanation": "Le véhicule gris arrive de gauche, il n’est donc pas prioritaire sur moi dans cette situation. Je reste tout de même prudent et je vérifie que son conducteur m’a bien vu avant de continuer."
-    },
-    {
-      "id": 250,
-      "scene": "scene_174.png",
-      "question": "Sur une moto, quelle partie du corps est particulièrement vulnérable en cas de chute ?",
-      "answers": [
-        "Les mains",
-        "Les jambes",
-        "La tête",
-        "Le dos"
+        "Directement après l’obtention du permis A2",
+        "Après 1 an de permis A2",
+        "Après 2 ans de permis A2"
       ],
       "correct": [
         2
       ],
-      "explanation": "La tête est particulièrement vulnérable en cas de chute à moto. C’est pour cela que le port d’un casque homologué est obligatoire."
-    },
-    {
-      "id": 262,
-      "scene": "scene_182.png",
-      "question": "Un cyclomotoriste peut-il avoir une trajectoire irrégulière ?",
-      "answers": [
-        "Oui",
-        "Non"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Un cyclomotoriste peut modifier sa trajectoire pour éviter un obstacle ou en raison d'un manque d'expérience. Il est important d'anticiper ces changements de direction."
-    },
-    {
-      "id": 267,
-      "scene": "scene_185.png",
-      "question": "Pour un excès de vitesse de 40 à 49 km/h au-dessus de la limite autorisée, je risque la perte de ?",
-      "answers": [
-        "2 points",
-        "3 points",
-        "4 points",
-        "6 points"
-      ],
-      "correct": [
-        2
-      ],
-      "explanation": "Un excès de vitesse de 40 à 49 km/h au-dessus de la limite autorisée entraîne le retrait de 4 points. À partir de 50 km/h au-dessus de la limite autorisée, le retrait passe à 6 points."
-    },
-    {
-      "id": 278,
-      "scene": "scene_186.png",
-      "question": "Quelle proportion approximative des accidents mortels à moto concerne un motard tombé seul ?",
-      "answers": [
-        "Environ 10 %",
-        "Environ 20 %",
-        "Environ 30 %",
-        "Environ 50 %"
-      ],
-      "correct": [
-        2
-      ],
-      "explanation": "Environ trois accidents mortels à moto sur dix concernent un motard tombé seul. Cela rappelle qu’une perte de contrôle peut être grave, même sans autre véhicule impliqué."
-    },
-    {
-      "id": 282,
-      "scene": "scene_133.png",
-      "type": "statements",
-      "question": "Pour éviter ce type d'accident, le motard doit :",
-      "statements": [
-        {
-          "text": "Apprendre à piloter sur circuit",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "S'auto-évaluer",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        1,
-        2
-      ],
-      "explanation": "Piloter sur circuit n'est pas la solution pour éviter ce type d'accident lié à la vitesse. En revanche, s'auto-évaluer permet de prendre conscience de ses limites et d'adapter son allure."
+      "explanation": "Le permis A est accessible après 2 ans de permis A2 et une formation complémentaire. Il ne s’obtient pas directement après le permis A2."
     },
     {
       "id": 288,
@@ -449,89 +141,33 @@
       "explanation": "Ce panneau indique une priorité ponctuelle, valable uniquement à la prochaine intersection. Il ne rend pas la route prioritaire sur plusieurs intersections."
     },
     {
-      "id": 292,
-      "scene": "scene_201.png",
-      "type": "statements",
-      "question": "Dans ce virage à droite :",
-      "statements": [
-        {
-          "text": "L’inclinaison est provoquée en poussant sur le guidon",
-          "answers": [
-            "À gauche",
-            "À droite"
-          ]
-        },
-        {
-          "text": "L’effet gyroscopique augmente avec la vitesse",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
-      ],
-      "correct": [
-        1,
-        2
-      ],
-      "explanation": "Pour incliner la moto à droite, on pousse sur le guidon à droite. Plus la vitesse augmente, plus l’effet gyroscopique devient important."
-    },
-    {
-      "id": 298,
-      "scene": "scene_205.png",
-      "question": "Le permis A est accessible :",
+      "id": 235,
+      "scene": "scene_165.png",
+      "question": "Avec ce panneau, puis-je m’arrêter quelques secondes pour déposer quelqu’un ?",
       "answers": [
-        "Directement après l’obtention du permis A2",
-        "Après 1 an de permis A2",
-        "Après 2 ans de permis A2"
-      ],
-      "correct": [
-        2
-      ],
-      "explanation": "Le permis A est accessible après 2 ans de permis A2 et une formation complémentaire. Il ne s’obtient pas directement après le permis A2."
-    },
-    {
-      "id": 45,
-      "scene": "scene_020.png",
-      "question": "En tant que motard impliqué dans un accident matériel, vous pouvez remplir un constat amiable",
-      "answers": [
-        "Uniquement si vous êtes en tort",
-        "Uniquement si l'autre conducteur accepte",
-        "Dans tous les cas, même si l'autre refuse"
-      ],
-      "correct": [
-        2
-      ],
-      "explanation": "Vous pouvez remplir votre côté du constat seul et l'envoyer à votre assurance. Le refus de l'autre conducteur ne vous en empêche pas."
-    },
-    {
-      "id": 118,
-      "scene": "scene_073.png",
-      "question": "La surface de contact au sol des pneus d'une moto est équivalente à la surface :",
-      "answers": [
-        "D'un timbre-poste",
-        "D'une carte bancaire",
-        "D'un passeport"
+        "Oui",
+        "Non"
       ],
       "correct": [
         1
       ],
-      "explanation": "Les pneus d'une moto touchent le sol sur une surface très réduite. Cette faible zone de contact rend l'état des pneus essentiel pour l'adhérence et la sécurité."
+      "explanation": "Ce panneau interdit même un arrêt de courte durée. Je ne peux donc pas m’arrêter pour déposer quelqu’un."
     },
     {
-      "id": 121,
-      "scene": "scene_074.png",
+      "id": 207,
+      "scene": "scene_142.png",
       "type": "statements",
-      "question": "Avec le permis A2, je peux rouler avec",
+      "question": "Pour éviter de déraper j'évite",
       "statements": [
         {
-          "text": "Une moto de 166 ch",
+          "text": "de freiner fortement",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Une moto de 136 ch",
+          "text": "d'accélérer brutalement",
           "answers": [
             "Oui",
             "Non"
@@ -539,10 +175,131 @@
         }
       ],
       "correct": [
-        1,
+        0,
+        2
+      ],
+      "explanation": "Sur une chaussée enneigée ou verglacée, l'adhérence est fortement réduite. Il faut freiner et accélérer progressivement pour éviter de perdre le contrôle."
+    },
+    {
+      "id": 5,
+      "scene": "scene_002.png",
+      "question": "Dans cette situation, les motards sont",
+      "answers": [
+        "en infraction car ils roulent côte à côte dans la même voie",
+        "en règle car deux motards peuvent toujours rouler côte à côte",
+        "en règle car ils roulent à la même vitesse",
+        "en règle car la voie est assez large"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Sur cette photo, les deux motards roulent côte à côte dans une seule voie. Cette position réduit leur marge de sécurité en cas d'écart ou de freinage soudain."
+    },
+    {
+      "id": 222,
+      "scene": "scene_158.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Le bon fonctionnement des feux avant doit être contrôlé ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Le bon fonctionnement des commodos doit être contrôlé ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Avant chaque départ, il faut vérifier les équipements essentiels de la moto. Les feux et les commodos permettent de circuler en sécurité et de signaler correctement ses intentions."
+    },
+    {
+      "id": 168,
+      "scene": "scene_108.png",
+      "question": "La nuit, je dois faire des pauses plus fréquentes ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "La nuit, la fatigue arrive plus vite et la vigilance baisse plus facilement. Faire des pauses régulières permet de rester attentif et de limiter le risque d'accident."
+    },
+    {
+      "id": 367,
+      "scene": "scene_252.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Je dois céder le passage aux usagers de la route abordée ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Je dois marquer l’arrêt même si aucun usager n’est visible :",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Au stop, l’arrêt complet est obligatoire, même si aucun usager n’est visible. Après l’arrêt, je peux m’engager seulement si je peux le faire sans gêner les usagers de la route abordée."
+    },
+    {
+      "id": 216,
+      "scene": "scene_152.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Je peux démonter une ou plusieurs chicanes du pot d’échappement d’origine ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Cette modification procure un gain de performances significatif ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
         3
       ],
-      "explanation": "Le permis A2 limite la puissance de la moto à 47,5 ch maximum. Une moto de 136 ch ou 166 ch dépasse largement la limite autorisée."
+      "explanation": "Il est parfois possible de démonter une ou plusieurs chicanes du pot d’échappement d’origine. Cette modification augmente principalement le niveau sonore et n’apporte généralement pas de gain de performances significatif. Un échappement devenu trop bruyant peut ne plus être conforme à la réglementation et être sanctionné lors d’un contrôle."
+    },
+    {
+      "id": 267,
+      "scene": "scene_185.png",
+      "question": "Pour un excès de vitesse de 40 à 49 km/h au-dessus de la limite autorisée, je risque la perte de ?",
+      "answers": [
+        "2 points",
+        "3 points",
+        "4 points",
+        "6 points"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Un excès de vitesse de 40 à 49 km/h au-dessus de la limite autorisée entraîne le retrait de 4 points. À partir de 50 km/h au-dessus de la limite autorisée, le retrait passe à 6 points."
     },
     {
       "id": 135,
@@ -574,22 +331,23 @@
       "explanation": "Après un repas, la digestion ralentit le passage de l'alcool dans le sang. Le taux maximal est atteint environ 1 heure après l'absorption."
     },
     {
-      "id": 156,
-      "scene": "scene_096.png",
-      "question": "En continuant tout droit, dois-je me méfier des piétons à proximité du passage piéton ?",
+      "id": 376,
+      "scene": "scene_258.png",
+      "question": "Un moteur froid consomme :",
       "answers": [
-        "Oui",
-        "Non"
+        "Moins qu’un moteur chaud",
+        "Autant qu’un moteur chaud",
+        "Plus qu’un moteur chaud"
       ],
       "correct": [
-        0
+        2
       ],
-      "explanation": "Les piétons sont proches du passage piéton, même s'ils ne traversent pas encore. Je dois ralentir et rester prêt à m'arrêter s'ils s'engagent."
+      "explanation": "Un moteur froid consomme plus qu’un moteur chaud, car il n’a pas encore atteint sa température de fonctionnement optimale. Il faut donc éviter les accélérations fortes au démarrage."
     },
     {
-      "id": 161,
-      "scene": "scene_101.png",
-      "question": "Je peux stationner sur la zone de zébras à gauche ?",
+      "id": 228,
+      "scene": "scene_161.png",
+      "question": "Ce panneau m’indique-t-il que je dois céder le passage à droite ?",
       "answers": [
         "Oui",
         "Non"
@@ -597,20 +355,33 @@
       "correct": [
         1
       ],
-      "explanation": "Une zone de zébras sert à guider la circulation et à séparer des trajectoires. Il est interdit d'y stationner."
+      "explanation": "Ce panneau annonce une priorité ponctuelle à la prochaine intersection. Les usagers venant des routes secondaires doivent me céder le passage."
     },
     {
-      "id": 169,
-      "scene": "scene_109.png",
-      "question": "Un casque sale peut-il réduire l'appréciation des vitesses ?",
-      "answers": [
-        "Oui",
-        "Non"
+      "id": 199,
+      "scene": "scene_134.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Je laisse un intervalle de sécurité égal à :",
+          "answers": [
+            "2 secondes",
+            "Ma distance d'arrêt"
+          ]
+        },
+        {
+          "text": "Sous une forte pluie, je roule visière :",
+          "answers": [
+            "Ouverte",
+            "Fermée"
+          ]
+        }
       ],
       "correct": [
-        0
+        1,
+        3
       ],
-      "explanation": "Un écran de casque sale réduit la qualité de vision et peut gêner l'évaluation des distances et des vitesses. Il faut le garder propre pour bien anticiper les dangers."
+      "explanation": "Sous une forte pluie, il faut augmenter les distances de sécurité jusqu'à sa distance d'arrêt. La visière doit rester fermée pour protéger les yeux et garder une meilleure maîtrise de la situation."
     },
     {
       "id": 176,
@@ -640,30 +411,72 @@
       "explanation": "Le klaxon ne doit pas être utilisé pour annoncer son approche, sauf en cas de danger immédiat. Hors agglomération, il faut laisser au moins 1,5 mètre pour dépasser un piéton ou un coureur."
     },
     {
-      "id": 183,
-      "scene": "scene_121.png",
-      "type": "statements",
-      "statements": [
-        {
-          "text": "Le bruit maximum d'une moto est réglementé ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "Le danger pour l'oreille humaine commence au-delà de 90 décibels ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
+      "id": 400,
+      "scene": "scene_275.png",
+      "question": "Après un accident, quitter les lieux sans s’arrêter constitue :",
+      "answers": [
+        "Un délit de fuite",
+        "Un refus d’obtempérer"
       ],
       "correct": [
-        0,
+        0
+      ],
+      "explanation": "Quitter les lieux d’un accident sans s’arrêter constitue un délit de fuite. C’est une infraction grave qui peut entraîner des sanctions pénales, un retrait de points et une suspension ou annulation du permis."
+    },
+    {
+      "id": 118,
+      "scene": "scene_073.png",
+      "question": "La surface de contact au sol des pneus d'une moto est équivalente à la surface :",
+      "answers": [
+        "D'un timbre-poste",
+        "D'une carte bancaire",
+        "D'un passeport"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Les pneus d'une moto touchent le sol sur une surface très réduite. Cette faible zone de contact rend l'état des pneus essentiel pour l'adhérence et la sécurité."
+    },
+    {
+      "id": 10,
+      "scene": "scene_004.jpg",
+      "question": "Un triangle de présignalisation est visible à quelle distance ?",
+      "answers": [
+        "30 mètres",
+        "50 mètres",
+        "100 mètres",
+        "150 mètres"
+      ],
+      "correct": [
         2
       ],
-      "explanation": "Le niveau sonore d'une moto est encadré par la réglementation. Au-delà de 90 décibels, le bruit peut devenir dangereux pour l'oreille humaine."
+      "explanation": "Le triangle de présignalisation est conçu pour être visible jusqu'à 100 mètres. Il permet aux autres usagers d'anticiper le danger et de réagir à temps."
+    },
+    {
+      "id": 262,
+      "scene": "scene_182.png",
+      "question": "Un cyclomotoriste peut-il avoir une trajectoire irrégulière ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Un cyclomotoriste peut modifier sa trajectoire pour éviter un obstacle ou en raison d'un manque d'expérience. Il est important d'anticiper ces changements de direction."
+    },
+    {
+      "id": 390,
+      "scene": "scene_267.png",
+      "question": "Si je suis témoin d’un accident, je dois appliquer la règle protéger, alerter, secourir :",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "En cas d’accident, il faut d’abord protéger les lieux pour éviter un autre danger, puis alerter les secours. Ensuite, il faut secourir la victime sans faire de geste dangereux."
     },
     {
       "id": 197,
@@ -692,22 +505,90 @@
       "explanation": "Une formation aux gestes de premiers secours est recommandée, mais il ne faut pas attendre pour agir en cas d’urgence. Le massage cardiaque permet de maintenir une circulation du sang en attendant les secours."
     },
     {
-      "id": 199,
-      "scene": "scene_134.png",
+      "id": 243,
+      "scene": "scene_170.png",
       "type": "statements",
+      "question": "Dans cette situation :",
       "statements": [
         {
-          "text": "Je laisse un intervalle de sécurité égal à :",
+          "text": "Je cède le passage au véhicule gris à ma gauche ?",
           "answers": [
-            "2 secondes",
-            "Ma distance d'arrêt"
+            "Oui",
+            "Non"
           ]
         },
         {
-          "text": "Sous une forte pluie, je roule visière :",
+          "text": "Je m’assure d’avoir bien été détecté par le conducteur de ce véhicule ?",
           "answers": [
-            "Ouverte",
-            "Fermée"
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        1,
+        2
+      ],
+      "explanation": "Le véhicule gris arrive de gauche, il n’est donc pas prioritaire sur moi dans cette situation. Je reste tout de même prudent et je vérifie que son conducteur m’a bien vu avant de continuer."
+    },
+    {
+      "id": 321,
+      "scene": "scene_219.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Ce panneau concerne une moto de 125 cm³ ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Ce panneau concerne une moto de 500 cm³ ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Ce panneau interdit l’accès aux motocyclettes. Il concerne donc aussi bien une moto de 125 cm³ qu’une moto de 500 cm³."
+    },
+    {
+      "id": 383,
+      "scene": "scene_249.png",
+      "question": "La distance parcourue entre le début du freinage et l’arrêt complet de la moto définit :",
+      "answers": [
+        "La distance d’arrêt",
+        "La distance de freinage",
+        "Le temps de réaction"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "La distance de freinage correspond à la distance parcourue entre le moment où le conducteur freine et l’arrêt complet de la moto. Elle dépend notamment de la vitesse, de l’état de la route et de l’adhérence des pneus."
+    },
+    {
+      "id": 121,
+      "scene": "scene_074.png",
+      "type": "statements",
+      "question": "Avec le permis A2, je peux rouler avec",
+      "statements": [
+        {
+          "text": "Une moto de 166 ch",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Une moto de 136 ch",
+          "answers": [
+            "Oui",
+            "Non"
           ]
         }
       ],
@@ -715,37 +596,156 @@
         1,
         3
       ],
-      "explanation": "Sous une forte pluie, il faut augmenter les distances de sécurité jusqu'à sa distance d'arrêt. La visière doit rester fermée pour protéger les yeux et garder une meilleure maîtrise de la situation."
+      "explanation": "Le permis A2 limite la puissance de la moto à 47,5 ch maximum. Une moto de 136 ch ou 166 ch dépasse largement la limite autorisée."
     },
     {
-      "id": 5,
-      "scene": "scene_002.png",
-      "question": "Dans cette situation, les motards sont",
+      "id": 278,
+      "scene": "scene_186.png",
+      "question": "Quelle proportion approximative des accidents mortels à moto concerne un motard tombé seul ?",
       "answers": [
-        "en infraction car ils roulent côte à côte dans la même voie",
-        "en règle car deux motards peuvent toujours rouler côte à côte",
-        "en règle car ils roulent à la même vitesse",
-        "en règle car la voie est assez large"
-      ],
-      "correct": [
-        0
-      ],
-      "explanation": "Sur cette photo, les deux motards roulent côte à côte dans une seule voie. Cette position réduit leur marge de sécurité en cas d'écart ou de freinage soudain."
-    },
-    {
-      "id": 10,
-      "scene": "scene_004.jpg",
-      "question": "Un triangle de présignalisation est visible à quelle distance ?",
-      "answers": [
-        "30 mètres",
-        "50 mètres",
-        "100 mètres",
-        "150 mètres"
+        "Environ 10 %",
+        "Environ 20 %",
+        "Environ 30 %",
+        "Environ 50 %"
       ],
       "correct": [
         2
       ],
-      "explanation": "Le triangle de présignalisation est conçu pour être visible jusqu'à 100 mètres. Il permet aux autres usagers d'anticiper le danger et de réagir à temps."
+      "explanation": "Environ trois accidents mortels à moto sur dix concernent un motard tombé seul. Cela rappelle qu’une perte de contrôle peut être grave, même sans autre véhicule impliqué."
+    },
+    {
+      "id": 169,
+      "scene": "scene_109.png",
+      "question": "Un casque sale peut-il réduire l'appréciation des vitesses ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Un écran de casque sale réduit la qualité de vision et peut gêner l'évaluation des distances et des vitesses. Il faut le garder propre pour bien anticiper les dangers."
+    },
+    {
+      "id": 208,
+      "scene": "scene_143.png",
+      "question": "Quand je roule vite, mon champ de vision net, par rapport à mon champ de vision à l’arrêt :",
+      "answers": [
+        "Se rétrécit",
+        "Est identique",
+        "S’élargit"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Plus la vitesse augmente, plus le regard se concentre loin devant et moins les côtés sont perçus nettement. Le champ de vision se rétrécit, ce qui rend l’anticipation plus difficile."
+    },
+    {
+      "id": 309,
+      "scene": "scene_213.png",
+      "question": "Face à ce panneau, je peux continuer à moto :",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ce panneau interdit la circulation à tous les véhicules, y compris les motos. Je ne dois donc pas m’engager dans cette voie."
+    },
+    {
+      "id": 183,
+      "scene": "scene_121.png",
+      "type": "statements",
+      "statements": [
+        {
+          "text": "Le bruit maximum d'une moto est réglementé ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Le danger pour l'oreille humaine commence au-delà de 90 décibels ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Le niveau sonore d'une moto est encadré par la réglementation. Au-delà de 90 décibels, le bruit peut devenir dangereux pour l'oreille humaine."
+    },
+    {
+      "id": 156,
+      "scene": "scene_096.png",
+      "question": "En continuant tout droit, dois-je me méfier des piétons à proximité du passage piéton ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Les piétons sont proches du passage piéton, même s'ils ne traversent pas encore. Je dois ralentir et rester prêt à m'arrêter s'ils s'engagent."
+    },
+    {
+      "id": 282,
+      "scene": "scene_133.png",
+      "type": "statements",
+      "question": "Pour éviter ce type d'accident, le motard doit :",
+      "statements": [
+        {
+          "text": "Apprendre à piloter sur circuit",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "S'auto-évaluer",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
+      ],
+      "correct": [
+        1,
+        2
+      ],
+      "explanation": "Piloter sur circuit n'est pas la solution pour éviter ce type d'accident lié à la vitesse. En revanche, s'auto-évaluer permet de prendre conscience de ses limites et d'adapter son allure."
+    },
+    {
+      "id": 225,
+      "scene": "scene_162.png",
+      "question": "Ce panneau m’interdit-il de dépasser une voiture ?",
+      "answers": [
+        "Oui",
+        "Non"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ce panneau interdit aux véhicules à moteur de dépasser d’autres véhicules à moteur. Une voiture est bien un véhicule à moteur, donc le dépassement est interdit."
+    },
+    {
+      "id": 250,
+      "scene": "scene_174.png",
+      "question": "Sur une moto, quelle partie du corps est particulièrement vulnérable en cas de chute ?",
+      "answers": [
+        "Les mains",
+        "Les jambes",
+        "La tête",
+        "Le dos"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "La tête est particulièrement vulnérable en cas de chute à moto. C’est pour cela que le port d’un casque homologué est obligatoire."
     }
   ]
 }

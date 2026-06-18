@@ -3,17 +3,31 @@
   "version": "1.0.0",
   "questions": [
     {
-      "id": 127,
-      "scene": "scene_079.png",
-      "question": "Ce casque est-il homologué pour circuler à moto ?",
-      "answers": [
-        "Oui",
-        "Non"
+      "id": 242,
+      "scene": "scene_168.png",
+      "type": "statements",
+      "question": "Dans cette situation :",
+      "statements": [
+        {
+          "text": "Je cède le passage au véhicule gris à ma gauche ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        },
+        {
+          "text": "Je m’assure d’avoir bien été détecté par le conducteur de ce véhicule ?",
+          "answers": [
+            "Oui",
+            "Non"
+          ]
+        }
       ],
       "correct": [
-        0
+        1,
+        2
       ],
-      "explanation": "L’étiquette d’homologation visible sur la jugulaire indique que le casque est homologué. Elle permet de vérifier que le casque respecte une norme autorisée pour circuler à moto."
+      "explanation": "Le véhicule gris arrive de gauche, il n’est donc pas prioritaire sur moi dans cette situation. Je reste tout de même prudent et je vérifie que son conducteur m’a bien vu avant de continuer."
     },
     {
       "id": 50,
@@ -650,31 +664,17 @@
       "explanation": "En cas de perte d’un point, il est récupéré automatiquement au bout de 6 mois sans nouvelle infraction. Le délai commence à partir de la date définitive de l’infraction."
     },
     {
-      "id": 242,
-      "scene": "scene_168.png",
-      "type": "statements",
-      "question": "Dans cette situation :",
-      "statements": [
-        {
-          "text": "Je cède le passage au véhicule gris à ma gauche ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        },
-        {
-          "text": "Je m’assure d’avoir bien été détecté par le conducteur de ce véhicule ?",
-          "answers": [
-            "Oui",
-            "Non"
-          ]
-        }
+      "id": 127,
+      "scene": "scene_079.png",
+      "question": "Ce casque est-il homologué pour circuler à moto ?",
+      "answers": [
+        "Oui",
+        "Non"
       ],
       "correct": [
-        1,
-        2
+        0
       ],
-      "explanation": "Le véhicule gris arrive de gauche, il n’est donc pas prioritaire sur moi dans cette situation. Je reste tout de même prudent et je vérifie que son conducteur m’a bien vu avant de continuer."
+      "explanation": "L’étiquette d’homologation visible sur la jugulaire indique que le casque est homologué. Elle permet de vérifier que le casque respecte une norme autorisée pour circuler à moto."
     },
     {
       "id": 191,

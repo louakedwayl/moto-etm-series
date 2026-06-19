@@ -3,20 +3,19 @@
   "version": "1.0.0",
   "questions": [
     {
-      "id": 242,
-      "scene": "scene_168.png",
+      "id": 352,
+      "scene": "scene_239.png",
       "type": "statements",
-      "question": "Dans cette situation :",
       "statements": [
         {
-          "text": "Je cède le passage au véhicule gris à ma gauche ?",
+          "text": "La voiture noire peut s’engager avant moi",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Je m’assure d’avoir bien été détecté par le conducteur de ce véhicule ?",
+          "text": "En l’absence de panneau ou de marquage de priorité, je dois appliquer la priorité à droite",
           "answers": [
             "Oui",
             "Non"
@@ -24,10 +23,10 @@
         }
       ],
       "correct": [
-        1,
+        0,
         2
       ],
-      "explanation": "Le véhicule gris arrive de gauche, il n’est donc pas prioritaire sur moi dans cette situation. Je reste tout de même prudent et je vérifie que son conducteur m’a bien vu avant de continuer."
+      "explanation": "Sans panneau ni marquage de priorité, la règle de la priorité à droite s’applique. La voiture noire venant de droite peut donc s’engager avant moi."
     },
     {
       "id": 50,
@@ -73,19 +72,20 @@
       "explanation": "Le temps de réaction correspond au délai entre la perception d’un danger et l’action du conducteur. Pendant ce temps, la moto continue d’avancer."
     },
     {
-      "id": 352,
-      "scene": "scene_239.png",
+      "id": 242,
+      "scene": "scene_168.png",
       "type": "statements",
+      "question": "Dans cette situation :",
       "statements": [
         {
-          "text": "La voiture noire peut s’engager avant moi",
+          "text": "Je cède le passage au véhicule gris à ma gauche ?",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "En l’absence de panneau ou de marquage de priorité, je dois appliquer la priorité à droite",
+          "text": "Je m’assure d’avoir bien été détecté par le conducteur de ce véhicule ?",
           "answers": [
             "Oui",
             "Non"
@@ -93,10 +93,10 @@
         }
       ],
       "correct": [
-        0,
+        1,
         2
       ],
-      "explanation": "Sans panneau ni marquage de priorité, la règle de la priorité à droite s’applique. La voiture noire venant de droite peut donc s’engager avant moi."
+      "explanation": "Le véhicule gris arrive de gauche, il n’est donc pas prioritaire sur moi dans cette situation. Je reste tout de même prudent et je vérifie que son conducteur m’a bien vu avant de continuer."
     },
     {
       "id": 111,

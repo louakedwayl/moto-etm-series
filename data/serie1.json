@@ -9,14 +9,14 @@
       "question": "Dans cette situation :",
       "statements": [
         {
-          "text": "Je cède le passage au véhicule gris à ma gauche ?",
+          "text": "Je cède le passage au véhicule gris à ma gauche :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Je m’assure d’avoir bien été détecté par le conducteur de ce véhicule ?",
+          "text": "Je m’assure d’avoir bien été détecté par le conducteur de ce véhicule :",
           "answers": [
             "Oui",
             "Non"
@@ -32,7 +32,7 @@
     {
       "id": 50,
       "scene": "scene_021.png",
-      "question": "L'alcool est en cause dans",
+      "question": "L'alcool est en cause dans :",
       "answers": [
         "75 % des accidents mortels",
         "50 % des accidents mortels",
@@ -46,7 +46,7 @@
     {
       "id": 266,
       "scene": "scene_184.png",
-      "question": "Pour un excès de vitesse de 30 à 39 km/h au-dessus de la limite autorisée, je risque la perte de ?",
+      "question": "Pour un excès de vitesse de 30 à 39 km/h au-dessus de la limite autorisée, je risque la perte de :",
       "answers": [
         "2 points",
         "3 points",
@@ -78,14 +78,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "La voiture noire peut s’engager avant moi",
+          "text": "La voiture noire peut s’engager avant moi :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "En l’absence de panneau ou de marquage de priorité, je dois appliquer la priorité à droite",
+          "text": "En l’absence de panneau ou de marquage de priorité, je dois appliquer la priorité à droite :",
           "answers": [
             "Oui",
             "Non"
@@ -101,7 +101,7 @@
     {
       "id": 111,
       "scene": "scene_067.png",
-      "question": "Ces gants sont-ils homologués pour la moto ?",
+      "question": "Ces gants sont-ils homologués pour la moto :",
       "answers": [
         "Oui",
         "Non"
@@ -114,7 +114,7 @@
     {
       "id": 94,
       "scene": "scene_053.png",
-      "question": "Je suis dans l'angle mort d'un véhicule.",
+      "question": "Je suis dans l'angle mort d'un véhicule :",
       "answers": [
         "Oui",
         "Non"
@@ -127,7 +127,7 @@
     {
       "id": 106,
       "scene": "scene_062.png",
-      "question": "Un clignotant rapide alerte-t-il d'une ampoule hors d'usage ?",
+      "question": "Un clignotant rapide alerte-t-il d'une ampoule hors d'usage :",
       "answers": [
         "Oui",
         "Non"
@@ -140,7 +140,7 @@
     {
       "id": 62,
       "scene": "scene_028.png",
-      "question": "Par temps de pluie, la distance de freinage est",
+      "question": "Par temps de pluie, la distance de freinage est :",
       "answers": [
         "Identique au temps sec",
         "Légèrement augmentée",
@@ -161,14 +161,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Une voiture est déjà engagée dans le giratoire",
+          "text": "Une voiture est déjà engagée dans le giratoire :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "La moto est prioritaire sur la voiture grise déjà engagée",
+          "text": "La moto est prioritaire sur la voiture grise déjà engagée :",
           "answers": [
             "Oui",
             "Non"
@@ -184,7 +184,7 @@
     {
       "id": 171,
       "scene": "scene_111.png",
-      "question": "La zone d'incertitude d'un usager à trottinette est-elle plus importante que celle d'un piéton ?",
+      "question": "La zone d'incertitude d'un usager à trottinette est-elle plus importante que celle d'un piéton :",
       "answers": [
         "Oui",
         "Non"
@@ -197,7 +197,7 @@
     {
       "id": 51,
       "scene": "scene_022.png",
-      "question": "Sur autoroute, les périodes où la vigilance baisse le plus se situent",
+      "question": "Sur autoroute, les périodes où la vigilance baisse le plus se situent :",
       "answers": [
         "Entre 2h et 5h",
         "Entre 13h et 15h",
@@ -212,7 +212,7 @@
     {
       "id": 153,
       "scene": "scene_095.png",
-      "question": "En conservant ma trajectoire, vais-je entrer dans la zone d'incertitude des piétons ?",
+      "question": "En conservant ma trajectoire, vais-je entrer dans la zone d'incertitude des piétons :",
       "answers": [
         "Oui",
         "Non"
@@ -226,17 +226,17 @@
       "id": 192,
       "scene": "scene_129.png",
       "type": "statements",
-      "question": "La zone brillante sur la chaussée est-elle glissante ?",
+      "question": "La zone brillante sur la chaussée est-elle glissante :",
       "statements": [
         {
-          "text": "Par forte chaleur",
+          "text": "Par forte chaleur :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Par temps de pluie",
+          "text": "Par temps de pluie :",
           "answers": [
             "Oui",
             "Non"
@@ -252,7 +252,7 @@
     {
       "id": 12,
       "scene": "scene_018.jpg",
-      "question": "Un conducteur novice est en infraction dès que son taux d'alcool atteint",
+      "question": "Un conducteur novice est en infraction dès que son taux d'alcool atteint :",
       "answers": [
         "0,20 gramme par litre de sang",
         "0,10 milligramme par litre d'air expiré",
@@ -268,7 +268,7 @@
     {
       "id": 160,
       "scene": "scene_100.png",
-      "question": "Je peux stationner sur la zone de zébras à gauche ?",
+      "question": "Je peux stationner sur la zone de zébras à gauche :",
       "answers": [
         "Oui",
         "Non"
@@ -282,17 +282,17 @@
       "id": 53,
       "scene": "scene_023.png",
       "type": "statements",
-      "question": "L'écomobilité, c'est",
+      "question": "L'écomobilité, c'est :",
       "statements": [
         {
-          "text": "Favoriser l'utilisation des transports en commun",
+          "text": "Favoriser l'utilisation des transports en commun :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Privilégier la marche ou le vélo pour les petits trajets",
+          "text": "Privilégier la marche ou le vélo pour les petits trajets :",
           "answers": [
             "Oui",
             "Non"
@@ -308,7 +308,7 @@
     {
       "id": 272,
       "scene": "scene_188.png",
-      "question": "Ce panneau indique-t-il une route prioritaire sur plusieurs intersections ?",
+      "question": "Ce panneau indique-t-il une route prioritaire sur plusieurs intersections :",
       "answers": [
         "Oui",
         "Non"
@@ -324,14 +324,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Si un piéton manifeste clairement son intention de traverser, je dois lui céder le passage",
+          "text": "Si un piéton manifeste clairement son intention de traverser, je dois lui céder le passage :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Refuser la priorité à un piéton peut entraîner un retrait de 6 points et une amende de 135 euros",
+          "text": "Refuser la priorité à un piéton peut entraîner un retrait de 6 points et une amende de 135 euros :",
           "answers": [
             "Oui",
             "Non"
@@ -350,14 +350,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "La signalisation autorise le dépassement",
+          "text": "La signalisation autorise le dépassement :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "La visibilité permet le dépassement",
+          "text": "La visibilité permet le dépassement :",
           "answers": [
             "Oui",
             "Non"
@@ -376,14 +376,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Une vitesse excessive est généralement la cause de ce type d'accident",
+          "text": "Une vitesse excessive est généralement la cause de ce type d'accident :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "En adaptant sa vitesse, le motard réduit ce risque",
+          "text": "En adaptant sa vitesse, le motard réduit ce risque :",
           "answers": [
             "Oui",
             "Non"
@@ -403,14 +403,14 @@
       "question": "En continuant tout droit à la prochaine intersection, le motard cédera le passage :",
       "statements": [
         {
-          "text": "À droite",
+          "text": "À droite :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "À gauche",
+          "text": "À gauche :",
           "answers": [
             "Oui",
             "Non"
@@ -426,7 +426,7 @@
     {
       "id": 91,
       "scene": "scene_047.png",
-      "question": "En circulant sur une voie de bus, je risque",
+      "question": "En circulant sur une voie de bus, je risque :",
       "answers": [
         "Une contravention de première classe",
         "Une contravention de quatrième classe",
@@ -443,17 +443,17 @@
       "id": 181,
       "scene": "scene_120.png",
       "type": "statements",
-      "question": "Il est important de contrôler régulièrement l'absence de point dur dans la direction",
+      "question": "Il est important de contrôler régulièrement l'absence de point dur dans la direction :",
       "statements": [
         {
-          "text": "Ce point dur peut avoir des conséquences sur le freinage ?",
+          "text": "Ce point dur peut avoir des conséquences sur le freinage :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Ce point dur peut avoir des conséquences sur la stabilité ?",
+          "text": "Ce point dur peut avoir des conséquences sur la stabilité :",
           "answers": [
             "Oui",
             "Non"
@@ -491,14 +491,14 @@
       "question": "L’effet gyroscopique :",
       "statements": [
         {
-          "text": "Aide à maintenir la moto en équilibre",
+          "text": "Aide à maintenir la moto en équilibre :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Augmente avec la vitesse",
+          "text": "Augmente avec la vitesse :",
           "answers": [
             "Oui",
             "Non"
@@ -531,7 +531,7 @@
     {
       "id": 19,
       "scene": "scene_006.jpg",
-      "question": "L'ABS permet de garder le contrôle de la direction pendant un freinage d'urgence.",
+      "question": "L'ABS permet de garder le contrôle de la direction pendant un freinage d'urgence :",
       "answers": [
         "Oui",
         "Non"
@@ -545,17 +545,17 @@
       "id": 60,
       "scene": "scene_052.jpg",
       "type": "statements",
-      "question": "Mon véhicule est équipé de l'appel d'urgence eCall",
+      "question": "Mon véhicule est équipé de l'appel d'urgence eCall :",
       "statements": [
         {
-          "text": "Il est géolocalisé",
+          "text": "Il est géolocalisé :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Les secours sont automatiquement appelés en cas d'accident",
+          "text": "Les secours sont automatiquement appelés en cas d'accident :",
           "answers": [
             "Oui",
             "Non"
@@ -571,7 +571,7 @@
     {
       "id": 15,
       "scene": "scene_005.jpg",
-      "question": "À quel moment dois-je actionner mon clignotant avant d'effectuer un tournant ?",
+      "question": "À quel moment dois-je actionner mon clignotant avant d'effectuer un tournant :",
       "answers": [
         "Avant de commencer ma manœuvre",
         "Après avoir amorcé le virage"
@@ -585,17 +585,17 @@
       "id": 130,
       "scene": "scene_081.png",
       "type": "statements",
-      "question": "Je circule avec un casque non attaché, je risque ",
+      "question": "Je circule avec un casque non attaché, je risque :",
       "statements": [
         {
-          "text": "une amende de 135 euros",
+          "text": "une amende de 135 euros :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "un retrait de 3 points",
+          "text": "un retrait de 3 points :",
           "answers": [
             "Oui",
             "Non"
@@ -611,7 +611,7 @@
     {
       "id": 190,
       "scene": "scene_128.png",
-      "question": "Suis-je correctement placé dans ce sens unique ?",
+      "question": "Suis-je correctement placé dans ce sens unique :",
       "answers": [
         "Oui",
         "Non"
@@ -628,14 +628,14 @@
       "question": "En continuant tout droit à la prochaine intersection, le motard cédera le passage :",
       "statements": [
         {
-          "text": "À droite",
+          "text": "À droite :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "À gauche",
+          "text": "À gauche :",
           "answers": [
             "Oui",
             "Non"
@@ -666,7 +666,7 @@
     {
       "id": 127,
       "scene": "scene_079.png",
-      "question": "Ce casque est-il homologué pour circuler à moto ?",
+      "question": "Ce casque est-il homologué pour circuler à moto :",
       "answers": [
         "Oui",
         "Non"
@@ -679,7 +679,7 @@
     {
       "id": 191,
       "scene": "scene_136.png",
-      "question": "La solidarité entre motards se traduit-elle par une bienveillance en cas de panne ?",
+      "question": "La solidarité entre motards se traduit-elle par une bienveillance en cas de panne :",
       "answers": [
         "Oui",
         "Non"
@@ -692,7 +692,7 @@
     {
       "id": 98,
       "scene": "scene_057.png",
-      "question": "L'énergie engendrée par la vitesse d'un véhicule s'appelle",
+      "question": "L'énergie engendrée par la vitesse d'un véhicule s'appelle :",
       "answers": [
         "La force gyroscopique",
         "L'énergie cinétique",
@@ -706,7 +706,7 @@
     {
       "id": 148,
       "scene": "scene_092.png",
-      "question": "Ce casque homologué P/J permet-il de circuler avec la mentonnière ouverte ?",
+      "question": "Ce casque homologué P/J permet-il de circuler avec la mentonnière ouverte :",
       "answers": [
         "Oui",
         "Non"
@@ -719,7 +719,7 @@
     {
       "id": 79,
       "scene": "scene_042.png",
-      "question": "Je vais aborder un premier virage",
+      "question": "Je vais aborder un premier virage :",
       "answers": [
         "à droite",
         "à gauche",
@@ -739,14 +739,14 @@
       "question": "",
       "statements": [
         {
-          "text": "certains casques sont équipés d'un système d'écouteurs",
+          "text": "certains casques sont équipés d'un système d'écouteurs :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "l'utilisation d'écouteurs peut être une source de distraction",
+          "text": "l'utilisation d'écouteurs peut être une source de distraction :",
           "answers": [
             "Auditive",
             "Motrice"

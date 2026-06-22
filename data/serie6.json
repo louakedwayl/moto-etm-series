@@ -12,14 +12,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Le panneau « Cédez le passage » m’impose de m’arrêter obligatoirement",
+          "text": "Le panneau « Cédez le passage » m’impose de m’arrêter obligatoirement :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Je peux m’engager si la voie est libre dans le giratoire",
+          "text": "Je peux m’engager si la voie est libre dans le giratoire :",
           "answers": [
             "Oui",
             "Non"
@@ -64,7 +64,7 @@
     {
       "id": 55,
       "scene": "scene_024.png",
-      "question": "Le véhicule qui rejette le moins de gaz polluant fonctionne",
+      "question": "Le véhicule qui rejette le moins de gaz polluant fonctionne :",
       "answers": [
         "À l'essence sans plomb",
         "Au gasoil",
@@ -80,17 +80,17 @@
       "id": 54,
       "scene": "scene_023.png",
       "type": "statements",
-      "question": "Le respect des usagers vulnérables implique",
+      "question": "Le respect des usagers vulnérables implique :",
       "statements": [
         {
-          "text": "De réduire sa vitesse à leur approche",
+          "text": "De réduire sa vitesse à leur approche :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "De klaxonner pour les avertir de ma présence",
+          "text": "De klaxonner pour les avertir de ma présence :",
           "answers": [
             "Oui",
             "Non"
@@ -119,7 +119,7 @@
     {
       "id": 27,
       "scene": "scene_009.png",
-      "question": "Un pneu sous-gonflé entraîne une surconsommation de carburant ?",
+      "question": "Un pneu sous-gonflé entraîne une surconsommation de carburant :",
       "answers": [
         "Oui",
         "Non"
@@ -133,17 +133,17 @@
       "id": 58,
       "scene": "scene_052.jpg",
       "type": "statements",
-      "question": "Après un accident mortel dont je suis responsable, je risque",
+      "question": "Après un accident mortel dont je suis responsable, je risque :",
       "statements": [
         {
-          "text": "Une sanction pénale",
+          "text": "Une sanction pénale :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Des poursuites pour homicide involontaire",
+          "text": "Des poursuites pour homicide involontaire :",
           "answers": [
             "Oui",
             "Non"
@@ -159,7 +159,7 @@
     {
       "id": 232,
       "scene": "scene_163.png",
-      "question": "Ce panneau signifie-t-il que la circulation est interdite dans mon sens ?",
+      "question": "Ce panneau signifie-t-il que la circulation est interdite dans mon sens :",
       "answers": [
         "Oui",
         "Non"
@@ -172,7 +172,7 @@
     {
       "id": 74,
       "scene": "scene_038.png",
-      "question": "Réduire sa vitesse de 130 km/h à 120 km/h sur autoroute permet",
+      "question": "Réduire sa vitesse de 130 km/h à 120 km/h sur autoroute permet :",
       "answers": [
         "De diminuer la consommation de carburant",
         "D'augmenter la consommation de carburant",
@@ -187,7 +187,7 @@
     {
       "id": 104,
       "scene": "scene_060.png",
-      "question": "La nuit, dois-je aborder les virages plus lentement ?",
+      "question": "La nuit, dois-je aborder les virages plus lentement :",
       "answers": [
         "Oui",
         "Non"
@@ -203,7 +203,7 @@
       "photo": {
         "y": 82
       },
-      "question": "Ces gants sont-ils homologués pour la moto ?",
+      "question": "Ces gants sont-ils homologués pour la moto :",
       "answers": [
         "Oui",
         "Non"
@@ -216,7 +216,7 @@
     {
       "id": 273,
       "scene": "scene_188.png",
-      "question": "Le panneau de priorité dispense-t-il le motard de contrôler les intersections ?",
+      "question": "Le panneau de priorité dispense-t-il le motard de contrôler les intersections :",
       "answers": [
         "Oui",
         "Non"
@@ -242,7 +242,7 @@
     {
       "id": 17,
       "scene": "scene_006.jpg",
-      "question": "L'ABS permet en cas de freinage d'urgence de réduire considérablement la distance de freinage sur sol sec.",
+      "question": "L'ABS permet en cas de freinage d'urgence de réduire considérablement la distance de freinage sur sol sec :",
       "answers": [
         "Oui",
         "Non"
@@ -259,14 +259,14 @@
       "question": "Dans ce virage à gauche :",
       "statements": [
         {
-          "text": "L’inclinaison est provoquée en poussant sur le guidon",
+          "text": "L’inclinaison est provoquée en poussant sur le guidon :",
           "answers": [
             "À gauche",
             "À droite"
           ]
         },
         {
-          "text": "L’effet gyroscopique augmente avec la vitesse",
+          "text": "L’effet gyroscopique augmente avec la vitesse :",
           "answers": [
             "Oui",
             "Non"
@@ -283,17 +283,17 @@
       "id": 80,
       "scene": "scene_042.png",
       "type": "statements",
-      "question": "Se déplacer en moto en ville",
+      "question": "Se déplacer en moto en ville :",
       "statements": [
         {
-          "text": "Peut réduire l'encombrement par rapport à une voiture ?",
+          "text": "Peut réduire l'encombrement par rapport à une voiture :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Supprime les embouteillages ?",
+          "text": "Supprime les embouteillages :",
           "answers": [
             "Oui",
             "Non"
@@ -309,7 +309,7 @@
     {
       "id": 399,
       "scene": "scene_273.png",
-      "question": "Si je refuse de m’arrêter à une injonction des forces de l’ordre, je commets",
+      "question": "Si je refuse de m’arrêter à une injonction des forces de l’ordre, je commets :",
       "answers": [
         "Un délit de fuite",
         "Un refus d’obtempérer"
@@ -322,7 +322,7 @@
     {
       "id": 82,
       "scene": "scene_059.png",
-      "question": "Que m'indique le panneau en forme de losange jaune visible sur cette photo ?",
+      "question": "Que m'indique le panneau en forme de losange jaune visible sur cette photo :",
       "answers": [
         "Je suis sur une route à grande circulation",
         "Je suis sur une route prioritaire",
@@ -340,14 +340,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Ce panneau peut se trouver avant un passage étroit ?",
+          "text": "Ce panneau peut se trouver avant un passage étroit :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Avec ce panneau, je suis prioritaire sur les véhicules venant en face ?",
+          "text": "Avec ce panneau, je suis prioritaire sur les véhicules venant en face :",
           "answers": [
             "Oui",
             "Non"
@@ -376,7 +376,7 @@
     {
       "id": 246,
       "scene": "scene_172.png",
-      "question": "Puis-je m'engager ?",
+      "question": "Puis-je m'engager :",
       "answers": [
         "Oui",
         "Non"
@@ -392,14 +392,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Les dents de la couronne de transmission peuvent-elles s'user ?",
+          "text": "Les dents de la couronne de transmission peuvent-elles s'user :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "En cas d'usure, je remplace le kit chaîne complet ?",
+          "text": "En cas d'usure, je remplace le kit chaîne complet :",
           "answers": [
             "Oui",
             "Non"
@@ -431,17 +431,17 @@
       "id": 56,
       "scene": "scene_025.png",
       "type": "statements",
-      "question": "Les rétroviseurs se règlent",
+      "question": "Les rétroviseurs se règlent :",
       "statements": [
         {
-          "text": "Avant le départ",
+          "text": "Avant le départ :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Après le départ",
+          "text": "Après le départ :",
           "answers": [
             "Oui",
             "Non"
@@ -458,17 +458,17 @@
       "id": 175,
       "scene": "scene_115.png",
       "type": "statements",
-      "question": "Le niveau de certification d'une paire de gants dépend",
+      "question": "Le niveau de certification d'une paire de gants dépend :",
       "statements": [
         {
-          "text": "de son maintien en cas de chute",
+          "text": "de son maintien en cas de chute :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "de sa résistance à l'abrasion",
+          "text": "de sa résistance à l'abrasion :",
           "answers": [
             "Oui",
             "Non"
@@ -500,17 +500,17 @@
       "id": 88,
       "scene": "scene_050.png",
       "type": "statements",
-      "question": "Du fait de son faible gabarit, une moto",
+      "question": "Du fait de son faible gabarit, une moto :",
       "statements": [
         {
-          "text": "Est peu visible pour un automobiliste ?",
+          "text": "Est peu visible pour un automobiliste :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "La circulation diurne en feux de croisement améliore sa détection ?",
+          "text": "La circulation diurne en feux de croisement améliore sa détection :",
           "answers": [
             "Oui",
             "Non"
@@ -526,7 +526,7 @@
     {
       "id": 37,
       "scene": "scene_014.png",
-      "question": "Qui est responsable si je cause un accident sous l'effet d'un médicament niveau 3 ?",
+      "question": "Qui est responsable si je cause un accident sous l'effet d'un médicament niveau 3 :",
       "answers": [
         "Le médecin qui m'a prescrit le traitement",
         "Le laboratoire fabricant du médicament",
@@ -542,17 +542,17 @@
       "id": 57,
       "scene": "scene_026.png",
       "type": "statements",
-      "question": "Ce véhicule est",
+      "question": "Ce véhicule est :",
       "statements": [
         {
-          "text": "Un véhicule d'intérêt général prioritaire",
+          "text": "Un véhicule d'intérêt général prioritaire :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Actuellement en intervention",
+          "text": "Actuellement en intervention :",
           "answers": [
             "Oui",
             "Non"
@@ -572,14 +572,14 @@
       "question": "La pollution atmosphérique produite par une moto dépend :",
       "statements": [
         {
-          "text": "De la cylindrée du moteur",
+          "text": "De la cylindrée du moteur :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "De la manière de conduire",
+          "text": "De la manière de conduire :",
           "answers": [
             "Oui",
             "Non"
@@ -595,7 +595,7 @@
     {
       "id": 165,
       "scene": "scene_105.png",
-      "question": "Je suis impliqué dans un accident dont je ne suis pas responsable alors que mon permis est suspendu. Mon assureur peut refuser de me rembourser ?",
+      "question": "Je suis impliqué dans un accident dont je ne suis pas responsable alors que mon permis est suspendu. Mon assureur peut refuser de me rembourser :",
       "answers": [
         "Oui",
         "Non"
@@ -608,7 +608,7 @@
     {
       "id": 252,
       "scene": "scene_175.png",
-      "question": "Les deux-roues motorisés sont-ils surreprésentés dans les accidents graves ?",
+      "question": "Les deux-roues motorisés sont-ils surreprésentés dans les accidents graves :",
       "answers": [
         "Oui",
         "Non"
@@ -621,7 +621,7 @@
     {
       "id": 21,
       "scene": "scene_007.jpg",
-      "question": "En conduisant, je peux utiliser des écouteurs",
+      "question": "En conduisant, je peux utiliser des écouteurs :",
       "answers": [
         "Oui pour écouter de la musique",
         "Non pour écouter de la musique",
@@ -644,14 +644,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Avant d’entrer dans le giratoire, je dois contrôler à gauche",
+          "text": "Avant d’entrer dans le giratoire, je dois contrôler à gauche :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Pour sortir à la première sortie du giratoire, je dois mettre mon clignotant droit",
+          "text": "Pour sortir à la première sortie du giratoire, je dois mettre mon clignotant droit :",
           "answers": [
             "Oui",
             "Non"
@@ -680,7 +680,7 @@
           ]
         },
         {
-          "text": "Le port de gants homologués ne concerne que le conducteur",
+          "text": "Le port de gants homologués ne concerne que le conducteur :",
           "answers": [
             "Oui",
             "Non"
@@ -697,7 +697,7 @@
     {
       "id": 139,
       "scene": "scene_085.png",
-      "question": "Si je refuse un dépistage de stupéfiants, je risque",
+      "question": "Si je refuse un dépistage de stupéfiants, je risque :",
       "answers": [
         "Aucune sanction",
         "Une amende de 135 euros",
@@ -711,7 +711,7 @@
     {
       "id": 33,
       "scene": "scene_011.png",
-      "question": "Sur cette autoroute, à quelle distance se trouvent les bornes d'appel d'urgence ?",
+      "question": "Sur cette autoroute, à quelle distance se trouvent les bornes d'appel d'urgence :",
       "answers": [
         "Tous les 10 kilomètres",
         "Tous les 4 kilomètres",
@@ -739,7 +739,7 @@
     {
       "id": 375,
       "scene": "scene_257.png",
-      "question": "Je dois posséder une vignette Crit’Air pour circuler avec ma moto dans les zones à faibles émissions",
+      "question": "Je dois posséder une vignette Crit’Air pour circuler avec ma moto dans les zones à faibles émissions :",
       "answers": [
         "Oui",
         "Non"

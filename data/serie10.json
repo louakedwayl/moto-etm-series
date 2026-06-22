@@ -5,7 +5,7 @@
     {
       "id": 161,
       "scene": "scene_101.png",
-      "question": "Je peux stationner sur la zone de zébras à gauche ?",
+      "question": "Je peux stationner sur la zone de zébras à gauche :",
       "answers": [
         "Oui",
         "Non"
@@ -18,7 +18,7 @@
     {
       "id": 45,
       "scene": "scene_020.png",
-      "question": "En tant que motard impliqué dans un accident matériel, vous pouvez remplir un constat amiable",
+      "question": "En tant que motard impliqué dans un accident matériel, vous pouvez remplir un constat amiable :",
       "answers": [
         "Uniquement si vous êtes en tort",
         "Uniquement si l'autre conducteur accepte",
@@ -36,14 +36,14 @@
       "question": "Dans ce virage à droite :",
       "statements": [
         {
-          "text": "L’inclinaison est provoquée en poussant sur le guidon",
+          "text": "L’inclinaison est provoquée en poussant sur le guidon :",
           "answers": [
             "À gauche",
             "À droite"
           ]
         },
         {
-          "text": "L’effet gyroscopique augmente avec la vitesse",
+          "text": "L’effet gyroscopique augmente avec la vitesse :",
           "answers": [
             "Oui",
             "Non"
@@ -63,7 +63,7 @@
       "question": "Si je franchis un STOP sans marquer l’arrêt :",
       "statements": [
         {
-          "text": "Je peux surprendre les usagers de la route abordée ?",
+          "text": "Je peux surprendre les usagers de la route abordée :",
           "answers": [
             "Oui",
             "Non"
@@ -120,14 +120,14 @@
       "question": "La priorité indiquée par ce panneau :",
       "statements": [
         {
-          "text": "Est valable à la prochaine intersection",
+          "text": "Est valable à la prochaine intersection :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Est valable jusqu’au prochain panneau de fin de priorité",
+          "text": "Est valable jusqu’au prochain panneau de fin de priorité :",
           "answers": [
             "Oui",
             "Non"
@@ -143,7 +143,7 @@
     {
       "id": 235,
       "scene": "scene_165.png",
-      "question": "Avec ce panneau, puis-je m’arrêter quelques secondes pour déposer quelqu’un ?",
+      "question": "Avec ce panneau, puis-je m’arrêter quelques secondes pour déposer quelqu’un :",
       "answers": [
         "Oui",
         "Non"
@@ -157,17 +157,17 @@
       "id": 207,
       "scene": "scene_142.png",
       "type": "statements",
-      "question": "Pour éviter de déraper j'évite",
+      "question": "Pour éviter de déraper j'évite :",
       "statements": [
         {
-          "text": "de freiner fortement",
+          "text": "de freiner fortement :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "d'accélérer brutalement",
+          "text": "d'accélérer brutalement :",
           "answers": [
             "Oui",
             "Non"
@@ -183,7 +183,7 @@
     {
       "id": 5,
       "scene": "scene_002.png",
-      "question": "Dans cette situation, les motards sont",
+      "question": "Dans cette situation, les motards sont :",
       "answers": [
         "en infraction car ils roulent côte à côte dans la même voie",
         "en règle car deux motards peuvent toujours rouler côte à côte",
@@ -201,14 +201,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Le bon fonctionnement des feux avant doit être contrôlé ?",
+          "text": "Le bon fonctionnement des feux avant doit être contrôlé :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Le bon fonctionnement des commodos doit être contrôlé ?",
+          "text": "Le bon fonctionnement des commodos doit être contrôlé :",
           "answers": [
             "Oui",
             "Non"
@@ -224,7 +224,7 @@
     {
       "id": 168,
       "scene": "scene_108.png",
-      "question": "La nuit, je dois faire des pauses plus fréquentes ?",
+      "question": "La nuit, je dois faire des pauses plus fréquentes :",
       "answers": [
         "Oui",
         "Non"
@@ -240,7 +240,7 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Je dois céder le passage aux usagers de la route abordée ?",
+          "text": "Je dois céder le passage aux usagers de la route abordée :",
           "answers": [
             "Oui",
             "Non"
@@ -266,14 +266,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Je peux démonter une ou plusieurs chicanes du pot d’échappement d’origine ?",
+          "text": "Je peux démonter une ou plusieurs chicanes du pot d’échappement d’origine :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Cette modification procure un gain de performances significatif ?",
+          "text": "Cette modification procure un gain de performances significatif :",
           "answers": [
             "Oui",
             "Non"
@@ -289,7 +289,7 @@
     {
       "id": 267,
       "scene": "scene_185.png",
-      "question": "Pour un excès de vitesse de 40 à 49 km/h au-dessus de la limite autorisée, je risque la perte de ?",
+      "question": "Pour un excès de vitesse de 40 à 49 km/h au-dessus de la limite autorisée, je risque la perte de :",
       "answers": [
         "2 points",
         "3 points",
@@ -304,7 +304,7 @@
     {
       "id": 135,
       "scene": "scene_084.png",
-      "question": "Si je conduis après usage de cannabis et d'alcool, je risque jusqu'à",
+      "question": "Si je conduis après usage de cannabis et d'alcool, je risque jusqu'à :",
       "answers": [
         "4 500 euros d'amende",
         "9 000 euros d'amende",
@@ -347,7 +347,7 @@
     {
       "id": 228,
       "scene": "scene_161.png",
-      "question": "Ce panneau m’indique-t-il que je dois céder le passage à droite ?",
+      "question": "Ce panneau m’indique-t-il que je dois céder le passage à droite :",
       "answers": [
         "Oui",
         "Non"
@@ -387,17 +387,17 @@
       "id": 176,
       "scene": "scene_116.png",
       "type": "statements",
-      "question": "En approchant ce coureur hors agglomération",
+      "question": "En approchant ce coureur hors agglomération :",
       "statements": [
         {
-          "text": "je peux klaxonner pour annoncer mon approche",
+          "text": "je peux klaxonner pour annoncer mon approche :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "je dois laisser un intervalle latéral minimum de 1,5 mètre",
+          "text": "je dois laisser un intervalle latéral minimum de 1,5 mètre :",
           "answers": [
             "Oui",
             "Non"
@@ -440,7 +440,7 @@
     {
       "id": 10,
       "scene": "scene_004.jpg",
-      "question": "Un triangle de présignalisation est visible à quelle distance ?",
+      "question": "Un triangle de présignalisation est visible à quelle distance :",
       "answers": [
         "30 mètres",
         "50 mètres",
@@ -455,7 +455,7 @@
     {
       "id": 262,
       "scene": "scene_182.png",
-      "question": "Un cyclomotoriste peut-il avoir une trajectoire irrégulière ?",
+      "question": "Un cyclomotoriste peut-il avoir une trajectoire irrégulière :",
       "answers": [
         "Oui",
         "Non"
@@ -484,14 +484,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Pour pratiquer un massage cardiaque une formation spécifique est ",
+          "text": "Pour pratiquer un massage cardiaque une formation spécifique est :",
           "answers": [
             "Obligatoire",
             "Recommandée"
           ]
         },
         {
-          "text": "Le massage cardiaque permet de sauver des vies",
+          "text": "Le massage cardiaque permet de sauver des vies :",
           "answers": [
             "Oui",
             "Non"
@@ -511,14 +511,14 @@
       "question": "Dans cette situation :",
       "statements": [
         {
-          "text": "Je cède le passage au véhicule gris à ma gauche ?",
+          "text": "Je cède le passage au véhicule gris à ma gauche :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Je m’assure d’avoir bien été détecté par le conducteur de ce véhicule ?",
+          "text": "Je m’assure d’avoir bien été détecté par le conducteur de ce véhicule :",
           "answers": [
             "Oui",
             "Non"
@@ -537,14 +537,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Ce panneau concerne une moto de 125 cm³ ?",
+          "text": "Ce panneau concerne une moto de 125 cm³ :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Ce panneau concerne une moto de 500 cm³ ?",
+          "text": "Ce panneau concerne une moto de 500 cm³ :",
           "answers": [
             "Oui",
             "Non"
@@ -575,17 +575,17 @@
       "id": 121,
       "scene": "scene_074.png",
       "type": "statements",
-      "question": "Avec le permis A2, je peux rouler avec",
+      "question": "Avec le permis A2, je peux rouler avec :",
       "statements": [
         {
-          "text": "Une moto de 166 ch",
+          "text": "Une moto de 166 ch :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Une moto de 136 ch",
+          "text": "Une moto de 136 ch :",
           "answers": [
             "Oui",
             "Non"
@@ -601,7 +601,7 @@
     {
       "id": 278,
       "scene": "scene_186.png",
-      "question": "Quelle proportion approximative des accidents mortels à moto concerne un motard tombé seul ?",
+      "question": "Quelle proportion approximative des accidents mortels à moto concerne un motard tombé seul :",
       "answers": [
         "Environ 10 %",
         "Environ 20 %",
@@ -616,7 +616,7 @@
     {
       "id": 169,
       "scene": "scene_109.png",
-      "question": "Un casque sale peut-il réduire l'appréciation des vitesses ?",
+      "question": "Un casque sale peut-il réduire l'appréciation des vitesses :",
       "answers": [
         "Oui",
         "Non"
@@ -659,14 +659,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Le bruit maximum d'une moto est réglementé ?",
+          "text": "Le bruit maximum d'une moto est réglementé :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Le danger pour l'oreille humaine commence au-delà de 90 décibels ?",
+          "text": "Le danger pour l'oreille humaine commence au-delà de 90 décibels :",
           "answers": [
             "Oui",
             "Non"
@@ -682,7 +682,7 @@
     {
       "id": 156,
       "scene": "scene_096.png",
-      "question": "En continuant tout droit, dois-je me méfier des piétons à proximité du passage piéton ?",
+      "question": "En continuant tout droit, dois-je me méfier des piétons à proximité du passage piéton :",
       "answers": [
         "Oui",
         "Non"
@@ -699,14 +699,14 @@
       "question": "Pour éviter ce type d'accident, le motard doit :",
       "statements": [
         {
-          "text": "Apprendre à piloter sur circuit",
+          "text": "Apprendre à piloter sur circuit :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "S'auto-évaluer",
+          "text": "S'auto-évaluer :",
           "answers": [
             "Oui",
             "Non"
@@ -722,7 +722,7 @@
     {
       "id": 225,
       "scene": "scene_162.png",
-      "question": "Ce panneau m’interdit-il de dépasser une voiture ?",
+      "question": "Ce panneau m’interdit-il de dépasser une voiture :",
       "answers": [
         "Oui",
         "Non"
@@ -735,7 +735,7 @@
     {
       "id": 250,
       "scene": "scene_174.png",
-      "question": "Sur une moto, quelle partie du corps est particulièrement vulnérable en cas de chute ?",
+      "question": "Sur une moto, quelle partie du corps est particulièrement vulnérable en cas de chute :",
       "answers": [
         "Les mains",
         "Les jambes",

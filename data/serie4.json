@@ -8,14 +8,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "La nuit, les indices sont reconnus moins vite ?",
+          "text": "La nuit, les indices sont reconnus moins vite :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "L’absorption d’alcool réduit la vision périphérique ?",
+          "text": "L’absorption d’alcool réduit la vision périphérique :",
           "answers": [
             "Oui",
             "Non"
@@ -31,7 +31,7 @@
     {
       "id": 230,
       "scene": "scene_161.png",
-      "question": "Ce panneau signifie-t-il que je suis prioritaire uniquement à la prochaine intersection ?",
+      "question": "Ce panneau signifie-t-il que je suis prioritaire uniquement à la prochaine intersection :",
       "answers": [
         "Oui",
         "Non"
@@ -44,7 +44,7 @@
     {
       "id": 373,
       "scene": "scene_255.png",
-      "question": "En surestimant ses capacités, le motard peut-il occasionner ce type d'accident ?",
+      "question": "En surestimant ses capacités, le motard peut-il occasionner ce type d'accident :",
       "answers": [
         "Oui",
         "Non"
@@ -57,7 +57,7 @@
     {
       "id": 239,
       "scene": "scene_167.png",
-      "question": "Ce panneau indique-t-il que je circule sur une route prioritaire ?",
+      "question": "Ce panneau indique-t-il que je circule sur une route prioritaire :",
       "answers": [
         "Oui",
         "Non"
@@ -70,7 +70,7 @@
     {
       "id": 138,
       "scene": "scene_083.png",
-      "question": "Les forces de l'ordre peuvent-elles faire un test salivaire pour dépister le cannabis ?",
+      "question": "Les forces de l'ordre peuvent-elles faire un test salivaire pour dépister le cannabis :",
       "answers": [
         "Oui",
         "Non"
@@ -86,14 +86,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Tous les gilets airbag sont filaires",
+          "text": "Tous les gilets airbag sont filaires :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Le câble s’ajuste en longueur",
+          "text": "Le câble s’ajuste en longueur :",
           "answers": [
             "Oui",
             "Non"
@@ -123,10 +123,10 @@
       "id": 87,
       "scene": "scene_048.png",
       "type": "statements",
-      "question": "Si je refuse le dépistage d'alcoolémie",
+      "question": "Si je refuse le dépistage d'alcoolémie :",
       "statements": [
         {
-          "text": "Une vérification de mon alcoolémie peut être effectuée ?",
+          "text": "Une vérification de mon alcoolémie peut être effectuée :",
           "answers": [
             "Oui",
             "Non"
@@ -162,7 +162,7 @@
     {
       "id": 248,
       "scene": "scene_173.png",
-      "question": "Les deux-roues motorisés représentent environ quelle part de la mortalité routière ?",
+      "question": "Les deux-roues motorisés représentent environ quelle part de la mortalité routière :",
       "answers": [
         "Environ 5 %",
         "Environ 10 %",
@@ -177,7 +177,7 @@
     {
       "id": 114,
       "scene": "scene_070.png",
-      "question": "La propreté du radiateur peut-elle éviter une surconsommation de carburant ?",
+      "question": "La propreté du radiateur peut-elle éviter une surconsommation de carburant :",
       "answers": [
         "Oui",
         "Non"
@@ -190,7 +190,7 @@
     {
       "id": 142,
       "scene": "scene_087.png",
-      "question": "Lorsque je règle mon casque, dois-je laisser l'attache un peu lâche pour éviter de gêner les mouvements de tête ?",
+      "question": "Lorsque je règle mon casque, dois-je laisser l'attache un peu lâche pour éviter de gêner les mouvements de tête :",
       "answers": [
         "Oui",
         "Non"
@@ -219,14 +219,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Ce cycliste indique un changement de direction",
+          "text": "Ce cycliste indique un changement de direction :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Il signale qu’il veut tourner à droite",
+          "text": "Il signale qu’il veut tourner à droite :",
           "answers": [
             "Oui",
             "Non"
@@ -242,7 +242,7 @@
     {
       "id": 73,
       "scene": "scene_037.png",
-      "question": "Le constat dématérialisé d'accident",
+      "question": "Le constat dématérialisé d'accident :",
       "answers": [
         "peut être utilisé en cas d'accident matériel",
         "peut être utilisé en cas d'accident corporel",
@@ -275,17 +275,17 @@
       "id": 269,
       "scene": "scene_185.png",
       "type": "statements",
-      "question": "Pour un excès de vitesse de 50 km/h ou plus au-dessus de la limite autorisée",
+      "question": "Pour un excès de vitesse de 50 km/h ou plus au-dessus de la limite autorisée :",
       "statements": [
         {
-          "text": "Mon véhicule peut être immobilisé",
+          "text": "Mon véhicule peut être immobilisé :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Mon permis peut être suspendu",
+          "text": "Mon permis peut être suspendu :",
           "answers": [
             "Oui",
             "Non"
@@ -301,7 +301,7 @@
     {
       "id": 163,
       "scene": "scene_103.png",
-      "question": "Je peux rouler temporairement avec un clignotant hors d'usage ?",
+      "question": "Je peux rouler temporairement avec un clignotant hors d'usage :",
       "answers": [
         "Oui",
         "Non"
@@ -314,7 +314,7 @@
     {
       "id": 105,
       "scene": "scene_061.png",
-      "question": "Je croise un autre véhicule la nuit, où dois-je porter mon regard ?",
+      "question": "Je croise un autre véhicule la nuit, où dois-je porter mon regard :",
       "answers": [
         "Vers le bord droit de la route, au loin",
         "Vers les feux du véhicule",
@@ -343,7 +343,7 @@
     {
       "id": 173,
       "scene": "scene_113.jpg",
-      "question": "Avant l'âge de 5 ans, le poids du casque peut-il provoquer des lésions aux cervicales lors de fortes accélérations ?",
+      "question": "Avant l'âge de 5 ans, le poids du casque peut-il provoquer des lésions aux cervicales lors de fortes accélérations :",
       "answers": [
         "Oui",
         "Non"
@@ -357,17 +357,17 @@
       "id": 110,
       "scene": "scene_066.png",
       "type": "statements",
-      "question": "La transformation des caractéristiques de ma moto peut entraîner",
+      "question": "La transformation des caractéristiques de ma moto peut entraîner :",
       "statements": [
         {
-          "text": "Une amende",
+          "text": "Une amende :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Une immobilisation",
+          "text": "Une immobilisation :",
           "answers": [
             "Oui",
             "Non"
@@ -383,7 +383,7 @@
     {
       "id": 46,
       "scene": "scene_020.png",
-      "question": "Sur un constat amiable, cocher la case 17 (non-observation d'un signal de priorité ou d'un feu rouge) signifie",
+      "question": "Sur un constat amiable, cocher la case 17 (non-observation d'un signal de priorité ou d'un feu rouge) signifie :",
       "answers": [
         "Une reconnaissance partielle de responsabilité",
         "Aucune conséquence sur la responsabilité",
@@ -411,7 +411,7 @@
     {
       "id": 1,
       "scene": "scene_001.png",
-      "question": "Je respecte ce panneau quelle que soit la météo ?",
+      "question": "Je respecte ce panneau quelle que soit la météo :",
       "answers": [
         "Oui",
         "Non"
@@ -424,7 +424,7 @@
     {
       "id": 92,
       "scene": "scene_042.png",
-      "question": "Pour freiner en ligne droite, j'utilise les freins avant et arrière.",
+      "question": "Pour freiner en ligne droite, j'utilise les freins avant et arrière :",
       "answers": [
         "Oui",
         "Non"
@@ -437,7 +437,7 @@
     {
       "id": 38,
       "scene": "scene_014.png",
-      "question": "Un médicament vendu sans ordonnance peut-il porter un pictogramme de niveau 3 ?",
+      "question": "Un médicament vendu sans ordonnance peut-il porter un pictogramme de niveau 3 :",
       "answers": [
         "Oui",
         "Non"
@@ -450,7 +450,7 @@
     {
       "id": 99,
       "scene": "scene_057.png",
-      "question": "L'effet gyroscopique participe à la stabilité de la moto.",
+      "question": "L'effet gyroscopique participe à la stabilité de la moto :",
       "answers": [
         "Oui",
         "Non"
@@ -463,7 +463,7 @@
     {
       "id": 28,
       "scene": "scene_009.png",
-      "question": "Un pneu sous-gonflé entraîne une augmentation de la distance de freinage ?",
+      "question": "Un pneu sous-gonflé entraîne une augmentation de la distance de freinage :",
       "answers": [
         "Oui",
         "Non"
@@ -493,7 +493,7 @@
     {
       "id": 303,
       "scene": "scene_209.png",
-      "question": "Seuls les services de secours sont-ils habilités à enlever le casque d’un motard accidenté ?",
+      "question": "Seuls les services de secours sont-ils habilités à enlever le casque d’un motard accidenté :",
       "answers": [
         "Oui",
         "Non"
@@ -510,14 +510,14 @@
       "question": "En continuant tout droit à la prochaine intersection, le motard cédera le passage :",
       "statements": [
         {
-          "text": "À droite",
+          "text": "À droite :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "À gauche",
+          "text": "À gauche :",
           "answers": [
             "Oui",
             "Non"
@@ -536,14 +536,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Refuser la priorité à un piéton peut entraîner un retrait de 6 points",
+          "text": "Refuser la priorité à un piéton peut entraîner un retrait de 6 points :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Je risque une amende de 135 euros",
+          "text": "Je risque une amende de 135 euros :",
           "answers": [
             "Oui",
             "Non"
@@ -575,17 +575,17 @@
       "id": 25,
       "scene": "scene_010.jpg",
       "type": "statements",
-      "question": "Sur sol mouillé, un pneu usé",
+      "question": "Sur sol mouillé, un pneu usé :",
       "statements": [
         {
-          "text": "Augmente le risque d'aquaplanage",
+          "text": "Augmente le risque d'aquaplanage :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Réduit la capacité à évacuer l'eau",
+          "text": "Réduit la capacité à évacuer l'eau :",
           "answers": [
             "Oui",
             "Non"
@@ -608,14 +608,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Le motard doit vérifier que son entrée ne force aucun véhicule à freiner",
+          "text": "Le motard doit vérifier que son entrée ne force aucun véhicule à freiner :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Le motard peut entrer dans le giratoire",
+          "text": "Le motard peut entrer dans le giratoire :",
           "answers": [
             "Oui",
             "Non"
@@ -634,14 +634,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Je dois contrôler à droite avant de m’engager dans l’intersection",
+          "text": "Je dois contrôler à droite avant de m’engager dans l’intersection :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Je dois céder le passage à la voiture noire",
+          "text": "Je dois céder le passage à la voiture noire :",
           "answers": [
             "Oui",
             "Non"
@@ -657,7 +657,7 @@
     {
       "id": 125,
       "scene": "scene_077.png",
-      "question": "Les bottes homologuées sont-elles obligatoires pour circuler à moto ?",
+      "question": "Les bottes homologuées sont-elles obligatoires pour circuler à moto :",
       "answers": [
         "Oui",
         "Non"
@@ -670,7 +670,7 @@
     {
       "id": 203,
       "scene": "scene_139.png",
-      "question": "À l'approche d'un feu ou d'un stop, le motard doit-il maintenir une vigilance accrue sur l'arrière ?",
+      "question": "À l'approche d'un feu ou d'un stop, le motard doit-il maintenir une vigilance accrue sur l'arrière :",
       "answers": [
         "Oui",
         "Non"

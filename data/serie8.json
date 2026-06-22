@@ -9,14 +9,14 @@
       "question": "",
       "statements": [
         {
-          "text": "La distraction des usagers est plus importante dans les lieux touristiques",
+          "text": "La distraction des usagers est plus importante dans les lieux touristiques :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "J’augmente mon intervalle de sécurité avec",
+          "text": "J’augmente mon intervalle de sécurité avec :",
           "answers": [
             "Les automobilistes",
             "Les piétons"
@@ -34,17 +34,17 @@
       "id": 84,
       "scene": "scene_044.png",
       "type": "statements",
-      "question": "Si je conduis sous l'emprise de l'alcool",
+      "question": "Si je conduis sous l'emprise de l'alcool :",
       "statements": [
         {
-          "text": "Je peux être placé en cellule de dégrisement ?",
+          "text": "Je peux être placé en cellule de dégrisement :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Je risque une suspension de permis dès 0,5 g/L de sang ?",
+          "text": "Je risque une suspension de permis dès 0,5 g/L de sang :",
           "answers": [
             "Oui",
             "Non"
@@ -77,14 +77,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "La monotonie influe sur le temps de réaction ?",
+          "text": "La monotonie influe sur le temps de réaction :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "J’augmente le nombre de pauses ?",
+          "text": "J’augmente le nombre de pauses :",
           "answers": [
             "Oui",
             "Non"
@@ -131,14 +131,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Ce panneau concerne les cyclomoteurs de 50 cm³ maximum ?",
+          "text": "Ce panneau concerne les cyclomoteurs de 50 cm³ maximum :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Ce panneau concerne les deux-roues de plus de 50 cm³ ?",
+          "text": "Ce panneau concerne les deux-roues de plus de 50 cm³ :",
           "answers": [
             "Oui",
             "Non"
@@ -167,7 +167,7 @@
     {
       "id": 123,
       "scene": "scene_075.png",
-      "question": "Avec le permis A2, je peux conduire une moto de 47,5 ch ?",
+      "question": "Avec le permis A2, je peux conduire une moto de 47,5 ch :",
       "answers": [
         "Oui",
         "Non"
@@ -181,17 +181,17 @@
       "id": 159,
       "scene": "scene_099.png",
       "type": "statements",
-      "question": "En approchant ce coureur hors agglomération",
+      "question": "En approchant ce coureur hors agglomération :",
       "statements": [
         {
-          "text": "je peux klaxonner pour annoncer mon approche",
+          "text": "je peux klaxonner pour annoncer mon approche :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "je dois laisser un intervalle latéral minimum de 1,5 mètre",
+          "text": "je dois laisser un intervalle latéral minimum de 1,5 mètre :",
           "answers": [
             "Oui",
             "Non"
@@ -207,7 +207,7 @@
     {
       "id": 47,
       "scene": "scene_020.png",
-      "question": "Après un accident, combien de temps avez-vous pour déclarer le sinistre à votre assurance ?",
+      "question": "Après un accident, combien de temps avez-vous pour déclarer le sinistre à votre assurance :",
       "answers": [
         "5 jours ouvrés",
         "10 jours ouvrés",
@@ -225,14 +225,14 @@
       "question": "À l’approche de ce panneau :",
       "statements": [
         {
-          "text": "Je dois vérifier si un véhicule arrive en face ?",
+          "text": "Je dois vérifier si un véhicule arrive en face :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Si la voie est libre, je peux continuer prudemment ?",
+          "text": "Si la voie est libre, je peux continuer prudemment :",
           "answers": [
             "Oui",
             "Non"
@@ -259,7 +259,7 @@
           ]
         },
         {
-          "text": "Après l’arrêt, je peux m’engager si la voie est libre ?",
+          "text": "Après l’arrêt, je peux m’engager si la voie est libre :",
           "answers": [
             "Oui",
             "Non"
@@ -275,7 +275,7 @@
     {
       "id": 2,
       "scene": "scene_001.png",
-      "question": "Quelle est la bonne attitude face à ce panneau ?",
+      "question": "Quelle est la bonne attitude face à ce panneau :",
       "answers": [
         "Maintenir sa vitesse, le panneau est indicatif",
         "Freiner brusquement pour ralentir",
@@ -289,7 +289,7 @@
     {
       "id": 35,
       "scene": "scene_013.png",
-      "question": "Le pictogramme niveau 1 m'autorise à conduire normalement sans précaution particulière.",
+      "question": "Le pictogramme niveau 1 m'autorise à conduire normalement sans précaution particulière :",
       "answers": [
         "Vrai",
         "Faux"
@@ -302,7 +302,7 @@
     {
       "id": 132,
       "scene": "scene_082.jpg",
-      "question": "L'usage du cannabis seul multiplie le risque d'être responsable d'un accident mortel par",
+      "question": "L'usage du cannabis seul multiplie le risque d'être responsable d'un accident mortel par :",
       "answers": [
         "1,65",
         "2",
@@ -319,14 +319,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Il est important de contrôler régulièrement l'absence de point dur dans la direction ?",
+          "text": "Il est important de contrôler régulièrement l'absence de point dur dans la direction :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Un point dur dans la direction peut nuire à la stabilité de la moto",
+          "text": "Un point dur dans la direction peut nuire à la stabilité de la moto :",
           "answers": [
             "Oui",
             "Non"
@@ -342,7 +342,7 @@
     {
       "id": 254,
       "scene": "scene_176.png",
-      "question": "Quel groupe est le plus représenté parmi les blessés graves ?",
+      "question": "Quel groupe est le plus représenté parmi les blessés graves :",
       "answers": [
         "Les deux-roues motorisés",
         "Les piétons uniquement",
@@ -357,7 +357,7 @@
     {
       "id": 143,
       "scene": "scene_088.png",
-      "question": "La vitesse maximale autorisée sur autoroute par temps de pluie est-elle de 110 km/h ?",
+      "question": "La vitesse maximale autorisée sur autoroute par temps de pluie est-elle de 110 km/h :",
       "answers": [
         "Oui",
         "Non"
@@ -371,17 +371,17 @@
       "id": 157,
       "scene": "scene_097.png",
       "type": "statements",
-      "question": "En approchant ces cyclistes hors agglomération",
+      "question": "En approchant ces cyclistes hors agglomération :",
       "statements": [
         {
-          "text": "je peux klaxonner pour annoncer mon approche",
+          "text": "je peux klaxonner pour annoncer mon approche :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "je dois laisser un intervalle latéral minimum de 1,5 mètre",
+          "text": "je dois laisser un intervalle latéral minimum de 1,5 mètre :",
           "answers": [
             "Oui",
             "Non"
@@ -400,14 +400,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Je dois adapter ma vitesse à l’approche d'une intersection",
+          "text": "Je dois adapter ma vitesse à l’approche d'une intersection :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Cette situation correspond à une priorité à droite",
+          "text": "Cette situation correspond à une priorité à droite :",
           "answers": [
             "Oui",
             "Non"
@@ -423,7 +423,7 @@
     {
       "id": 11,
       "scene": "scene_004.jpg",
-      "question": "Le triangle de présignalisation est-il obligatoire pour un motard ?",
+      "question": "Le triangle de présignalisation est-il obligatoire pour un motard :",
       "answers": [
         "Oui, il est obligatoire pour tous",
         "Non, il n'est pas obligatoire à moto"
@@ -468,14 +468,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Je peux enlever une ou plusieurs chicanes du pot d'origine ?",
+          "text": "Je peux enlever une ou plusieurs chicanes du pot d'origine :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Cela permet un gain sensible de performances ?",
+          "text": "Cela permet un gain sensible de performances :",
           "answers": [
             "Oui",
             "Non"
@@ -494,14 +494,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Cette zone est réservée au stationnement des motos",
+          "text": "Cette zone est réservée au stationnement des motos :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Avant de quitter cet emplacement, je dois contrôler autour de moi",
+          "text": "Avant de quitter cet emplacement, je dois contrôler autour de moi :",
           "answers": [
             "Oui",
             "Non"
@@ -517,7 +517,7 @@
     {
       "id": 196,
       "scene": "scene_110.png",
-      "question": "En règle générale, les voitures ont-elles un système de freinage plus performant que les motos ?",
+      "question": "En règle générale, les voitures ont-elles un système de freinage plus performant que les motos :",
       "answers": [
         "Oui",
         "Non"
@@ -531,17 +531,17 @@
       "id": 76,
       "scene": "scene_039.png",
       "type": "statements",
-      "question": "Ce marquage sur un emplacement de stationnement m'interdit",
+      "question": "Ce marquage sur un emplacement de stationnement m'interdit :",
       "statements": [
         {
-          "text": "L'arrêt ?",
+          "text": "L'arrêt :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Le stationnement ?",
+          "text": "Le stationnement :",
           "answers": [
             "Oui",
             "Non"
@@ -557,7 +557,7 @@
     {
       "id": 52,
       "scene": "scene_022.png",
-      "question": "J'ai prêté mon véhicule à un ami qui a déclenché un radar automatique pour excès de vitesse. En tant que propriétaire, suis-je responsable ?",
+      "question": "J'ai prêté mon véhicule à un ami qui a déclenché un radar automatique pour excès de vitesse. En tant que propriétaire, suis-je responsable :",
       "answers": [
         "Oui",
         "Non"
@@ -571,17 +571,17 @@
       "id": 24,
       "scene": "scene_010.jpg",
       "type": "statements",
-      "question": "Je peux rouler avec un pneu dont la profondeur des sculptures est de",
+      "question": "Je peux rouler avec un pneu dont la profondeur des sculptures est de :",
       "statements": [
         {
-          "text": "1 millimètre",
+          "text": "1 millimètre :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "2 millimètres",
+          "text": "2 millimètres :",
           "answers": [
             "Oui",
             "Non"
@@ -597,7 +597,7 @@
     {
       "id": 397,
       "scene": "scene_274.png",
-      "question": "La capacité d’accélération d’une moto peut surprendre les autres usagers",
+      "question": "La capacité d’accélération d’une moto peut surprendre les autres usagers :",
       "answers": [
         "Oui",
         "Non"
@@ -610,7 +610,7 @@
     {
       "id": 16,
       "scene": "scene_005.jpg",
-      "question": "Quelle est la couleur réglementaire des clignotants sur un deux-roues ?",
+      "question": "Quelle est la couleur réglementaire des clignotants sur un deux-roues :",
       "answers": [
         "Blanc",
         "Rouge",
@@ -624,7 +624,7 @@
     {
       "id": 20,
       "scene": "scene_007.jpg",
-      "question": "En conduisant, je peux utiliser une oreillette",
+      "question": "En conduisant, je peux utiliser une oreillette :",
       "answers": [
         "Oui pour téléphoner",
         "Non pour téléphoner",
@@ -640,7 +640,7 @@
     {
       "id": 226,
       "scene": "scene_162.png",
-      "question": "Ce panneau m’interdit-il de dépasser un véhicule à moteur, sauf un deux-roues sans side-car ?",
+      "question": "Ce panneau m’interdit-il de dépasser un véhicule à moteur, sauf un deux-roues sans side-car :",
       "answers": [
         "Oui",
         "Non"
@@ -653,7 +653,7 @@
     {
       "id": 6,
       "scene": "scene_003.jpg",
-      "question": "Les effets de l'alcool sur la conduite ne se font sentir qu'à partir du deuxième verre.",
+      "question": "Les effets de l'alcool sur la conduite ne se font sentir qu'à partir du deuxième verre :",
       "answers": [
         "Oui",
         "Non"
@@ -666,7 +666,7 @@
     {
       "id": 90,
       "scene": "scene_046.png",
-      "question": "Dans cette rue à double sens de circulation, le placement est adapté ?",
+      "question": "Dans cette rue à double sens de circulation, le placement est adapté :",
       "answers": [
         "Oui",
         "Non"
@@ -679,7 +679,7 @@
     {
       "id": 233,
       "scene": "scene_165.png",
-      "question": "Ce panneau m’interdit-il de m’arrêter ?",
+      "question": "Ce panneau m’interdit-il de m’arrêter :",
       "answers": [
         "Oui",
         "Non"
@@ -693,17 +693,17 @@
       "id": 43,
       "scene": "scene_019.png",
       "type": "statements",
-      "question": "Mettre le clignotant",
+      "question": "Mettre le clignotant :",
       "statements": [
         {
-          "text": "Donne le droit d'effectuer un dépassement",
+          "text": "Donne le droit d'effectuer un dépassement :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Donne le droit d'effectuer un changement de voie",
+          "text": "Donne le droit d'effectuer un changement de voie :",
           "answers": [
             "Oui",
             "Non"
@@ -719,7 +719,7 @@
     {
       "id": 258,
       "scene": "scene_179.png",
-      "question": "L'usage d'un défibrillateur automatisé externe (DAE) est-il réservé aux professionnels de santé ?",
+      "question": "L'usage d'un défibrillateur automatisé externe (DAE) est-il réservé aux professionnels de santé :",
       "answers": [
         "Oui",
         "Non"

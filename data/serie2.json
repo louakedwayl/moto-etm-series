@@ -8,14 +8,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Ai-je le droit de stationner ma moto sur ce trottoir",
+          "text": "Ai-je le droit de stationner ma moto sur ce trottoir :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "La moto peut gêner la circulation des piétons",
+          "text": "La moto peut gêner la circulation des piétons :",
           "answers": [
             "Oui",
             "Non"
@@ -34,14 +34,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "À l’approche de ce panneau, je dois ralentir et observer ?",
+          "text": "À l’approche de ce panneau, je dois ralentir et observer :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Je peux passer sans m’arrêter si la voie est libre ?",
+          "text": "Je peux passer sans m’arrêter si la voie est libre :",
           "answers": [
             "Oui",
             "Non"
@@ -60,14 +60,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Freiner influe sur la stabilité de la moto",
+          "text": "Freiner influe sur la stabilité de la moto :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Il est possible d'utiliser le frein arrière dans un virage",
+          "text": "Il est possible d'utiliser le frein arrière dans un virage :",
           "answers": [
             "Oui",
             "Non"
@@ -83,7 +83,7 @@
     {
       "id": 145,
       "scene": "scene_089.png",
-      "question": "Je croise un motard qui me fait un signe de la main. Que peut-il vouloir dire ?",
+      "question": "Je croise un motard qui me fait un signe de la main. Que peut-il vouloir dire :",
       "answers": [
         "Il m'indique que je suis mal positionné sur la chaussée",
         "Il me salue"
@@ -109,7 +109,7 @@
     {
       "id": 170,
       "scene": "scene_110.png",
-      "question": "La carrosserie d'une moto protège-t-elle efficacement le motocycliste ?",
+      "question": "La carrosserie d'une moto protège-t-elle efficacement le motocycliste :",
       "answers": [
         "Oui",
         "Non"
@@ -122,7 +122,7 @@
     {
       "id": 133,
       "scene": "scene_082.jpg",
-      "question": "Si je conduis après avoir consommé du cannabis, je risque un retrait de",
+      "question": "Si je conduis après avoir consommé du cannabis, je risque un retrait de :",
       "answers": [
         "2 points",
         "4 points",
@@ -155,14 +155,14 @@
       "question": "Pour réduire ma consommation de carburant à moto, je peux :",
       "statements": [
         {
-          "text": "Passer les rapports au bon moment",
+          "text": "Passer les rapports au bon moment :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Rester constamment à haut régime",
+          "text": "Rester constamment à haut régime :",
           "answers": [
             "Oui",
             "Non"
@@ -178,7 +178,7 @@
     {
       "id": 251,
       "scene": "scene_174.png",
-      "question": "Les deux-roues motorisés représentent environ quelle part du trafic motorisé ?",
+      "question": "Les deux-roues motorisés représentent environ quelle part du trafic motorisé :",
       "answers": [
         "Moins de 2 %",
         "Environ 10 %",
@@ -207,7 +207,7 @@
     {
       "id": 107,
       "scene": "scene_063.png",
-      "question": "La visibilité m'impose-t-elle de ralentir ?",
+      "question": "La visibilité m'impose-t-elle de ralentir :",
       "answers": [
         "Oui",
         "Non"
@@ -220,7 +220,7 @@
     {
       "id": 112,
       "scene": "scene_057.png",
-      "question": "Je roule sans gants homologués à moto, je risque ?",
+      "question": "Je roule sans gants homologués à moto, je risque :",
       "answers": [
         "Une amende",
         "Un retrait d'un point sur le permis",
@@ -235,7 +235,7 @@
     {
       "id": 236,
       "scene": "scene_166.png",
-      "question": "Ce panneau m’interdit-il de stationner ?",
+      "question": "Ce panneau m’interdit-il de stationner :",
       "answers": [
         "Oui",
         "Non"
@@ -248,7 +248,7 @@
     {
       "id": 365,
       "scene": "scene_250.png",
-      "question": "Le feu passe au jaune",
+      "question": "Le feu passe au jaune :",
       "answers": [
         "Je m'arrête",
         "Je passe avec prudence"
@@ -265,14 +265,14 @@
       "question": "Lorsque je charge ma moto :",
       "statements": [
         {
-          "text": "Je place les objets lourds le plus bas possible",
+          "text": "Je place les objets lourds le plus bas possible :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "J’équilibre les charges à gauche et à droite",
+          "text": "J’équilibre les charges à gauche et à droite :",
           "answers": [
             "Oui",
             "Non"
@@ -288,7 +288,7 @@
     {
       "id": 102,
       "scene": "scene_058.png",
-      "question": "Une chaussée en mauvais état peut influencer l'adhérence",
+      "question": "Une chaussée en mauvais état peut influencer l'adhérence :",
       "answers": [
         "En ligne droite",
         "En virage",
@@ -315,7 +315,7 @@
     {
       "id": 146,
       "scene": "scene_090.png",
-      "question": "Les erreurs de conduite sont-elles plus fréquentes chez les motocyclistes que chez les autres usagers ?",
+      "question": "Les erreurs de conduite sont-elles plus fréquentes chez les motocyclistes que chez les autres usagers :",
       "answers": [
         "Oui",
         "Non"
@@ -329,17 +329,17 @@
       "id": 124,
       "scene": "scene_076.png",
       "type": "statements",
-      "question": "En cas de défaut d'assurance",
+      "question": "En cas de défaut d'assurance :",
       "statements": [
         {
-          "text": "Je risque une amende",
+          "text": "Je risque une amende :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Je risque l'immobilisation ou la mise en fourrière du véhicule",
+          "text": "Je risque l'immobilisation ou la mise en fourrière du véhicule :",
           "answers": [
             "Oui",
             "Non"
@@ -358,14 +358,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "La signalisation autorise le dépassement",
+          "text": "La signalisation autorise le dépassement :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "La visibilité permet le dépassement",
+          "text": "La visibilité permet le dépassement :",
           "answers": [
             "Oui",
             "Non"
@@ -381,7 +381,7 @@
     {
       "id": 141,
       "scene": "scene_086.png",
-      "question": "Si je n'ai plus de points sur mon permis A2 à cause d'infractions à moto, puis-je utiliser mon permis B ?",
+      "question": "Si je n'ai plus de points sur mon permis A2 à cause d'infractions à moto, puis-je utiliser mon permis B :",
       "answers": [
         "Oui",
         "Non"
@@ -394,7 +394,7 @@
     {
       "id": 360,
       "scene": "scene_246.png",
-      "question": "Statistiquement, sur quel type de réseau le risque d'accident grave est-il le plus faible ?",
+      "question": "Statistiquement, sur quel type de réseau le risque d'accident grave est-il le plus faible :",
       "answers": [
         "L'autoroute",
         "La route nationale",
@@ -408,7 +408,7 @@
     {
       "id": 259,
       "scene": "scene_180.png",
-      "question": "L'usage d'un défibrillateur automatisé externe (DAE) est-il réservé aux professionnels de santé ?",
+      "question": "L'usage d'un défibrillateur automatisé externe (DAE) est-il réservé aux professionnels de santé :",
       "answers": [
         "Oui",
         "Non"
@@ -421,7 +421,7 @@
     {
       "id": 241,
       "scene": "scene_167.png",
-      "question": "Ce panneau indique-t-il une route prioritaire sur plusieurs intersections ?",
+      "question": "Ce panneau indique-t-il une route prioritaire sur plusieurs intersections :",
       "answers": [
         "Oui",
         "Non"
@@ -434,7 +434,7 @@
     {
       "id": 256,
       "scene": "scene_177.png",
-      "question": "En cas de chute, le conducteur risque-t-il une aggravation des blessures à la colonne vertébrale ?",
+      "question": "En cas de chute, le conducteur risque-t-il une aggravation des blessures à la colonne vertébrale :",
       "answers": [
         "Oui",
         "Non"
@@ -477,7 +477,7 @@
     {
       "id": 398,
       "scene": "scene_272.png",
-      "question": "Pour garantir ma sécurité et une protection efficace, je peux acheter un casque d’occasion",
+      "question": "Pour garantir ma sécurité et une protection efficace, je peux acheter un casque d’occasion :",
       "answers": [
         "Oui",
         "Non"
@@ -504,7 +504,7 @@
     {
       "id": 136,
       "scene": "scene_084.png",
-      "question": "L'association alcool et cannabis multiplie le risque d'être responsable d'un accident mortel par",
+      "question": "L'association alcool et cannabis multiplie le risque d'être responsable d'un accident mortel par :",
       "answers": [
         "5",
         "15",
@@ -539,14 +539,14 @@
       "question": "",
       "statements": [
         {
-          "text": "Dans un lieu touristique la distraction des usagers est plus importante",
+          "text": "Dans un lieu touristique la distraction des usagers est plus importante :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "J’augmente mon intervalle de sécurité avec",
+          "text": "J’augmente mon intervalle de sécurité avec :",
           "answers": [
             "Les automobilistes",
             "Les piétons"
@@ -576,7 +576,7 @@
     {
       "id": 227,
       "scene": "scene_162.png",
-      "question": "Ce panneau m’interdit-il de dépasser une moto avec side-car ?",
+      "question": "Ce panneau m’interdit-il de dépasser une moto avec side-car :",
       "answers": [
         "Oui",
         "Non"
@@ -592,14 +592,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Je dois privilégier les emplacements réservés aux deux-roues pour stationner ma moto",
+          "text": "Je dois privilégier les emplacements réservés aux deux-roues pour stationner ma moto :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Une moto peut stationner sur un trottoir si elle ne gêne pas",
+          "text": "Une moto peut stationner sur un trottoir si elle ne gêne pas :",
           "answers": [
             "Oui",
             "Non"
@@ -615,7 +615,7 @@
     {
       "id": 154,
       "scene": "scene_095.png",
-      "question": "En continuant tout droit, dois-je me méfier des piétons à proximité du passage piéton ?",
+      "question": "En continuant tout droit, dois-je me méfier des piétons à proximité du passage piéton :",
       "answers": [
         "Oui",
         "Non"
@@ -641,7 +641,7 @@
     {
       "id": 210,
       "scene": "scene_145.png",
-      "question": "Le témoin vert N indique-t-il que je suis au point mort ?",
+      "question": "Le témoin vert N indique-t-il que je suis au point mort :",
       "answers": [
         "Oui",
         "Non"
@@ -657,14 +657,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Ce virage dispose d'une sécurité passive pour les motards",
+          "text": "Ce virage dispose d'une sécurité passive pour les motards :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Je dois en tenir compte dans le choix de mon allure",
+          "text": "Je dois en tenir compte dans le choix de mon allure :",
           "answers": [
             "Oui",
             "Non"

@@ -9,14 +9,14 @@
       "question": "Sur ce panneau :",
       "statements": [
         {
-          "text": "La grande flèche blanche indique le sens prioritaire ?",
+          "text": "La grande flèche blanche indique le sens prioritaire :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "La petite flèche rouge indique le sens non prioritaire ?",
+          "text": "La petite flèche rouge indique le sens non prioritaire :",
           "answers": [
             "Oui",
             "Non"
@@ -35,14 +35,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "Ce virage dispose d'une sécurité passive pour les motards",
+          "text": "Ce virage dispose d'une sécurité passive pour les motards :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Je dois en tenir compte dans le choix de mon allure",
+          "text": "Je dois en tenir compte dans le choix de mon allure :",
           "answers": [
             "Oui",
             "Non"
@@ -63,7 +63,7 @@
         "fit": "contain",
         "height": 320
       },
-      "question": "Ce type de panneau est-il placé avant chaque virage ?",
+      "question": "Ce type de panneau est-il placé avant chaque virage :",
       "answers": [
         "Oui",
         "Non"
@@ -96,14 +96,14 @@
       "type": "statements",
       "statements": [
         {
-          "text": "La moto doit vérifier à gauche avant de s’engager dans le giratoire",
+          "text": "La moto doit vérifier à gauche avant de s’engager dans le giratoire :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Si aucun véhicule n’arrive à gauche, la moto peut s’engager",
+          "text": "Si aucun véhicule n’arrive à gauche, la moto peut s’engager :",
           "answers": [
             "Oui",
             "Non"
@@ -119,7 +119,7 @@
     {
       "id": 93,
       "scene": "scene_042.png",
-      "question": "Pour freiner dans un virage j'utilise le frein",
+      "question": "Pour freiner dans un virage j'utilise le frein :",
       "answers": [
         "Frein avant",
         "Frein arrière"
@@ -132,7 +132,7 @@
     {
       "id": 8,
       "scene": "scene_003.jpg",
-      "question": "Un verre de whisky servi au bar contient plus d'alcool qu'un verre de bière servi au bar.",
+      "question": "Un verre de whisky servi au bar contient plus d'alcool qu'un verre de bière servi au bar :",
       "answers": [
         "Oui",
         "Non"
@@ -158,7 +158,7 @@
     {
       "id": 83,
       "scene": "scene_045.png",
-      "question": "Les accidents mortels à moto sont plus nombreux",
+      "question": "Les accidents mortels à moto sont plus nombreux :",
       "answers": [
         "En été",
         "En hiver"
@@ -171,7 +171,7 @@
     {
       "id": 65,
       "scene": "scene_029.png",
-      "question": "Les feux de ce carrefour sont en panne. Je peux traverser sans ralentir.",
+      "question": "Les feux de ce carrefour sont en panne. Je peux traverser sans ralentir :",
       "answers": [
         "Oui",
         "Non"
@@ -184,7 +184,7 @@
     {
       "id": 36,
       "scene": "scene_013.png",
-      "question": "Je prends deux médicaments niveau 1 en même temps. Quel est le risque ?",
+      "question": "Je prends deux médicaments niveau 1 en même temps. Quel est le risque :",
       "answers": [
         "Aucun risque, le niveau 1 reste autorisé à la conduite",
         "Les effets peuvent se cumuler et atteindre un niveau de danger supérieur",
@@ -199,7 +199,7 @@
     {
       "id": 77,
       "scene": "scene_040.png",
-      "question": "En cas de panne dans un tunnel, pour alerter les secours j'utilise en priorité",
+      "question": "En cas de panne dans un tunnel, pour alerter les secours j'utilise en priorité :",
       "answers": [
         "Le téléphone portable",
         "Les bornes d'appel d'urgence"
@@ -213,17 +213,17 @@
       "id": 131,
       "scene": "scene_079.png",
       "type": "statements",
-      "question": "Si mon casque ne possède pas d’étiquette d’homologation",
+      "question": "Si mon casque ne possède pas d’étiquette d’homologation :",
       "statements": [
         {
-          "text": "Je peux l’utiliser pour circuler à moto",
+          "text": "Je peux l’utiliser pour circuler à moto :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Il ne permet pas de vérifier son homologation",
+          "text": "Il ne permet pas de vérifier son homologation :",
           "answers": [
             "Oui",
             "Non"
@@ -239,7 +239,7 @@
     {
       "id": 261,
       "scene": "scene_182.png",
-      "question": "La zone d'incertitude d'un cyclomotoriste est-elle plus large que celle d'un motocycliste ?",
+      "question": "La zone d'incertitude d'un cyclomotoriste est-elle plus large que celle d'un motocycliste :",
       "answers": [
         "Oui",
         "Non"
@@ -265,7 +265,7 @@
     {
       "id": 257,
       "scene": "scene_178.png",
-      "question": "En cas de chute, le passager risque-t-il une aggravation des blessures à la colonne vertébrale ?",
+      "question": "En cas de chute, le passager risque-t-il une aggravation des blessures à la colonne vertébrale :",
       "answers": [
         "Oui",
         "Non"
@@ -278,7 +278,7 @@
     {
       "id": 71,
       "scene": "scene_035.png",
-      "question": "À moto, des ampoules de rechange sont obligatoires à bord du véhicule.",
+      "question": "À moto, des ampoules de rechange sont obligatoires à bord du véhicule :",
       "answers": [
         "Oui",
         "Non"
@@ -291,7 +291,7 @@
     {
       "id": 155,
       "scene": "scene_096.png",
-      "question": "En conservant ma trajectoire, vais-je entrer dans la zone d'incertitude des piétons ?",
+      "question": "En conservant ma trajectoire, vais-je entrer dans la zone d'incertitude des piétons :",
       "answers": [
         "Oui",
         "Non"
@@ -335,7 +335,7 @@
     {
       "id": 237,
       "scene": "scene_166.png",
-      "question": "Ce panneau m’interdit-il de m’arrêter quelques secondes ?",
+      "question": "Ce panneau m’interdit-il de m’arrêter quelques secondes :",
       "answers": [
         "Oui",
         "Non"
@@ -352,14 +352,14 @@
       "question": "",
       "statements": [
         {
-          "text": "Les radars sont souvent implantés dans des zones à risque ?",
+          "text": "Les radars sont souvent implantés dans des zones à risque :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Le danger peut être réel même s'il est difficile à percevoir ?",
+          "text": "Le danger peut être réel même s'il est difficile à percevoir :",
           "answers": [
             "Oui",
             "Non"
@@ -375,7 +375,7 @@
     {
       "id": 268,
       "scene": "scene_185.png",
-      "question": "Pour un excès de vitesse de 50 km/h ou plus au-dessus de la limite autorisée, je risque la perte de ?",
+      "question": "Pour un excès de vitesse de 50 km/h ou plus au-dessus de la limite autorisée, je risque la perte de :",
       "answers": [
         "3 points",
         "4 points",
@@ -433,7 +433,7 @@
     {
       "id": 14,
       "scene": "scene_018.jpg",
-      "question": "À partir de quel taux mesuré à l'éthylomètre un conducteur confirmé commet-il un délit et non plus une simple contravention ?",
+      "question": "À partir de quel taux mesuré à l'éthylomètre un conducteur confirmé commet-il un délit et non plus une simple contravention :",
       "answers": [
         "0,25 milligramme par litre d'air expiré",
         "0,40 milligramme par litre d'air expiré",
@@ -449,17 +449,17 @@
       "id": 26,
       "scene": "scene_010.jpg",
       "type": "statements",
-      "question": "En circulant avec des pneus usés",
+      "question": "En circulant avec des pneus usés :",
       "statements": [
         {
-          "text": "Je diminue la capacité du pneu à évacuer l'eau",
+          "text": "Je diminue la capacité du pneu à évacuer l'eau :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Je risque une perte de points sur mon permis",
+          "text": "Je risque une perte de points sur mon permis :",
           "answers": [
             "Oui",
             "Non"
@@ -502,7 +502,7 @@
     {
       "id": 44,
       "scene": "scene_020.png",
-      "question": "Posséder un constat amiable dans son véhicule est",
+      "question": "Posséder un constat amiable dans son véhicule est :",
       "answers": [
         "Obligatoire",
         "Facultatif"
@@ -515,7 +515,7 @@
     {
       "id": 200,
       "scene": "scene_135.png",
-      "question": "La solidarité entre motards se traduit-elle par une bienveillance en cas de panne ?",
+      "question": "La solidarité entre motards se traduit-elle par une bienveillance en cas de panne :",
       "answers": [
         "Oui",
         "Non"
@@ -541,7 +541,7 @@
     {
       "id": 140,
       "scene": "scene_083.png",
-      "question": "En cas de conduite après usage de cannabis, mon véhicule peut-il être immobilisé ?",
+      "question": "En cas de conduite après usage de cannabis, mon véhicule peut-il être immobilisé :",
       "answers": [
         "Oui",
         "Non"
@@ -583,7 +583,7 @@
     {
       "id": 75,
       "scene": "scene_038.png",
-      "question": "Sur cette autoroute, la vitesse maximale autorisée est de",
+      "question": "Sur cette autoroute, la vitesse maximale autorisée est de :",
       "answers": [
         "110 km/h",
         "130 km/h",
@@ -601,14 +601,14 @@
       "question": "Avant de prendre la route :",
       "statements": [
         {
-          "text": "Je contrôle le bon fonctionnement des feux avant ?",
+          "text": "Je contrôle le bon fonctionnement des feux avant :",
           "answers": [
             "Oui",
             "Non"
           ]
         },
         {
-          "text": "Je contrôle le bon fonctionnement des commodos ?",
+          "text": "Je contrôle le bon fonctionnement des commodos :",
           "answers": [
             "Oui",
             "Non"
@@ -624,7 +624,7 @@
     {
       "id": 108,
       "scene": "scene_064.png",
-      "question": "Dois-je céder le passage au piéton ?",
+      "question": "Dois-je céder le passage au piéton :",
       "answers": [
         "Oui",
         "Non"
@@ -637,7 +637,7 @@
     {
       "id": 40,
       "scene": "scene_015.jpg",
-      "question": "Un casque trop lourd peut-il provoquer des lésions cervicales ?",
+      "question": "Un casque trop lourd peut-il provoquer des lésions cervicales :",
       "answers": [
         "Oui, en cas de choc ou sur de longues distances",
         "Non, le casque ne peut pas blesser la nuque"
